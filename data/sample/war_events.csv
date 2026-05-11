@@ -1,0 +1,5 @@
+event_date,event_name,event_type,description
+2023-10-07,October 7 Attack,attack,Hamas launched a large-scale surprise attack from Gaza into southern Israel.
+2023-10-27,Ground Operation Begins,military_operation,Israel launched a ground operation inside Gaza.
+2023-11-24,First Hostage Release Deal Begins,hostage_deal,A temporary ceasefire and initial hostage release deal took effect.
+2023-12-01,Temporary Ceasefire Ends,ceasefire_end,The temporary ceasefire expired and fighting resumed.

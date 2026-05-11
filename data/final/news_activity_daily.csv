@@ -1,0 +1,3051 @@
+date,platform,source_name,metric_name,metric_value
+2023-09-01,telegram,GazaUpdates,telegram_message_count,30.0
+2023-09-01,telegram,GazaUpdates,telegram_total_views,138340.0
+2023-09-01,telegram,HomeFrontAlerts,telegram_message_count,27.0
+2023-09-01,telegram,HomeFrontAlerts,telegram_total_views,133188.0
+2023-09-01,telegram,HostageFamilies,telegram_message_count,13.0
+2023-09-01,telegram,HostageFamilies,telegram_total_views,66352.0
+2023-09-01,telegram,ILPoliticsChannel,telegram_message_count,16.0
+2023-09-01,telegram,ILPoliticsChannel,telegram_total_views,77398.0
+2023-09-01,telegram,InternationalIsrael,telegram_message_count,22.0
+2023-09-01,telegram,InternationalIsrael,telegram_total_views,96864.0
+2023-09-01,telegram,IsraelNewsLive,telegram_message_count,24.0
+2023-09-01,telegram,IsraelNewsLive,telegram_total_views,130752.0
+2023-09-02,telegram,GazaUpdates,telegram_message_count,30.0
+2023-09-02,telegram,GazaUpdates,telegram_total_views,148971.0
+2023-09-02,telegram,HomeFrontAlerts,telegram_message_count,21.0
+2023-09-02,telegram,HomeFrontAlerts,telegram_total_views,79742.0
+2023-09-02,telegram,HostageFamilies,telegram_message_count,4.0
+2023-09-02,telegram,HostageFamilies,telegram_total_views,22852.0
+2023-09-02,telegram,ILPoliticsChannel,telegram_message_count,20.0
+2023-09-02,telegram,ILPoliticsChannel,telegram_total_views,94532.0
+2023-09-02,telegram,InternationalIsrael,telegram_message_count,14.0
+2023-09-02,telegram,InternationalIsrael,telegram_total_views,60931.0
+2023-09-02,telegram,IsraelNewsLive,telegram_message_count,36.0
+2023-09-02,telegram,IsraelNewsLive,telegram_total_views,163383.0
+2023-09-03,telegram,GazaUpdates,telegram_message_count,25.0
+2023-09-03,telegram,GazaUpdates,telegram_total_views,132765.0
+2023-09-03,telegram,HomeFrontAlerts,telegram_message_count,32.0
+2023-09-03,telegram,HomeFrontAlerts,telegram_total_views,141614.0
+2023-09-03,telegram,HostageFamilies,telegram_message_count,11.0
+2023-09-03,telegram,HostageFamilies,telegram_total_views,46196.0
+2023-09-03,telegram,ILPoliticsChannel,telegram_message_count,15.0
+2023-09-03,telegram,ILPoliticsChannel,telegram_total_views,72105.0
+2023-09-03,telegram,InternationalIsrael,telegram_message_count,18.0
+2023-09-03,telegram,InternationalIsrael,telegram_total_views,81948.0
+2023-09-03,telegram,IsraelNewsLive,telegram_message_count,21.0
+2023-09-03,telegram,IsraelNewsLive,telegram_total_views,90946.0
+2023-09-04,telegram,GazaUpdates,telegram_message_count,32.0
+2023-09-04,telegram,GazaUpdates,telegram_total_views,135002.0
+2023-09-04,telegram,HomeFrontAlerts,telegram_message_count,23.0
+2023-09-04,telegram,HomeFrontAlerts,telegram_total_views,90124.0
+2023-09-04,telegram,HostageFamilies,telegram_message_count,3.0
+2023-09-04,telegram,HostageFamilies,telegram_total_views,5761.0
+2023-09-04,telegram,ILPoliticsChannel,telegram_message_count,12.0
+2023-09-04,telegram,ILPoliticsChannel,telegram_total_views,68126.0
+2023-09-04,telegram,InternationalIsrael,telegram_message_count,26.0
+2023-09-04,telegram,InternationalIsrael,telegram_total_views,103772.0
+2023-09-04,telegram,IsraelNewsLive,telegram_message_count,44.0
+2023-09-04,telegram,IsraelNewsLive,telegram_total_views,198226.0
+2023-09-05,telegram,GazaUpdates,telegram_message_count,28.0
+2023-09-05,telegram,GazaUpdates,telegram_total_views,124313.0
+2023-09-05,telegram,HomeFrontAlerts,telegram_message_count,18.0
+2023-09-05,telegram,HomeFrontAlerts,telegram_total_views,57445.0
+2023-09-05,telegram,HostageFamilies,telegram_message_count,12.0
+2023-09-05,telegram,HostageFamilies,telegram_total_views,44304.0
+2023-09-05,telegram,ILPoliticsChannel,telegram_message_count,24.0
+2023-09-05,telegram,ILPoliticsChannel,telegram_total_views,98447.0
+2023-09-05,telegram,InternationalIsrael,telegram_message_count,21.0
+2023-09-05,telegram,InternationalIsrael,telegram_total_views,99626.0
+2023-09-05,telegram,IsraelNewsLive,telegram_message_count,31.0
+2023-09-05,telegram,IsraelNewsLive,telegram_total_views,121215.0
+2023-09-06,telegram,GazaUpdates,telegram_message_count,21.0
+2023-09-06,telegram,GazaUpdates,telegram_total_views,117152.0
+2023-09-06,telegram,HomeFrontAlerts,telegram_message_count,27.0
+2023-09-06,telegram,HomeFrontAlerts,telegram_total_views,112164.0
+2023-09-06,telegram,HostageFamilies,telegram_message_count,11.0
+2023-09-06,telegram,HostageFamilies,telegram_total_views,48149.0
+2023-09-06,telegram,ILPoliticsChannel,telegram_message_count,16.0
+2023-09-06,telegram,ILPoliticsChannel,telegram_total_views,85551.0
+2023-09-06,telegram,InternationalIsrael,telegram_message_count,21.0
+2023-09-06,telegram,InternationalIsrael,telegram_total_views,108254.0
+2023-09-06,telegram,IsraelNewsLive,telegram_message_count,40.0
+2023-09-06,telegram,IsraelNewsLive,telegram_total_views,197251.0
+2023-09-07,telegram,GazaUpdates,telegram_message_count,25.0
+2023-09-07,telegram,GazaUpdates,telegram_total_views,133879.0
+2023-09-07,telegram,HomeFrontAlerts,telegram_message_count,28.0
+2023-09-07,telegram,HomeFrontAlerts,telegram_total_views,120127.0
+2023-09-07,telegram,HostageFamilies,telegram_message_count,15.0
+2023-09-07,telegram,HostageFamilies,telegram_total_views,73488.0
+2023-09-07,telegram,ILPoliticsChannel,telegram_message_count,21.0
+2023-09-07,telegram,ILPoliticsChannel,telegram_total_views,111694.0
+2023-09-07,telegram,InternationalIsrael,telegram_message_count,20.0
+2023-09-07,telegram,InternationalIsrael,telegram_total_views,107938.0
+2023-09-07,telegram,IsraelNewsLive,telegram_message_count,28.0
+2023-09-07,telegram,IsraelNewsLive,telegram_total_views,144706.0
+2023-09-08,telegram,GazaUpdates,telegram_message_count,26.0
+2023-09-08,telegram,GazaUpdates,telegram_total_views,131424.0
+2023-09-08,telegram,HomeFrontAlerts,telegram_message_count,23.0
+2023-09-08,telegram,HomeFrontAlerts,telegram_total_views,107930.0
+2023-09-08,telegram,HostageFamilies,telegram_message_count,10.0
+2023-09-08,telegram,HostageFamilies,telegram_total_views,47159.0
+2023-09-08,telegram,ILPoliticsChannel,telegram_message_count,16.0
+2023-09-08,telegram,ILPoliticsChannel,telegram_total_views,70923.0
+2023-09-08,telegram,InternationalIsrael,telegram_message_count,19.0
+2023-09-08,telegram,InternationalIsrael,telegram_total_views,68653.0
+2023-09-08,telegram,IsraelNewsLive,telegram_message_count,29.0
+2023-09-08,telegram,IsraelNewsLive,telegram_total_views,128257.0
+2023-09-09,telegram,GazaUpdates,telegram_message_count,19.0
+2023-09-09,telegram,GazaUpdates,telegram_total_views,92540.0
+2023-09-09,telegram,HomeFrontAlerts,telegram_message_count,22.0
+2023-09-09,telegram,HomeFrontAlerts,telegram_total_views,92848.0
+2023-09-09,telegram,HostageFamilies,telegram_message_count,12.0
+2023-09-09,telegram,HostageFamilies,telegram_total_views,37849.0
+2023-09-09,telegram,ILPoliticsChannel,telegram_message_count,12.0
+2023-09-09,telegram,ILPoliticsChannel,telegram_total_views,51879.0
+2023-09-09,telegram,InternationalIsrael,telegram_message_count,25.0
+2023-09-09,telegram,InternationalIsrael,telegram_total_views,105153.0
+2023-09-09,telegram,IsraelNewsLive,telegram_message_count,33.0
+2023-09-09,telegram,IsraelNewsLive,telegram_total_views,147244.0
+2023-09-10,telegram,GazaUpdates,telegram_message_count,28.0
+2023-09-10,telegram,GazaUpdates,telegram_total_views,144816.0
+2023-09-10,telegram,HomeFrontAlerts,telegram_message_count,27.0
+2023-09-10,telegram,HomeFrontAlerts,telegram_total_views,121772.0
+2023-09-10,telegram,HostageFamilies,telegram_message_count,9.0
+2023-09-10,telegram,HostageFamilies,telegram_total_views,46132.0
+2023-09-10,telegram,ILPoliticsChannel,telegram_message_count,19.0
+2023-09-10,telegram,ILPoliticsChannel,telegram_total_views,94040.0
+2023-09-10,telegram,InternationalIsrael,telegram_message_count,12.0
+2023-09-10,telegram,InternationalIsrael,telegram_total_views,50768.0
+2023-09-10,telegram,IsraelNewsLive,telegram_message_count,20.0
+2023-09-10,telegram,IsraelNewsLive,telegram_total_views,113347.0
+2023-09-11,telegram,GazaUpdates,telegram_message_count,27.0
+2023-09-11,telegram,GazaUpdates,telegram_total_views,165149.0
+2023-09-11,telegram,HomeFrontAlerts,telegram_message_count,26.0
+2023-09-11,telegram,HomeFrontAlerts,telegram_total_views,112184.0
+2023-09-11,telegram,HostageFamilies,telegram_message_count,13.0
+2023-09-11,telegram,HostageFamilies,telegram_total_views,55045.0
+2023-09-11,telegram,ILPoliticsChannel,telegram_message_count,15.0
+2023-09-11,telegram,ILPoliticsChannel,telegram_total_views,99353.0
+2023-09-11,telegram,InternationalIsrael,telegram_message_count,14.0
+2023-09-11,telegram,InternationalIsrael,telegram_total_views,57079.0
+2023-09-11,telegram,IsraelNewsLive,telegram_message_count,32.0
+2023-09-11,telegram,IsraelNewsLive,telegram_total_views,131930.0
+2023-09-12,telegram,GazaUpdates,telegram_message_count,33.0
+2023-09-12,telegram,GazaUpdates,telegram_total_views,167380.0
+2023-09-12,telegram,HomeFrontAlerts,telegram_message_count,18.0
+2023-09-12,telegram,HomeFrontAlerts,telegram_total_views,79029.0
+2023-09-12,telegram,HostageFamilies,telegram_message_count,20.0
+2023-09-12,telegram,HostageFamilies,telegram_total_views,102690.0
+2023-09-12,telegram,ILPoliticsChannel,telegram_message_count,13.0
+2023-09-12,telegram,ILPoliticsChannel,telegram_total_views,67244.0
+2023-09-12,telegram,InternationalIsrael,telegram_message_count,26.0
+2023-09-12,telegram,InternationalIsrael,telegram_total_views,118453.0
+2023-09-12,telegram,IsraelNewsLive,telegram_message_count,34.0
+2023-09-12,telegram,IsraelNewsLive,telegram_total_views,163068.0
+2023-09-13,telegram,GazaUpdates,telegram_message_count,35.0
+2023-09-13,telegram,GazaUpdates,telegram_total_views,172788.0
+2023-09-13,telegram,HomeFrontAlerts,telegram_message_count,13.0
+2023-09-13,telegram,HomeFrontAlerts,telegram_total_views,49153.0
+2023-09-13,telegram,HostageFamilies,telegram_message_count,14.0
+2023-09-13,telegram,HostageFamilies,telegram_total_views,63880.0
+2023-09-13,telegram,ILPoliticsChannel,telegram_message_count,14.0
+2023-09-13,telegram,ILPoliticsChannel,telegram_total_views,48213.0
+2023-09-13,telegram,InternationalIsrael,telegram_message_count,15.0
+2023-09-13,telegram,InternationalIsrael,telegram_total_views,55254.0
+2023-09-13,telegram,IsraelNewsLive,telegram_message_count,44.0
+2023-09-13,telegram,IsraelNewsLive,telegram_total_views,205353.0
+2023-09-14,telegram,GazaUpdates,telegram_message_count,30.0
+2023-09-14,telegram,GazaUpdates,telegram_total_views,150714.0
+2023-09-14,telegram,HomeFrontAlerts,telegram_message_count,18.0
+2023-09-14,telegram,HomeFrontAlerts,telegram_total_views,82135.0
+2023-09-14,telegram,HostageFamilies,telegram_message_count,11.0
+2023-09-14,telegram,HostageFamilies,telegram_total_views,41112.0
+2023-09-14,telegram,ILPoliticsChannel,telegram_message_count,11.0
+2023-09-14,telegram,ILPoliticsChannel,telegram_total_views,61191.0
+2023-09-14,telegram,InternationalIsrael,telegram_message_count,28.0
+2023-09-14,telegram,InternationalIsrael,telegram_total_views,118205.0
+2023-09-14,telegram,IsraelNewsLive,telegram_message_count,27.0
+2023-09-14,telegram,IsraelNewsLive,telegram_total_views,143622.0
+2023-09-15,telegram,GazaUpdates,telegram_message_count,30.0
+2023-09-15,telegram,GazaUpdates,telegram_total_views,131129.0
+2023-09-15,telegram,HomeFrontAlerts,telegram_message_count,18.0
+2023-09-15,telegram,HomeFrontAlerts,telegram_total_views,94486.0
+2023-09-15,telegram,HostageFamilies,telegram_message_count,12.0
+2023-09-15,telegram,HostageFamilies,telegram_total_views,51927.0
+2023-09-15,telegram,ILPoliticsChannel,telegram_message_count,22.0
+2023-09-15,telegram,ILPoliticsChannel,telegram_total_views,90772.0
+2023-09-15,telegram,InternationalIsrael,telegram_message_count,23.0
+2023-09-15,telegram,InternationalIsrael,telegram_total_views,87815.0
+2023-09-15,telegram,IsraelNewsLive,telegram_message_count,39.0
+2023-09-15,telegram,IsraelNewsLive,telegram_total_views,162356.0
+2023-09-16,telegram,GazaUpdates,telegram_message_count,22.0
+2023-09-16,telegram,GazaUpdates,telegram_total_views,107807.0
+2023-09-16,telegram,HomeFrontAlerts,telegram_message_count,15.0
+2023-09-16,telegram,HomeFrontAlerts,telegram_total_views,73595.0
+2023-09-16,telegram,HostageFamilies,telegram_message_count,12.0
+2023-09-16,telegram,HostageFamilies,telegram_total_views,50311.0
+2023-09-16,telegram,ILPoliticsChannel,telegram_message_count,22.0
+2023-09-16,telegram,ILPoliticsChannel,telegram_total_views,109571.0
+2023-09-16,telegram,InternationalIsrael,telegram_message_count,12.0
+2023-09-16,telegram,InternationalIsrael,telegram_total_views,44492.0
+2023-09-16,telegram,IsraelNewsLive,telegram_message_count,30.0
+2023-09-16,telegram,IsraelNewsLive,telegram_total_views,107453.0
+2023-09-17,telegram,GazaUpdates,telegram_message_count,31.0
+2023-09-17,telegram,GazaUpdates,telegram_total_views,123944.0
+2023-09-17,telegram,HomeFrontAlerts,telegram_message_count,19.0
+2023-09-17,telegram,HomeFrontAlerts,telegram_total_views,87428.0
+2023-09-17,telegram,HostageFamilies,telegram_message_count,7.0
+2023-09-17,telegram,HostageFamilies,telegram_total_views,32883.0
+2023-09-17,telegram,ILPoliticsChannel,telegram_message_count,13.0
+2023-09-17,telegram,ILPoliticsChannel,telegram_total_views,51369.0
+2023-09-17,telegram,InternationalIsrael,telegram_message_count,10.0
+2023-09-17,telegram,InternationalIsrael,telegram_total_views,43631.0
+2023-09-17,telegram,IsraelNewsLive,telegram_message_count,32.0
+2023-09-17,telegram,IsraelNewsLive,telegram_total_views,153878.0
+2023-09-18,telegram,GazaUpdates,telegram_message_count,24.0
+2023-09-18,telegram,GazaUpdates,telegram_total_views,107879.0
+2023-09-18,telegram,HomeFrontAlerts,telegram_message_count,18.0
+2023-09-18,telegram,HomeFrontAlerts,telegram_total_views,57253.0
+2023-09-18,telegram,HostageFamilies,telegram_message_count,9.0
+2023-09-18,telegram,HostageFamilies,telegram_total_views,38636.0
+2023-09-18,telegram,ILPoliticsChannel,telegram_message_count,14.0
+2023-09-18,telegram,ILPoliticsChannel,telegram_total_views,75592.0
+2023-09-18,telegram,InternationalIsrael,telegram_message_count,19.0
+2023-09-18,telegram,InternationalIsrael,telegram_total_views,105538.0
+2023-09-18,telegram,IsraelNewsLive,telegram_message_count,38.0
+2023-09-18,telegram,IsraelNewsLive,telegram_total_views,176555.0
+2023-09-19,telegram,GazaUpdates,telegram_message_count,22.0
+2023-09-19,telegram,GazaUpdates,telegram_total_views,85429.0
+2023-09-19,telegram,HomeFrontAlerts,telegram_message_count,23.0
+2023-09-19,telegram,HomeFrontAlerts,telegram_total_views,116176.0
+2023-09-19,telegram,HostageFamilies,telegram_message_count,7.0
+2023-09-19,telegram,HostageFamilies,telegram_total_views,19034.0
+2023-09-19,telegram,ILPoliticsChannel,telegram_message_count,18.0
+2023-09-19,telegram,ILPoliticsChannel,telegram_total_views,106686.0
+2023-09-19,telegram,InternationalIsrael,telegram_message_count,17.0
+2023-09-19,telegram,InternationalIsrael,telegram_total_views,83766.0
+2023-09-19,telegram,IsraelNewsLive,telegram_message_count,40.0
+2023-09-19,telegram,IsraelNewsLive,telegram_total_views,183106.0
+2023-09-20,telegram,GazaUpdates,telegram_message_count,30.0
+2023-09-20,telegram,GazaUpdates,telegram_total_views,143453.0
+2023-09-20,telegram,HomeFrontAlerts,telegram_message_count,19.0
+2023-09-20,telegram,HomeFrontAlerts,telegram_total_views,80317.0
+2023-09-20,telegram,HostageFamilies,telegram_message_count,13.0
+2023-09-20,telegram,HostageFamilies,telegram_total_views,72653.0
+2023-09-20,telegram,ILPoliticsChannel,telegram_message_count,20.0
+2023-09-20,telegram,ILPoliticsChannel,telegram_total_views,95321.0
+2023-09-20,telegram,InternationalIsrael,telegram_message_count,14.0
+2023-09-20,telegram,InternationalIsrael,telegram_total_views,53529.0
+2023-09-20,telegram,IsraelNewsLive,telegram_message_count,29.0
+2023-09-20,telegram,IsraelNewsLive,telegram_total_views,144659.0
+2023-09-21,telegram,GazaUpdates,telegram_message_count,20.0
+2023-09-21,telegram,GazaUpdates,telegram_total_views,73913.0
+2023-09-21,telegram,HomeFrontAlerts,telegram_message_count,21.0
+2023-09-21,telegram,HomeFrontAlerts,telegram_total_views,95098.0
+2023-09-21,telegram,HostageFamilies,telegram_message_count,10.0
+2023-09-21,telegram,HostageFamilies,telegram_total_views,42270.0
+2023-09-21,telegram,ILPoliticsChannel,telegram_message_count,15.0
+2023-09-21,telegram,ILPoliticsChannel,telegram_total_views,72773.0
+2023-09-21,telegram,InternationalIsrael,telegram_message_count,19.0
+2023-09-21,telegram,InternationalIsrael,telegram_total_views,81903.0
+2023-09-21,telegram,IsraelNewsLive,telegram_message_count,34.0
+2023-09-21,telegram,IsraelNewsLive,telegram_total_views,169081.0
+2023-09-22,telegram,GazaUpdates,telegram_message_count,28.0
+2023-09-22,telegram,GazaUpdates,telegram_total_views,137635.0
+2023-09-22,telegram,HomeFrontAlerts,telegram_message_count,20.0
+2023-09-22,telegram,HomeFrontAlerts,telegram_total_views,78171.0
+2023-09-22,telegram,HostageFamilies,telegram_message_count,13.0
+2023-09-22,telegram,HostageFamilies,telegram_total_views,65724.0
+2023-09-22,telegram,ILPoliticsChannel,telegram_message_count,21.0
+2023-09-22,telegram,ILPoliticsChannel,telegram_total_views,115720.0
+2023-09-22,telegram,InternationalIsrael,telegram_message_count,25.0
+2023-09-22,telegram,InternationalIsrael,telegram_total_views,131727.0
+2023-09-22,telegram,IsraelNewsLive,telegram_message_count,30.0
+2023-09-22,telegram,IsraelNewsLive,telegram_total_views,149323.0
+2023-09-23,telegram,GazaUpdates,telegram_message_count,21.0
+2023-09-23,telegram,GazaUpdates,telegram_total_views,121067.0
+2023-09-23,telegram,HomeFrontAlerts,telegram_message_count,15.0
+2023-09-23,telegram,HomeFrontAlerts,telegram_total_views,55719.0
+2023-09-23,telegram,HostageFamilies,telegram_message_count,13.0
+2023-09-23,telegram,HostageFamilies,telegram_total_views,77398.0
+2023-09-23,telegram,ILPoliticsChannel,telegram_message_count,17.0
+2023-09-23,telegram,ILPoliticsChannel,telegram_total_views,88547.0
+2023-09-23,telegram,InternationalIsrael,telegram_message_count,20.0
+2023-09-23,telegram,InternationalIsrael,telegram_total_views,91181.0
+2023-09-23,telegram,IsraelNewsLive,telegram_message_count,27.0
+2023-09-23,telegram,IsraelNewsLive,telegram_total_views,152241.0
+2023-09-24,telegram,GazaUpdates,telegram_message_count,35.0
+2023-09-24,telegram,GazaUpdates,telegram_total_views,182904.0
+2023-09-24,telegram,HomeFrontAlerts,telegram_message_count,27.0
+2023-09-24,telegram,HomeFrontAlerts,telegram_total_views,112896.0
+2023-09-24,telegram,HostageFamilies,telegram_message_count,14.0
+2023-09-24,telegram,HostageFamilies,telegram_total_views,70003.0
+2023-09-24,telegram,ILPoliticsChannel,telegram_message_count,16.0
+2023-09-24,telegram,ILPoliticsChannel,telegram_total_views,72257.0
+2023-09-24,telegram,InternationalIsrael,telegram_message_count,26.0
+2023-09-24,telegram,InternationalIsrael,telegram_total_views,124265.0
+2023-09-24,telegram,IsraelNewsLive,telegram_message_count,28.0
+2023-09-24,telegram,IsraelNewsLive,telegram_total_views,136501.0
+2023-09-25,telegram,GazaUpdates,telegram_message_count,32.0
+2023-09-25,telegram,GazaUpdates,telegram_total_views,145317.0
+2023-09-25,telegram,HomeFrontAlerts,telegram_message_count,22.0
+2023-09-25,telegram,HomeFrontAlerts,telegram_total_views,83897.0
+2023-09-25,telegram,HostageFamilies,telegram_message_count,12.0
+2023-09-25,telegram,HostageFamilies,telegram_total_views,71350.0
+2023-09-25,telegram,ILPoliticsChannel,telegram_message_count,15.0
+2023-09-25,telegram,ILPoliticsChannel,telegram_total_views,62529.0
+2023-09-25,telegram,InternationalIsrael,telegram_message_count,14.0
+2023-09-25,telegram,InternationalIsrael,telegram_total_views,75864.0
+2023-09-25,telegram,IsraelNewsLive,telegram_message_count,39.0
+2023-09-25,telegram,IsraelNewsLive,telegram_total_views,188525.0
+2023-09-26,telegram,GazaUpdates,telegram_message_count,34.0
+2023-09-26,telegram,GazaUpdates,telegram_total_views,178593.0
+2023-09-26,telegram,HomeFrontAlerts,telegram_message_count,23.0
+2023-09-26,telegram,HomeFrontAlerts,telegram_total_views,99651.0
+2023-09-26,telegram,HostageFamilies,telegram_message_count,11.0
+2023-09-26,telegram,HostageFamilies,telegram_total_views,57318.0
+2023-09-26,telegram,ILPoliticsChannel,telegram_message_count,5.0
+2023-09-26,telegram,ILPoliticsChannel,telegram_total_views,22977.0
+2023-09-26,telegram,InternationalIsrael,telegram_message_count,17.0
+2023-09-26,telegram,InternationalIsrael,telegram_total_views,87707.0
+2023-09-26,telegram,IsraelNewsLive,telegram_message_count,27.0
+2023-09-26,telegram,IsraelNewsLive,telegram_total_views,117226.0
+2023-09-27,telegram,GazaUpdates,telegram_message_count,26.0
+2023-09-27,telegram,GazaUpdates,telegram_total_views,116140.0
+2023-09-27,telegram,HomeFrontAlerts,telegram_message_count,23.0
+2023-09-27,telegram,HomeFrontAlerts,telegram_total_views,93658.0
+2023-09-27,telegram,HostageFamilies,telegram_message_count,6.0
+2023-09-27,telegram,HostageFamilies,telegram_total_views,21928.0
+2023-09-27,telegram,ILPoliticsChannel,telegram_message_count,17.0
+2023-09-27,telegram,ILPoliticsChannel,telegram_total_views,76744.0
+2023-09-27,telegram,InternationalIsrael,telegram_message_count,20.0
+2023-09-27,telegram,InternationalIsrael,telegram_total_views,89172.0
+2023-09-27,telegram,IsraelNewsLive,telegram_message_count,42.0
+2023-09-27,telegram,IsraelNewsLive,telegram_total_views,192920.0
+2023-09-28,telegram,GazaUpdates,telegram_message_count,34.0
+2023-09-28,telegram,GazaUpdates,telegram_total_views,166452.0
+2023-09-28,telegram,HomeFrontAlerts,telegram_message_count,15.0
+2023-09-28,telegram,HomeFrontAlerts,telegram_total_views,58962.0
+2023-09-28,telegram,HostageFamilies,telegram_message_count,7.0
+2023-09-28,telegram,HostageFamilies,telegram_total_views,35082.0
+2023-09-28,telegram,ILPoliticsChannel,telegram_message_count,12.0
+2023-09-28,telegram,ILPoliticsChannel,telegram_total_views,34152.0
+2023-09-28,telegram,InternationalIsrael,telegram_message_count,16.0
+2023-09-28,telegram,InternationalIsrael,telegram_total_views,62853.0
+2023-09-28,telegram,IsraelNewsLive,telegram_message_count,28.0
+2023-09-28,telegram,IsraelNewsLive,telegram_total_views,111395.0
+2023-09-29,telegram,GazaUpdates,telegram_message_count,16.0
+2023-09-29,telegram,GazaUpdates,telegram_total_views,68866.0
+2023-09-29,telegram,HomeFrontAlerts,telegram_message_count,15.0
+2023-09-29,telegram,HomeFrontAlerts,telegram_total_views,67140.0
+2023-09-29,telegram,HostageFamilies,telegram_message_count,5.0
+2023-09-29,telegram,HostageFamilies,telegram_total_views,14747.0
+2023-09-29,telegram,ILPoliticsChannel,telegram_message_count,25.0
+2023-09-29,telegram,ILPoliticsChannel,telegram_total_views,115219.0
+2023-09-29,telegram,InternationalIsrael,telegram_message_count,14.0
+2023-09-29,telegram,InternationalIsrael,telegram_total_views,73465.0
+2023-09-29,telegram,IsraelNewsLive,telegram_message_count,40.0
+2023-09-29,telegram,IsraelNewsLive,telegram_total_views,148114.0
+2023-09-30,telegram,GazaUpdates,telegram_message_count,24.0
+2023-09-30,telegram,GazaUpdates,telegram_total_views,114123.0
+2023-09-30,telegram,HomeFrontAlerts,telegram_message_count,33.0
+2023-09-30,telegram,HomeFrontAlerts,telegram_total_views,113550.0
+2023-09-30,telegram,HostageFamilies,telegram_message_count,14.0
+2023-09-30,telegram,HostageFamilies,telegram_total_views,67276.0
+2023-09-30,telegram,ILPoliticsChannel,telegram_message_count,18.0
+2023-09-30,telegram,ILPoliticsChannel,telegram_total_views,91588.0
+2023-09-30,telegram,InternationalIsrael,telegram_message_count,20.0
+2023-09-30,telegram,InternationalIsrael,telegram_total_views,78643.0
+2023-09-30,telegram,IsraelNewsLive,telegram_message_count,32.0
+2023-09-30,telegram,IsraelNewsLive,telegram_total_views,134421.0
+2023-10-01,telegram,GazaUpdates,telegram_message_count,24.0
+2023-10-01,telegram,GazaUpdates,telegram_total_views,90462.0
+2023-10-01,telegram,HomeFrontAlerts,telegram_message_count,21.0
+2023-10-01,telegram,HomeFrontAlerts,telegram_total_views,107434.0
+2023-10-01,telegram,HostageFamilies,telegram_message_count,5.0
+2023-10-01,telegram,HostageFamilies,telegram_total_views,24066.0
+2023-10-01,telegram,ILPoliticsChannel,telegram_message_count,18.0
+2023-10-01,telegram,ILPoliticsChannel,telegram_total_views,92601.0
+2023-10-01,telegram,InternationalIsrael,telegram_message_count,26.0
+2023-10-01,telegram,InternationalIsrael,telegram_total_views,143168.0
+2023-10-01,telegram,IsraelNewsLive,telegram_message_count,37.0
+2023-10-01,telegram,IsraelNewsLive,telegram_total_views,178398.0
+2023-10-02,telegram,GazaUpdates,telegram_message_count,33.0
+2023-10-02,telegram,GazaUpdates,telegram_total_views,167916.0
+2023-10-02,telegram,HomeFrontAlerts,telegram_message_count,23.0
+2023-10-02,telegram,HomeFrontAlerts,telegram_total_views,105897.0
+2023-10-02,telegram,HostageFamilies,telegram_message_count,6.0
+2023-10-02,telegram,HostageFamilies,telegram_total_views,37966.0
+2023-10-02,telegram,ILPoliticsChannel,telegram_message_count,13.0
+2023-10-02,telegram,ILPoliticsChannel,telegram_total_views,80746.0
+2023-10-02,telegram,InternationalIsrael,telegram_message_count,25.0
+2023-10-02,telegram,InternationalIsrael,telegram_total_views,111817.0
+2023-10-02,telegram,IsraelNewsLive,telegram_message_count,37.0
+2023-10-02,telegram,IsraelNewsLive,telegram_total_views,164068.0
+2023-10-03,telegram,GazaUpdates,telegram_message_count,22.0
+2023-10-03,telegram,GazaUpdates,telegram_total_views,101710.0
+2023-10-03,telegram,HomeFrontAlerts,telegram_message_count,26.0
+2023-10-03,telegram,HomeFrontAlerts,telegram_total_views,112234.0
+2023-10-03,telegram,HostageFamilies,telegram_message_count,8.0
+2023-10-03,telegram,HostageFamilies,telegram_total_views,37464.0
+2023-10-03,telegram,ILPoliticsChannel,telegram_message_count,18.0
+2023-10-03,telegram,ILPoliticsChannel,telegram_total_views,86559.0
+2023-10-03,telegram,InternationalIsrael,telegram_message_count,23.0
+2023-10-03,telegram,InternationalIsrael,telegram_total_views,91927.0
+2023-10-03,telegram,IsraelNewsLive,telegram_message_count,25.0
+2023-10-03,telegram,IsraelNewsLive,telegram_total_views,104969.0
+2023-10-04,telegram,GazaUpdates,telegram_message_count,22.0
+2023-10-04,telegram,GazaUpdates,telegram_total_views,93736.0
+2023-10-04,telegram,HomeFrontAlerts,telegram_message_count,17.0
+2023-10-04,telegram,HomeFrontAlerts,telegram_total_views,71025.0
+2023-10-04,telegram,HostageFamilies,telegram_message_count,9.0
+2023-10-04,telegram,HostageFamilies,telegram_total_views,52299.0
+2023-10-04,telegram,ILPoliticsChannel,telegram_message_count,23.0
+2023-10-04,telegram,ILPoliticsChannel,telegram_total_views,99263.0
+2023-10-04,telegram,InternationalIsrael,telegram_message_count,21.0
+2023-10-04,telegram,InternationalIsrael,telegram_total_views,100931.0
+2023-10-04,telegram,IsraelNewsLive,telegram_message_count,31.0
+2023-10-04,telegram,IsraelNewsLive,telegram_total_views,147622.0
+2023-10-05,telegram,GazaUpdates,telegram_message_count,31.0
+2023-10-05,telegram,GazaUpdates,telegram_total_views,113639.0
+2023-10-05,telegram,HomeFrontAlerts,telegram_message_count,22.0
+2023-10-05,telegram,HomeFrontAlerts,telegram_total_views,119534.0
+2023-10-05,telegram,HostageFamilies,telegram_message_count,7.0
+2023-10-05,telegram,HostageFamilies,telegram_total_views,43275.0
+2023-10-05,telegram,ILPoliticsChannel,telegram_message_count,16.0
+2023-10-05,telegram,ILPoliticsChannel,telegram_total_views,72401.0
+2023-10-05,telegram,InternationalIsrael,telegram_message_count,13.0
+2023-10-05,telegram,InternationalIsrael,telegram_total_views,58808.0
+2023-10-05,telegram,IsraelNewsLive,telegram_message_count,37.0
+2023-10-05,telegram,IsraelNewsLive,telegram_total_views,177411.0
+2023-10-06,telegram,GazaUpdates,telegram_message_count,377.0
+2023-10-06,telegram,GazaUpdates,telegram_total_views,22734406.0
+2023-10-06,telegram,HomeFrontAlerts,telegram_message_count,334.0
+2023-10-06,telegram,HomeFrontAlerts,telegram_total_views,21199083.0
+2023-10-06,telegram,HostageFamilies,telegram_message_count,141.0
+2023-10-06,telegram,HostageFamilies,telegram_total_views,9466615.0
+2023-10-06,telegram,ILPoliticsChannel,telegram_message_count,230.0
+2023-10-06,telegram,ILPoliticsChannel,telegram_total_views,15177674.0
+2023-10-06,telegram,InternationalIsrael,telegram_message_count,276.0
+2023-10-06,telegram,InternationalIsrael,telegram_total_views,17599256.0
+2023-10-06,telegram,IsraelNewsLive,telegram_message_count,442.0
+2023-10-06,telegram,IsraelNewsLive,telegram_total_views,27516856.0
+2023-10-07,telegram,GazaUpdates,telegram_message_count,377.0
+2023-10-07,telegram,GazaUpdates,telegram_total_views,25029204.0
+2023-10-07,telegram,HomeFrontAlerts,telegram_message_count,321.0
+2023-10-07,telegram,HomeFrontAlerts,telegram_total_views,20064194.0
+2023-10-07,telegram,HostageFamilies,telegram_message_count,141.0
+2023-10-07,telegram,HostageFamilies,telegram_total_views,9318338.0
+2023-10-07,telegram,ILPoliticsChannel,telegram_message_count,250.0
+2023-10-07,telegram,ILPoliticsChannel,telegram_total_views,15476359.0
+2023-10-07,telegram,InternationalIsrael,telegram_message_count,263.0
+2023-10-07,telegram,InternationalIsrael,telegram_total_views,17950223.0
+2023-10-07,telegram,IsraelNewsLive,telegram_message_count,448.0
+2023-10-07,telegram,IsraelNewsLive,telegram_total_views,27250754.0
+2023-10-08,telegram,GazaUpdates,telegram_message_count,296.0
+2023-10-08,telegram,GazaUpdates,telegram_total_views,13854184.0
+2023-10-08,telegram,HomeFrontAlerts,telegram_message_count,224.0
+2023-10-08,telegram,HomeFrontAlerts,telegram_total_views,10404387.0
+2023-10-08,telegram,HostageFamilies,telegram_message_count,94.0
+2023-10-08,telegram,HostageFamilies,telegram_total_views,3941911.0
+2023-10-08,telegram,ILPoliticsChannel,telegram_message_count,160.0
+2023-10-08,telegram,ILPoliticsChannel,telegram_total_views,8080349.0
+2023-10-08,telegram,InternationalIsrael,telegram_message_count,201.0
+2023-10-08,telegram,InternationalIsrael,telegram_total_views,8716341.0
+2023-10-08,telegram,IsraelNewsLive,telegram_message_count,335.0
+2023-10-08,telegram,IsraelNewsLive,telegram_total_views,14852444.0
+2023-10-09,telegram,GazaUpdates,telegram_message_count,201.0
+2023-10-09,telegram,GazaUpdates,telegram_total_views,6392196.0
+2023-10-09,telegram,HomeFrontAlerts,telegram_message_count,155.0
+2023-10-09,telegram,HomeFrontAlerts,telegram_total_views,4728062.0
+2023-10-09,telegram,HostageFamilies,telegram_message_count,67.0
+2023-10-09,telegram,HostageFamilies,telegram_total_views,1978727.0
+2023-10-09,telegram,ILPoliticsChannel,telegram_message_count,113.0
+2023-10-09,telegram,ILPoliticsChannel,telegram_total_views,3803835.0
+2023-10-09,telegram,InternationalIsrael,telegram_message_count,145.0
+2023-10-09,telegram,InternationalIsrael,telegram_total_views,4633327.0
+2023-10-09,telegram,IsraelNewsLive,telegram_message_count,223.0
+2023-10-09,telegram,IsraelNewsLive,telegram_total_views,7186996.0
+2023-10-10,telegram,GazaUpdates,telegram_message_count,129.0
+2023-10-10,telegram,GazaUpdates,telegram_total_views,3118571.0
+2023-10-10,telegram,HomeFrontAlerts,telegram_message_count,98.0
+2023-10-10,telegram,HomeFrontAlerts,telegram_total_views,2244019.0
+2023-10-10,telegram,HostageFamilies,telegram_message_count,65.0
+2023-10-10,telegram,HostageFamilies,telegram_total_views,1359954.0
+2023-10-10,telegram,ILPoliticsChannel,telegram_message_count,80.0
+2023-10-10,telegram,ILPoliticsChannel,telegram_total_views,1741924.0
+2023-10-10,telegram,InternationalIsrael,telegram_message_count,90.0
+2023-10-10,telegram,InternationalIsrael,telegram_total_views,1983799.0
+2023-10-10,telegram,IsraelNewsLive,telegram_message_count,162.0
+2023-10-10,telegram,IsraelNewsLive,telegram_total_views,3611832.0
+2023-10-11,telegram,GazaUpdates,telegram_message_count,99.0
+2023-10-11,telegram,GazaUpdates,telegram_total_views,1595694.0
+2023-10-11,telegram,HomeFrontAlerts,telegram_message_count,93.0
+2023-10-11,telegram,HomeFrontAlerts,telegram_total_views,1475703.0
+2023-10-11,telegram,HostageFamilies,telegram_message_count,37.0
+2023-10-11,telegram,HostageFamilies,telegram_total_views,593879.0
+2023-10-11,telegram,ILPoliticsChannel,telegram_message_count,64.0
+2023-10-11,telegram,ILPoliticsChannel,telegram_total_views,1004521.0
+2023-10-11,telegram,InternationalIsrael,telegram_message_count,78.0
+2023-10-11,telegram,InternationalIsrael,telegram_total_views,1252153.0
+2023-10-11,telegram,IsraelNewsLive,telegram_message_count,117.0
+2023-10-11,telegram,IsraelNewsLive,telegram_total_views,1967215.0
+2023-10-12,telegram,GazaUpdates,telegram_message_count,67.0
+2023-10-12,telegram,GazaUpdates,telegram_total_views,745228.0
+2023-10-12,telegram,HomeFrontAlerts,telegram_message_count,55.0
+2023-10-12,telegram,HomeFrontAlerts,telegram_total_views,640968.0
+2023-10-12,telegram,HostageFamilies,telegram_message_count,21.0
+2023-10-12,telegram,HostageFamilies,telegram_total_views,247414.0
+2023-10-12,telegram,ILPoliticsChannel,telegram_message_count,43.0
+2023-10-12,telegram,ILPoliticsChannel,telegram_total_views,494961.0
+2023-10-12,telegram,InternationalIsrael,telegram_message_count,47.0
+2023-10-12,telegram,InternationalIsrael,telegram_total_views,577629.0
+2023-10-12,telegram,IsraelNewsLive,telegram_message_count,91.0
+2023-10-12,telegram,IsraelNewsLive,telegram_total_views,1015853.0
+2023-10-13,telegram,GazaUpdates,telegram_message_count,46.0
+2023-10-13,telegram,GazaUpdates,telegram_total_views,444747.0
+2023-10-13,telegram,HomeFrontAlerts,telegram_message_count,41.0
+2023-10-13,telegram,HomeFrontAlerts,telegram_total_views,372641.0
+2023-10-13,telegram,HostageFamilies,telegram_message_count,17.0
+2023-10-13,telegram,HostageFamilies,telegram_total_views,137351.0
+2023-10-13,telegram,ILPoliticsChannel,telegram_message_count,34.0
+2023-10-13,telegram,ILPoliticsChannel,telegram_total_views,313096.0
+2023-10-13,telegram,InternationalIsrael,telegram_message_count,27.0
+2023-10-13,telegram,InternationalIsrael,telegram_total_views,235608.0
+2023-10-13,telegram,IsraelNewsLive,telegram_message_count,41.0
+2023-10-13,telegram,IsraelNewsLive,telegram_total_views,295092.0
+2023-10-14,telegram,GazaUpdates,telegram_message_count,39.0
+2023-10-14,telegram,GazaUpdates,telegram_total_views,199345.0
+2023-10-14,telegram,HomeFrontAlerts,telegram_message_count,26.0
+2023-10-14,telegram,HomeFrontAlerts,telegram_total_views,173176.0
+2023-10-14,telegram,HostageFamilies,telegram_message_count,13.0
+2023-10-14,telegram,HostageFamilies,telegram_total_views,70446.0
+2023-10-14,telegram,ILPoliticsChannel,telegram_message_count,21.0
+2023-10-14,telegram,ILPoliticsChannel,telegram_total_views,129811.0
+2023-10-14,telegram,InternationalIsrael,telegram_message_count,30.0
+2023-10-14,telegram,InternationalIsrael,telegram_total_views,166232.0
+2023-10-14,telegram,IsraelNewsLive,telegram_message_count,34.0
+2023-10-14,telegram,IsraelNewsLive,telegram_total_views,213501.0
+2023-10-15,telegram,GazaUpdates,telegram_message_count,34.0
+2023-10-15,telegram,GazaUpdates,telegram_total_views,164962.0
+2023-10-15,telegram,HomeFrontAlerts,telegram_message_count,24.0
+2023-10-15,telegram,HomeFrontAlerts,telegram_total_views,110078.0
+2023-10-15,telegram,HostageFamilies,telegram_message_count,9.0
+2023-10-15,telegram,HostageFamilies,telegram_total_views,37456.0
+2023-10-15,telegram,ILPoliticsChannel,telegram_message_count,24.0
+2023-10-15,telegram,ILPoliticsChannel,telegram_total_views,128581.0
+2023-10-15,telegram,InternationalIsrael,telegram_message_count,24.0
+2023-10-15,telegram,InternationalIsrael,telegram_total_views,112438.0
+2023-10-15,telegram,IsraelNewsLive,telegram_message_count,24.0
+2023-10-15,telegram,IsraelNewsLive,telegram_total_views,123192.0
+2023-10-16,telegram,GazaUpdates,telegram_message_count,28.0
+2023-10-16,telegram,GazaUpdates,telegram_total_views,144120.0
+2023-10-16,telegram,HomeFrontAlerts,telegram_message_count,18.0
+2023-10-16,telegram,HomeFrontAlerts,telegram_total_views,92647.0
+2023-10-16,telegram,HostageFamilies,telegram_message_count,15.0
+2023-10-16,telegram,HostageFamilies,telegram_total_views,52115.0
+2023-10-16,telegram,ILPoliticsChannel,telegram_message_count,22.0
+2023-10-16,telegram,ILPoliticsChannel,telegram_total_views,119872.0
+2023-10-16,telegram,InternationalIsrael,telegram_message_count,19.0
+2023-10-16,telegram,InternationalIsrael,telegram_total_views,79634.0
+2023-10-16,telegram,IsraelNewsLive,telegram_message_count,29.0
+2023-10-16,telegram,IsraelNewsLive,telegram_total_views,126949.0
+2023-10-17,telegram,GazaUpdates,telegram_message_count,24.0
+2023-10-17,telegram,GazaUpdates,telegram_total_views,106643.0
+2023-10-17,telegram,HomeFrontAlerts,telegram_message_count,20.0
+2023-10-17,telegram,HomeFrontAlerts,telegram_total_views,101948.0
+2023-10-17,telegram,HostageFamilies,telegram_message_count,12.0
+2023-10-17,telegram,HostageFamilies,telegram_total_views,44333.0
+2023-10-17,telegram,ILPoliticsChannel,telegram_message_count,15.0
+2023-10-17,telegram,ILPoliticsChannel,telegram_total_views,70288.0
+2023-10-17,telegram,InternationalIsrael,telegram_message_count,18.0
+2023-10-17,telegram,InternationalIsrael,telegram_total_views,90260.0
+2023-10-17,telegram,IsraelNewsLive,telegram_message_count,27.0
+2023-10-17,telegram,IsraelNewsLive,telegram_total_views,109690.0
+2023-10-18,telegram,GazaUpdates,telegram_message_count,22.0
+2023-10-18,telegram,GazaUpdates,telegram_total_views,96289.0
+2023-10-18,telegram,HomeFrontAlerts,telegram_message_count,25.0
+2023-10-18,telegram,HomeFrontAlerts,telegram_total_views,111743.0
+2023-10-18,telegram,HostageFamilies,telegram_message_count,11.0
+2023-10-18,telegram,HostageFamilies,telegram_total_views,41691.0
+2023-10-18,telegram,ILPoliticsChannel,telegram_message_count,19.0
+2023-10-18,telegram,ILPoliticsChannel,telegram_total_views,80111.0
+2023-10-18,telegram,InternationalIsrael,telegram_message_count,9.0
+2023-10-18,telegram,InternationalIsrael,telegram_total_views,37469.0
+2023-10-18,telegram,IsraelNewsLive,telegram_message_count,31.0
+2023-10-18,telegram,IsraelNewsLive,telegram_total_views,148074.0
+2023-10-19,telegram,GazaUpdates,telegram_message_count,27.0
+2023-10-19,telegram,GazaUpdates,telegram_total_views,130346.0
+2023-10-19,telegram,HomeFrontAlerts,telegram_message_count,23.0
+2023-10-19,telegram,HomeFrontAlerts,telegram_total_views,106459.0
+2023-10-19,telegram,HostageFamilies,telegram_message_count,13.0
+2023-10-19,telegram,HostageFamilies,telegram_total_views,71784.0
+2023-10-19,telegram,ILPoliticsChannel,telegram_message_count,17.0
+2023-10-19,telegram,ILPoliticsChannel,telegram_total_views,84286.0
+2023-10-19,telegram,InternationalIsrael,telegram_message_count,18.0
+2023-10-19,telegram,InternationalIsrael,telegram_total_views,64837.0
+2023-10-19,telegram,IsraelNewsLive,telegram_message_count,28.0
+2023-10-19,telegram,IsraelNewsLive,telegram_total_views,128611.0
+2023-10-20,telegram,GazaUpdates,telegram_message_count,26.0
+2023-10-20,telegram,GazaUpdates,telegram_total_views,131012.0
+2023-10-20,telegram,HomeFrontAlerts,telegram_message_count,22.0
+2023-10-20,telegram,HomeFrontAlerts,telegram_total_views,111998.0
+2023-10-20,telegram,HostageFamilies,telegram_message_count,14.0
+2023-10-20,telegram,HostageFamilies,telegram_total_views,69903.0
+2023-10-20,telegram,ILPoliticsChannel,telegram_message_count,19.0
+2023-10-20,telegram,ILPoliticsChannel,telegram_total_views,72793.0
+2023-10-20,telegram,InternationalIsrael,telegram_message_count,20.0
+2023-10-20,telegram,InternationalIsrael,telegram_total_views,103676.0
+2023-10-20,telegram,IsraelNewsLive,telegram_message_count,32.0
+2023-10-20,telegram,IsraelNewsLive,telegram_total_views,126413.0
+2023-10-21,telegram,GazaUpdates,telegram_message_count,37.0
+2023-10-21,telegram,GazaUpdates,telegram_total_views,179383.0
+2023-10-21,telegram,HomeFrontAlerts,telegram_message_count,18.0
+2023-10-21,telegram,HomeFrontAlerts,telegram_total_views,86330.0
+2023-10-21,telegram,HostageFamilies,telegram_message_count,12.0
+2023-10-21,telegram,HostageFamilies,telegram_total_views,56538.0
+2023-10-21,telegram,ILPoliticsChannel,telegram_message_count,13.0
+2023-10-21,telegram,ILPoliticsChannel,telegram_total_views,50140.0
+2023-10-21,telegram,InternationalIsrael,telegram_message_count,20.0
+2023-10-21,telegram,InternationalIsrael,telegram_total_views,81807.0
+2023-10-21,telegram,IsraelNewsLive,telegram_message_count,29.0
+2023-10-21,telegram,IsraelNewsLive,telegram_total_views,115485.0
+2023-10-22,telegram,GazaUpdates,telegram_message_count,22.0
+2023-10-22,telegram,GazaUpdates,telegram_total_views,101226.0
+2023-10-22,telegram,HomeFrontAlerts,telegram_message_count,14.0
+2023-10-22,telegram,HomeFrontAlerts,telegram_total_views,59818.0
+2023-10-22,telegram,HostageFamilies,telegram_message_count,17.0
+2023-10-22,telegram,HostageFamilies,telegram_total_views,68242.0
+2023-10-22,telegram,ILPoliticsChannel,telegram_message_count,22.0
+2023-10-22,telegram,ILPoliticsChannel,telegram_total_views,107702.0
+2023-10-22,telegram,InternationalIsrael,telegram_message_count,15.0
+2023-10-22,telegram,InternationalIsrael,telegram_total_views,60591.0
+2023-10-22,telegram,IsraelNewsLive,telegram_message_count,36.0
+2023-10-22,telegram,IsraelNewsLive,telegram_total_views,172363.0
+2023-10-23,telegram,GazaUpdates,telegram_message_count,17.0
+2023-10-23,telegram,GazaUpdates,telegram_total_views,93637.0
+2023-10-23,telegram,HomeFrontAlerts,telegram_message_count,19.0
+2023-10-23,telegram,HomeFrontAlerts,telegram_total_views,84423.0
+2023-10-23,telegram,HostageFamilies,telegram_message_count,10.0
+2023-10-23,telegram,HostageFamilies,telegram_total_views,37597.0
+2023-10-23,telegram,ILPoliticsChannel,telegram_message_count,19.0
+2023-10-23,telegram,ILPoliticsChannel,telegram_total_views,110555.0
+2023-10-23,telegram,InternationalIsrael,telegram_message_count,20.0
+2023-10-23,telegram,InternationalIsrael,telegram_total_views,82044.0
+2023-10-23,telegram,IsraelNewsLive,telegram_message_count,36.0
+2023-10-23,telegram,IsraelNewsLive,telegram_total_views,162667.0
+2023-10-24,telegram,GazaUpdates,telegram_message_count,22.0
+2023-10-24,telegram,GazaUpdates,telegram_total_views,95198.0
+2023-10-24,telegram,HomeFrontAlerts,telegram_message_count,23.0
+2023-10-24,telegram,HomeFrontAlerts,telegram_total_views,79147.0
+2023-10-24,telegram,HostageFamilies,telegram_message_count,11.0
+2023-10-24,telegram,HostageFamilies,telegram_total_views,54582.0
+2023-10-24,telegram,ILPoliticsChannel,telegram_message_count,18.0
+2023-10-24,telegram,ILPoliticsChannel,telegram_total_views,62666.0
+2023-10-24,telegram,InternationalIsrael,telegram_message_count,16.0
+2023-10-24,telegram,InternationalIsrael,telegram_total_views,72835.0
+2023-10-24,telegram,IsraelNewsLive,telegram_message_count,32.0
+2023-10-24,telegram,IsraelNewsLive,telegram_total_views,146630.0
+2023-10-25,telegram,GazaUpdates,telegram_message_count,27.0
+2023-10-25,telegram,GazaUpdates,telegram_total_views,133357.0
+2023-10-25,telegram,HomeFrontAlerts,telegram_message_count,15.0
+2023-10-25,telegram,HomeFrontAlerts,telegram_total_views,77619.0
+2023-10-25,telegram,HostageFamilies,telegram_message_count,13.0
+2023-10-25,telegram,HostageFamilies,telegram_total_views,54772.0
+2023-10-25,telegram,ILPoliticsChannel,telegram_message_count,18.0
+2023-10-25,telegram,ILPoliticsChannel,telegram_total_views,78249.0
+2023-10-25,telegram,InternationalIsrael,telegram_message_count,17.0
+2023-10-25,telegram,InternationalIsrael,telegram_total_views,86100.0
+2023-10-25,telegram,IsraelNewsLive,telegram_message_count,45.0
+2023-10-25,telegram,IsraelNewsLive,telegram_total_views,195206.0
+2023-10-26,telegram,GazaUpdates,telegram_message_count,162.0
+2023-10-26,telegram,GazaUpdates,telegram_total_views,4192859.0
+2023-10-26,telegram,HomeFrontAlerts,telegram_message_count,108.0
+2023-10-26,telegram,HomeFrontAlerts,telegram_total_views,2950237.0
+2023-10-26,telegram,HostageFamilies,telegram_message_count,66.0
+2023-10-26,telegram,HostageFamilies,telegram_total_views,1793639.0
+2023-10-26,telegram,ILPoliticsChannel,telegram_message_count,94.0
+2023-10-26,telegram,ILPoliticsChannel,telegram_total_views,2443501.0
+2023-10-26,telegram,InternationalIsrael,telegram_message_count,107.0
+2023-10-26,telegram,InternationalIsrael,telegram_total_views,2704199.0
+2023-10-26,telegram,IsraelNewsLive,telegram_message_count,185.0
+2023-10-26,telegram,IsraelNewsLive,telegram_total_views,4706994.0
+2023-10-27,telegram,GazaUpdates,telegram_message_count,137.0
+2023-10-27,telegram,GazaUpdates,telegram_total_views,3189932.0
+2023-10-27,telegram,HomeFrontAlerts,telegram_message_count,111.0
+2023-10-27,telegram,HomeFrontAlerts,telegram_total_views,2791031.0
+2023-10-27,telegram,HostageFamilies,telegram_message_count,62.0
+2023-10-27,telegram,HostageFamilies,telegram_total_views,1482047.0
+2023-10-27,telegram,ILPoliticsChannel,telegram_message_count,92.0
+2023-10-27,telegram,ILPoliticsChannel,telegram_total_views,2264078.0
+2023-10-27,telegram,InternationalIsrael,telegram_message_count,107.0
+2023-10-27,telegram,InternationalIsrael,telegram_total_views,2652521.0
+2023-10-27,telegram,IsraelNewsLive,telegram_message_count,182.0
+2023-10-27,telegram,IsraelNewsLive,telegram_total_views,4924632.0
+2023-10-28,telegram,GazaUpdates,telegram_message_count,96.0
+2023-10-28,telegram,GazaUpdates,telegram_total_views,1712152.0
+2023-10-28,telegram,HomeFrontAlerts,telegram_message_count,92.0
+2023-10-28,telegram,HomeFrontAlerts,telegram_total_views,1602060.0
+2023-10-28,telegram,HostageFamilies,telegram_message_count,45.0
+2023-10-28,telegram,HostageFamilies,telegram_total_views,704954.0
+2023-10-28,telegram,ILPoliticsChannel,telegram_message_count,59.0
+2023-10-28,telegram,ILPoliticsChannel,telegram_total_views,1108408.0
+2023-10-28,telegram,InternationalIsrael,telegram_message_count,88.0
+2023-10-28,telegram,InternationalIsrael,telegram_total_views,1606248.0
+2023-10-28,telegram,IsraelNewsLive,telegram_message_count,116.0
+2023-10-28,telegram,IsraelNewsLive,telegram_total_views,2046470.0
+2023-10-29,telegram,GazaUpdates,telegram_message_count,58.0
+2023-10-29,telegram,GazaUpdates,telegram_total_views,753226.0
+2023-10-29,telegram,HomeFrontAlerts,telegram_message_count,67.0
+2023-10-29,telegram,HomeFrontAlerts,telegram_total_views,781406.0
+2023-10-29,telegram,HostageFamilies,telegram_message_count,35.0
+2023-10-29,telegram,HostageFamilies,telegram_total_views,453386.0
+2023-10-29,telegram,ILPoliticsChannel,telegram_message_count,48.0
+2023-10-29,telegram,ILPoliticsChannel,telegram_total_views,632209.0
+2023-10-29,telegram,InternationalIsrael,telegram_message_count,49.0
+2023-10-29,telegram,InternationalIsrael,telegram_total_views,650686.0
+2023-10-29,telegram,IsraelNewsLive,telegram_message_count,92.0
+2023-10-29,telegram,IsraelNewsLive,telegram_total_views,1115223.0
+2023-10-30,telegram,GazaUpdates,telegram_message_count,43.0
+2023-10-30,telegram,GazaUpdates,telegram_total_views,420762.0
+2023-10-30,telegram,HomeFrontAlerts,telegram_message_count,44.0
+2023-10-30,telegram,HomeFrontAlerts,telegram_total_views,365987.0
+2023-10-30,telegram,HostageFamilies,telegram_message_count,18.0
+2023-10-30,telegram,HostageFamilies,telegram_total_views,126604.0
+2023-10-30,telegram,ILPoliticsChannel,telegram_message_count,33.0
+2023-10-30,telegram,ILPoliticsChannel,telegram_total_views,327407.0
+2023-10-30,telegram,InternationalIsrael,telegram_message_count,38.0
+2023-10-30,telegram,InternationalIsrael,telegram_total_views,330714.0
+2023-10-30,telegram,IsraelNewsLive,telegram_message_count,63.0
+2023-10-30,telegram,IsraelNewsLive,telegram_total_views,588197.0
+2023-10-31,telegram,GazaUpdates,telegram_message_count,46.0
+2023-10-31,telegram,GazaUpdates,telegram_total_views,318571.0
+2023-10-31,telegram,HomeFrontAlerts,telegram_message_count,40.0
+2023-10-31,telegram,HomeFrontAlerts,telegram_total_views,265433.0
+2023-10-31,telegram,HostageFamilies,telegram_message_count,17.0
+2023-10-31,telegram,HostageFamilies,telegram_total_views,122488.0
+2023-10-31,telegram,ILPoliticsChannel,telegram_message_count,15.0
+2023-10-31,telegram,ILPoliticsChannel,telegram_total_views,86421.0
+2023-10-31,telegram,InternationalIsrael,telegram_message_count,38.0
+2023-10-31,telegram,InternationalIsrael,telegram_total_views,283111.0
+2023-10-31,telegram,IsraelNewsLive,telegram_message_count,44.0
+2023-10-31,telegram,IsraelNewsLive,telegram_total_views,329685.0
+2023-11-01,telegram,GazaUpdates,telegram_message_count,29.0
+2023-11-01,telegram,GazaUpdates,telegram_total_views,134191.0
+2023-11-01,telegram,HomeFrontAlerts,telegram_message_count,26.0
+2023-11-01,telegram,HomeFrontAlerts,telegram_total_views,123076.0
+2023-11-01,telegram,HostageFamilies,telegram_message_count,10.0
+2023-11-01,telegram,HostageFamilies,telegram_total_views,40224.0
+2023-11-01,telegram,ILPoliticsChannel,telegram_message_count,18.0
+2023-11-01,telegram,ILPoliticsChannel,telegram_total_views,75067.0
+2023-11-01,telegram,InternationalIsrael,telegram_message_count,18.0
+2023-11-01,telegram,InternationalIsrael,telegram_total_views,79548.0
+2023-11-01,telegram,IsraelNewsLive,telegram_message_count,33.0
+2023-11-01,telegram,IsraelNewsLive,telegram_total_views,128280.0
+2023-11-02,telegram,GazaUpdates,telegram_message_count,29.0
+2023-11-02,telegram,GazaUpdates,telegram_total_views,133486.0
+2023-11-02,telegram,HomeFrontAlerts,telegram_message_count,26.0
+2023-11-02,telegram,HomeFrontAlerts,telegram_total_views,106926.0
+2023-11-02,telegram,HostageFamilies,telegram_message_count,13.0
+2023-11-02,telegram,HostageFamilies,telegram_total_views,59973.0
+2023-11-02,telegram,ILPoliticsChannel,telegram_message_count,14.0
+2023-11-02,telegram,ILPoliticsChannel,telegram_total_views,57694.0
+2023-11-02,telegram,InternationalIsrael,telegram_message_count,33.0
+2023-11-02,telegram,InternationalIsrael,telegram_total_views,113834.0
+2023-11-02,telegram,IsraelNewsLive,telegram_message_count,30.0
+2023-11-02,telegram,IsraelNewsLive,telegram_total_views,151391.0
+2023-11-03,telegram,GazaUpdates,telegram_message_count,35.0
+2023-11-03,telegram,GazaUpdates,telegram_total_views,166243.0
+2023-11-03,telegram,HomeFrontAlerts,telegram_message_count,30.0
+2023-11-03,telegram,HomeFrontAlerts,telegram_total_views,167577.0
+2023-11-03,telegram,HostageFamilies,telegram_message_count,13.0
+2023-11-03,telegram,HostageFamilies,telegram_total_views,54977.0
+2023-11-03,telegram,ILPoliticsChannel,telegram_message_count,21.0
+2023-11-03,telegram,ILPoliticsChannel,telegram_total_views,83655.0
+2023-11-03,telegram,InternationalIsrael,telegram_message_count,13.0
+2023-11-03,telegram,InternationalIsrael,telegram_total_views,58586.0
+2023-11-03,telegram,IsraelNewsLive,telegram_message_count,22.0
+2023-11-03,telegram,IsraelNewsLive,telegram_total_views,102198.0
+2023-11-04,telegram,GazaUpdates,telegram_message_count,30.0
+2023-11-04,telegram,GazaUpdates,telegram_total_views,98407.0
+2023-11-04,telegram,HomeFrontAlerts,telegram_message_count,17.0
+2023-11-04,telegram,HomeFrontAlerts,telegram_total_views,82347.0
+2023-11-04,telegram,HostageFamilies,telegram_message_count,8.0
+2023-11-04,telegram,HostageFamilies,telegram_total_views,40657.0
+2023-11-04,telegram,ILPoliticsChannel,telegram_message_count,18.0
+2023-11-04,telegram,ILPoliticsChannel,telegram_total_views,83350.0
+2023-11-04,telegram,InternationalIsrael,telegram_message_count,20.0
+2023-11-04,telegram,InternationalIsrael,telegram_total_views,74192.0
+2023-11-04,telegram,IsraelNewsLive,telegram_message_count,37.0
+2023-11-04,telegram,IsraelNewsLive,telegram_total_views,183737.0
+2023-11-05,telegram,GazaUpdates,telegram_message_count,34.0
+2023-11-05,telegram,GazaUpdates,telegram_total_views,118470.0
+2023-11-05,telegram,HomeFrontAlerts,telegram_message_count,33.0
+2023-11-05,telegram,HomeFrontAlerts,telegram_total_views,174580.0
+2023-11-05,telegram,HostageFamilies,telegram_message_count,8.0
+2023-11-05,telegram,HostageFamilies,telegram_total_views,35676.0
+2023-11-05,telegram,ILPoliticsChannel,telegram_message_count,10.0
+2023-11-05,telegram,ILPoliticsChannel,telegram_total_views,48006.0
+2023-11-05,telegram,InternationalIsrael,telegram_message_count,29.0
+2023-11-05,telegram,InternationalIsrael,telegram_total_views,125843.0
+2023-11-05,telegram,IsraelNewsLive,telegram_message_count,32.0
+2023-11-05,telegram,IsraelNewsLive,telegram_total_views,158753.0
+2023-11-06,telegram,GazaUpdates,telegram_message_count,34.0
+2023-11-06,telegram,GazaUpdates,telegram_total_views,141688.0
+2023-11-06,telegram,HomeFrontAlerts,telegram_message_count,16.0
+2023-11-06,telegram,HomeFrontAlerts,telegram_total_views,76941.0
+2023-11-06,telegram,HostageFamilies,telegram_message_count,12.0
+2023-11-06,telegram,HostageFamilies,telegram_total_views,51675.0
+2023-11-06,telegram,ILPoliticsChannel,telegram_message_count,14.0
+2023-11-06,telegram,ILPoliticsChannel,telegram_total_views,53465.0
+2023-11-06,telegram,InternationalIsrael,telegram_message_count,21.0
+2023-11-06,telegram,InternationalIsrael,telegram_total_views,100461.0
+2023-11-06,telegram,IsraelNewsLive,telegram_message_count,25.0
+2023-11-06,telegram,IsraelNewsLive,telegram_total_views,118892.0
+2023-11-07,telegram,GazaUpdates,telegram_message_count,20.0
+2023-11-07,telegram,GazaUpdates,telegram_total_views,108106.0
+2023-11-07,telegram,HomeFrontAlerts,telegram_message_count,23.0
+2023-11-07,telegram,HomeFrontAlerts,telegram_total_views,131170.0
+2023-11-07,telegram,HostageFamilies,telegram_message_count,12.0
+2023-11-07,telegram,HostageFamilies,telegram_total_views,74624.0
+2023-11-07,telegram,ILPoliticsChannel,telegram_message_count,17.0
+2023-11-07,telegram,ILPoliticsChannel,telegram_total_views,77128.0
+2023-11-07,telegram,InternationalIsrael,telegram_message_count,19.0
+2023-11-07,telegram,InternationalIsrael,telegram_total_views,76787.0
+2023-11-07,telegram,IsraelNewsLive,telegram_message_count,38.0
+2023-11-07,telegram,IsraelNewsLive,telegram_total_views,173920.0
+2023-11-08,telegram,GazaUpdates,telegram_message_count,26.0
+2023-11-08,telegram,GazaUpdates,telegram_total_views,122574.0
+2023-11-08,telegram,HomeFrontAlerts,telegram_message_count,25.0
+2023-11-08,telegram,HomeFrontAlerts,telegram_total_views,118795.0
+2023-11-08,telegram,HostageFamilies,telegram_message_count,18.0
+2023-11-08,telegram,HostageFamilies,telegram_total_views,73747.0
+2023-11-08,telegram,ILPoliticsChannel,telegram_message_count,12.0
+2023-11-08,telegram,ILPoliticsChannel,telegram_total_views,38812.0
+2023-11-08,telegram,InternationalIsrael,telegram_message_count,16.0
+2023-11-08,telegram,InternationalIsrael,telegram_total_views,78422.0
+2023-11-08,telegram,IsraelNewsLive,telegram_message_count,32.0
+2023-11-08,telegram,IsraelNewsLive,telegram_total_views,127272.0
+2023-11-09,telegram,GazaUpdates,telegram_message_count,26.0
+2023-11-09,telegram,GazaUpdates,telegram_total_views,121723.0
+2023-11-09,telegram,HomeFrontAlerts,telegram_message_count,24.0
+2023-11-09,telegram,HomeFrontAlerts,telegram_total_views,105107.0
+2023-11-09,telegram,HostageFamilies,telegram_message_count,8.0
+2023-11-09,telegram,HostageFamilies,telegram_total_views,39259.0
+2023-11-09,telegram,ILPoliticsChannel,telegram_message_count,9.0
+2023-11-09,telegram,ILPoliticsChannel,telegram_total_views,42000.0
+2023-11-09,telegram,InternationalIsrael,telegram_message_count,20.0
+2023-11-09,telegram,InternationalIsrael,telegram_total_views,90225.0
+2023-11-09,telegram,IsraelNewsLive,telegram_message_count,29.0
+2023-11-09,telegram,IsraelNewsLive,telegram_total_views,156017.0
+2023-11-10,telegram,GazaUpdates,telegram_message_count,22.0
+2023-11-10,telegram,GazaUpdates,telegram_total_views,92201.0
+2023-11-10,telegram,HomeFrontAlerts,telegram_message_count,22.0
+2023-11-10,telegram,HomeFrontAlerts,telegram_total_views,85423.0
+2023-11-10,telegram,HostageFamilies,telegram_message_count,5.0
+2023-11-10,telegram,HostageFamilies,telegram_total_views,28274.0
+2023-11-10,telegram,ILPoliticsChannel,telegram_message_count,15.0
+2023-11-10,telegram,ILPoliticsChannel,telegram_total_views,48244.0
+2023-11-10,telegram,InternationalIsrael,telegram_message_count,18.0
+2023-11-10,telegram,InternationalIsrael,telegram_total_views,76639.0
+2023-11-10,telegram,IsraelNewsLive,telegram_message_count,30.0
+2023-11-10,telegram,IsraelNewsLive,telegram_total_views,148223.0
+2023-11-11,telegram,GazaUpdates,telegram_message_count,23.0
+2023-11-11,telegram,GazaUpdates,telegram_total_views,103654.0
+2023-11-11,telegram,HomeFrontAlerts,telegram_message_count,30.0
+2023-11-11,telegram,HomeFrontAlerts,telegram_total_views,125898.0
+2023-11-11,telegram,HostageFamilies,telegram_message_count,10.0
+2023-11-11,telegram,HostageFamilies,telegram_total_views,26319.0
+2023-11-11,telegram,ILPoliticsChannel,telegram_message_count,12.0
+2023-11-11,telegram,ILPoliticsChannel,telegram_total_views,57531.0
+2023-11-11,telegram,InternationalIsrael,telegram_message_count,13.0
+2023-11-11,telegram,InternationalIsrael,telegram_total_views,63779.0
+2023-11-11,telegram,IsraelNewsLive,telegram_message_count,28.0
+2023-11-11,telegram,IsraelNewsLive,telegram_total_views,119430.0
+2023-11-12,telegram,GazaUpdates,telegram_message_count,36.0
+2023-11-12,telegram,GazaUpdates,telegram_total_views,168987.0
+2023-11-12,telegram,HomeFrontAlerts,telegram_message_count,15.0
+2023-11-12,telegram,HomeFrontAlerts,telegram_total_views,77232.0
+2023-11-12,telegram,HostageFamilies,telegram_message_count,11.0
+2023-11-12,telegram,HostageFamilies,telegram_total_views,57066.0
+2023-11-12,telegram,ILPoliticsChannel,telegram_message_count,13.0
+2023-11-12,telegram,ILPoliticsChannel,telegram_total_views,59104.0
+2023-11-12,telegram,InternationalIsrael,telegram_message_count,26.0
+2023-11-12,telegram,InternationalIsrael,telegram_total_views,113299.0
+2023-11-12,telegram,IsraelNewsLive,telegram_message_count,36.0
+2023-11-12,telegram,IsraelNewsLive,telegram_total_views,181819.0
+2023-11-13,telegram,GazaUpdates,telegram_message_count,20.0
+2023-11-13,telegram,GazaUpdates,telegram_total_views,91548.0
+2023-11-13,telegram,HomeFrontAlerts,telegram_message_count,27.0
+2023-11-13,telegram,HomeFrontAlerts,telegram_total_views,94966.0
+2023-11-13,telegram,HostageFamilies,telegram_message_count,16.0
+2023-11-13,telegram,HostageFamilies,telegram_total_views,80064.0
+2023-11-13,telegram,ILPoliticsChannel,telegram_message_count,9.0
+2023-11-13,telegram,ILPoliticsChannel,telegram_total_views,48789.0
+2023-11-13,telegram,InternationalIsrael,telegram_message_count,20.0
+2023-11-13,telegram,InternationalIsrael,telegram_total_views,90945.0
+2023-11-13,telegram,IsraelNewsLive,telegram_message_count,32.0
+2023-11-13,telegram,IsraelNewsLive,telegram_total_views,139582.0
+2023-11-14,telegram,GazaUpdates,telegram_message_count,25.0
+2023-11-14,telegram,GazaUpdates,telegram_total_views,89959.0
+2023-11-14,telegram,HomeFrontAlerts,telegram_message_count,17.0
+2023-11-14,telegram,HomeFrontAlerts,telegram_total_views,85507.0
+2023-11-14,telegram,HostageFamilies,telegram_message_count,12.0
+2023-11-14,telegram,HostageFamilies,telegram_total_views,38976.0
+2023-11-14,telegram,ILPoliticsChannel,telegram_message_count,12.0
+2023-11-14,telegram,ILPoliticsChannel,telegram_total_views,46196.0
+2023-11-14,telegram,InternationalIsrael,telegram_message_count,24.0
+2023-11-14,telegram,InternationalIsrael,telegram_total_views,108678.0
+2023-11-14,telegram,IsraelNewsLive,telegram_message_count,35.0
+2023-11-14,telegram,IsraelNewsLive,telegram_total_views,159097.0
+2023-11-15,telegram,GazaUpdates,telegram_message_count,24.0
+2023-11-15,telegram,GazaUpdates,telegram_total_views,107305.0
+2023-11-15,telegram,HomeFrontAlerts,telegram_message_count,23.0
+2023-11-15,telegram,HomeFrontAlerts,telegram_total_views,92867.0
+2023-11-15,telegram,HostageFamilies,telegram_message_count,8.0
+2023-11-15,telegram,HostageFamilies,telegram_total_views,34147.0
+2023-11-15,telegram,ILPoliticsChannel,telegram_message_count,11.0
+2023-11-15,telegram,ILPoliticsChannel,telegram_total_views,58381.0
+2023-11-15,telegram,InternationalIsrael,telegram_message_count,23.0
+2023-11-15,telegram,InternationalIsrael,telegram_total_views,90045.0
+2023-11-15,telegram,IsraelNewsLive,telegram_message_count,33.0
+2023-11-15,telegram,IsraelNewsLive,telegram_total_views,155563.0
+2023-11-16,telegram,GazaUpdates,telegram_message_count,20.0
+2023-11-16,telegram,GazaUpdates,telegram_total_views,75101.0
+2023-11-16,telegram,HomeFrontAlerts,telegram_message_count,22.0
+2023-11-16,telegram,HomeFrontAlerts,telegram_total_views,93215.0
+2023-11-16,telegram,HostageFamilies,telegram_message_count,13.0
+2023-11-16,telegram,HostageFamilies,telegram_total_views,56791.0
+2023-11-16,telegram,ILPoliticsChannel,telegram_message_count,15.0
+2023-11-16,telegram,ILPoliticsChannel,telegram_total_views,81834.0
+2023-11-16,telegram,InternationalIsrael,telegram_message_count,16.0
+2023-11-16,telegram,InternationalIsrael,telegram_total_views,55268.0
+2023-11-16,telegram,IsraelNewsLive,telegram_message_count,30.0
+2023-11-16,telegram,IsraelNewsLive,telegram_total_views,123458.0
+2023-11-17,telegram,GazaUpdates,telegram_message_count,25.0
+2023-11-17,telegram,GazaUpdates,telegram_total_views,132046.0
+2023-11-17,telegram,HomeFrontAlerts,telegram_message_count,17.0
+2023-11-17,telegram,HomeFrontAlerts,telegram_total_views,77178.0
+2023-11-17,telegram,HostageFamilies,telegram_message_count,15.0
+2023-11-17,telegram,HostageFamilies,telegram_total_views,65027.0
+2023-11-17,telegram,ILPoliticsChannel,telegram_message_count,18.0
+2023-11-17,telegram,ILPoliticsChannel,telegram_total_views,90694.0
+2023-11-17,telegram,InternationalIsrael,telegram_message_count,11.0
+2023-11-17,telegram,InternationalIsrael,telegram_total_views,50556.0
+2023-11-17,telegram,IsraelNewsLive,telegram_message_count,42.0
+2023-11-17,telegram,IsraelNewsLive,telegram_total_views,201649.0
+2023-11-18,telegram,GazaUpdates,telegram_message_count,21.0
+2023-11-18,telegram,GazaUpdates,telegram_total_views,122146.0
+2023-11-18,telegram,HomeFrontAlerts,telegram_message_count,30.0
+2023-11-18,telegram,HomeFrontAlerts,telegram_total_views,147037.0
+2023-11-18,telegram,HostageFamilies,telegram_message_count,8.0
+2023-11-18,telegram,HostageFamilies,telegram_total_views,49420.0
+2023-11-18,telegram,ILPoliticsChannel,telegram_message_count,8.0
+2023-11-18,telegram,ILPoliticsChannel,telegram_total_views,36006.0
+2023-11-18,telegram,InternationalIsrael,telegram_message_count,15.0
+2023-11-18,telegram,InternationalIsrael,telegram_total_views,62835.0
+2023-11-18,telegram,IsraelNewsLive,telegram_message_count,37.0
+2023-11-18,telegram,IsraelNewsLive,telegram_total_views,189154.0
+2023-11-19,telegram,GazaUpdates,telegram_message_count,26.0
+2023-11-19,telegram,GazaUpdates,telegram_total_views,116399.0
+2023-11-19,telegram,HomeFrontAlerts,telegram_message_count,28.0
+2023-11-19,telegram,HomeFrontAlerts,telegram_total_views,143432.0
+2023-11-19,telegram,HostageFamilies,telegram_message_count,14.0
+2023-11-19,telegram,HostageFamilies,telegram_total_views,78704.0
+2023-11-19,telegram,ILPoliticsChannel,telegram_message_count,14.0
+2023-11-19,telegram,ILPoliticsChannel,telegram_total_views,67118.0
+2023-11-19,telegram,InternationalIsrael,telegram_message_count,23.0
+2023-11-19,telegram,InternationalIsrael,telegram_total_views,96228.0
+2023-11-19,telegram,IsraelNewsLive,telegram_message_count,33.0
+2023-11-19,telegram,IsraelNewsLive,telegram_total_views,154965.0
+2023-11-20,telegram,GazaUpdates,telegram_message_count,26.0
+2023-11-20,telegram,GazaUpdates,telegram_total_views,130767.0
+2023-11-20,telegram,HomeFrontAlerts,telegram_message_count,28.0
+2023-11-20,telegram,HomeFrontAlerts,telegram_total_views,122949.0
+2023-11-20,telegram,HostageFamilies,telegram_message_count,16.0
+2023-11-20,telegram,HostageFamilies,telegram_total_views,102597.0
+2023-11-20,telegram,ILPoliticsChannel,telegram_message_count,15.0
+2023-11-20,telegram,ILPoliticsChannel,telegram_total_views,90691.0
+2023-11-20,telegram,InternationalIsrael,telegram_message_count,15.0
+2023-11-20,telegram,InternationalIsrael,telegram_total_views,72990.0
+2023-11-20,telegram,IsraelNewsLive,telegram_message_count,36.0
+2023-11-20,telegram,IsraelNewsLive,telegram_total_views,198838.0
+2023-11-21,telegram,GazaUpdates,telegram_message_count,35.0
+2023-11-21,telegram,GazaUpdates,telegram_total_views,157676.0
+2023-11-21,telegram,HomeFrontAlerts,telegram_message_count,22.0
+2023-11-21,telegram,HomeFrontAlerts,telegram_total_views,96355.0
+2023-11-21,telegram,HostageFamilies,telegram_message_count,13.0
+2023-11-21,telegram,HostageFamilies,telegram_total_views,48177.0
+2023-11-21,telegram,ILPoliticsChannel,telegram_message_count,13.0
+2023-11-21,telegram,ILPoliticsChannel,telegram_total_views,64233.0
+2023-11-21,telegram,InternationalIsrael,telegram_message_count,24.0
+2023-11-21,telegram,InternationalIsrael,telegram_total_views,106948.0
+2023-11-21,telegram,IsraelNewsLive,telegram_message_count,29.0
+2023-11-21,telegram,IsraelNewsLive,telegram_total_views,119318.0
+2023-11-22,telegram,GazaUpdates,telegram_message_count,28.0
+2023-11-22,telegram,GazaUpdates,telegram_total_views,135005.0
+2023-11-22,telegram,HomeFrontAlerts,telegram_message_count,18.0
+2023-11-22,telegram,HomeFrontAlerts,telegram_total_views,93080.0
+2023-11-22,telegram,HostageFamilies,telegram_message_count,9.0
+2023-11-22,telegram,HostageFamilies,telegram_total_views,31556.0
+2023-11-22,telegram,ILPoliticsChannel,telegram_message_count,10.0
+2023-11-22,telegram,ILPoliticsChannel,telegram_total_views,48263.0
+2023-11-22,telegram,InternationalIsrael,telegram_message_count,19.0
+2023-11-22,telegram,InternationalIsrael,telegram_total_views,89594.0
+2023-11-22,telegram,IsraelNewsLive,telegram_message_count,38.0
+2023-11-22,telegram,IsraelNewsLive,telegram_total_views,153186.0
+2023-11-23,telegram,GazaUpdates,telegram_message_count,117.0
+2023-11-23,telegram,GazaUpdates,telegram_total_views,2452424.0
+2023-11-23,telegram,HomeFrontAlerts,telegram_message_count,88.0
+2023-11-23,telegram,HomeFrontAlerts,telegram_total_views,1836233.0
+2023-11-23,telegram,HostageFamilies,telegram_message_count,53.0
+2023-11-23,telegram,HostageFamilies,telegram_total_views,1169618.0
+2023-11-23,telegram,ILPoliticsChannel,telegram_message_count,70.0
+2023-11-23,telegram,ILPoliticsChannel,telegram_total_views,1427849.0
+2023-11-23,telegram,InternationalIsrael,telegram_message_count,89.0
+2023-11-23,telegram,InternationalIsrael,telegram_total_views,1923199.0
+2023-11-23,telegram,IsraelNewsLive,telegram_message_count,156.0
+2023-11-23,telegram,IsraelNewsLive,telegram_total_views,3554785.0
+2023-11-24,telegram,GazaUpdates,telegram_message_count,118.0
+2023-11-24,telegram,GazaUpdates,telegram_total_views,2700752.0
+2023-11-24,telegram,HomeFrontAlerts,telegram_message_count,101.0
+2023-11-24,telegram,HomeFrontAlerts,telegram_total_views,2217022.0
+2023-11-24,telegram,HostageFamilies,telegram_message_count,58.0
+2023-11-24,telegram,HostageFamilies,telegram_total_views,1213122.0
+2023-11-24,telegram,ILPoliticsChannel,telegram_message_count,66.0
+2023-11-24,telegram,ILPoliticsChannel,telegram_total_views,1530507.0
+2023-11-24,telegram,InternationalIsrael,telegram_message_count,98.0
+2023-11-24,telegram,InternationalIsrael,telegram_total_views,2245296.0
+2023-11-24,telegram,IsraelNewsLive,telegram_message_count,142.0
+2023-11-24,telegram,IsraelNewsLive,telegram_total_views,3085245.0
+2023-11-25,telegram,GazaUpdates,telegram_message_count,83.0
+2023-11-25,telegram,GazaUpdates,telegram_total_views,1222986.0
+2023-11-25,telegram,HomeFrontAlerts,telegram_message_count,69.0
+2023-11-25,telegram,HomeFrontAlerts,telegram_total_views,1070068.0
+2023-11-25,telegram,HostageFamilies,telegram_message_count,34.0
+2023-11-25,telegram,HostageFamilies,telegram_total_views,501798.0
+2023-11-25,telegram,ILPoliticsChannel,telegram_message_count,51.0
+2023-11-25,telegram,ILPoliticsChannel,telegram_total_views,758597.0
+2023-11-25,telegram,InternationalIsrael,telegram_message_count,64.0
+2023-11-25,telegram,InternationalIsrael,telegram_total_views,892410.0
+2023-11-25,telegram,IsraelNewsLive,telegram_message_count,120.0
+2023-11-25,telegram,IsraelNewsLive,telegram_total_views,1816328.0
+2023-11-26,telegram,GazaUpdates,telegram_message_count,61.0
+2023-11-26,telegram,GazaUpdates,telegram_total_views,655587.0
+2023-11-26,telegram,HomeFrontAlerts,telegram_message_count,49.0
+2023-11-26,telegram,HomeFrontAlerts,telegram_total_views,547065.0
+2023-11-26,telegram,HostageFamilies,telegram_message_count,30.0
+2023-11-26,telegram,HostageFamilies,telegram_total_views,317995.0
+2023-11-26,telegram,ILPoliticsChannel,telegram_message_count,48.0
+2023-11-26,telegram,ILPoliticsChannel,telegram_total_views,545735.0
+2023-11-26,telegram,InternationalIsrael,telegram_message_count,43.0
+2023-11-26,telegram,InternationalIsrael,telegram_total_views,428822.0
+2023-11-26,telegram,IsraelNewsLive,telegram_message_count,76.0
+2023-11-26,telegram,IsraelNewsLive,telegram_total_views,767752.0
+2023-11-27,telegram,GazaUpdates,telegram_message_count,41.0
+2023-11-27,telegram,GazaUpdates,telegram_total_views,287717.0
+2023-11-27,telegram,HomeFrontAlerts,telegram_message_count,33.0
+2023-11-27,telegram,HomeFrontAlerts,telegram_total_views,223948.0
+2023-11-27,telegram,HostageFamilies,telegram_message_count,16.0
+2023-11-27,telegram,HostageFamilies,telegram_total_views,102770.0
+2023-11-27,telegram,ILPoliticsChannel,telegram_message_count,24.0
+2023-11-27,telegram,ILPoliticsChannel,telegram_total_views,166256.0
+2023-11-27,telegram,InternationalIsrael,telegram_message_count,26.0
+2023-11-27,telegram,InternationalIsrael,telegram_total_views,171948.0
+2023-11-27,telegram,IsraelNewsLive,telegram_message_count,53.0
+2023-11-27,telegram,IsraelNewsLive,telegram_total_views,449622.0
+2023-11-28,telegram,GazaUpdates,telegram_message_count,35.0
+2023-11-28,telegram,GazaUpdates,telegram_total_views,178686.0
+2023-11-28,telegram,HomeFrontAlerts,telegram_message_count,29.0
+2023-11-28,telegram,HomeFrontAlerts,telegram_total_views,146764.0
+2023-11-28,telegram,HostageFamilies,telegram_message_count,20.0
+2023-11-28,telegram,HostageFamilies,telegram_total_views,118733.0
+2023-11-28,telegram,ILPoliticsChannel,telegram_message_count,27.0
+2023-11-28,telegram,ILPoliticsChannel,telegram_total_views,163918.0
+2023-11-28,telegram,InternationalIsrael,telegram_message_count,20.0
+2023-11-28,telegram,InternationalIsrael,telegram_total_views,107124.0
+2023-11-28,telegram,IsraelNewsLive,telegram_message_count,47.0
+2023-11-28,telegram,IsraelNewsLive,telegram_total_views,247744.0
+2023-11-29,telegram,GazaUpdates,telegram_message_count,20.0
+2023-11-29,telegram,GazaUpdates,telegram_total_views,87681.0
+2023-11-29,telegram,HomeFrontAlerts,telegram_message_count,23.0
+2023-11-29,telegram,HomeFrontAlerts,telegram_total_views,124869.0
+2023-11-29,telegram,HostageFamilies,telegram_message_count,5.0
+2023-11-29,telegram,HostageFamilies,telegram_total_views,28122.0
+2023-11-29,telegram,ILPoliticsChannel,telegram_message_count,26.0
+2023-11-29,telegram,ILPoliticsChannel,telegram_total_views,120645.0
+2023-11-29,telegram,InternationalIsrael,telegram_message_count,16.0
+2023-11-29,telegram,InternationalIsrael,telegram_total_views,64370.0
+2023-11-29,telegram,IsraelNewsLive,telegram_message_count,39.0
+2023-11-29,telegram,IsraelNewsLive,telegram_total_views,162745.0
+2023-11-30,telegram,GazaUpdates,telegram_message_count,99.0
+2023-11-30,telegram,GazaUpdates,telegram_total_views,1469731.0
+2023-11-30,telegram,HomeFrontAlerts,telegram_message_count,89.0
+2023-11-30,telegram,HomeFrontAlerts,telegram_total_views,1678724.0
+2023-11-30,telegram,HostageFamilies,telegram_message_count,42.0
+2023-11-30,telegram,HostageFamilies,telegram_total_views,752622.0
+2023-11-30,telegram,ILPoliticsChannel,telegram_message_count,51.0
+2023-11-30,telegram,ILPoliticsChannel,telegram_total_views,870482.0
+2023-11-30,telegram,InternationalIsrael,telegram_message_count,81.0
+2023-11-30,telegram,InternationalIsrael,telegram_total_views,1425618.0
+2023-11-30,telegram,IsraelNewsLive,telegram_message_count,119.0
+2023-11-30,telegram,IsraelNewsLive,telegram_total_views,1977399.0
+2023-12-01,telegram,GazaUpdates,telegram_message_count,95.0
+2023-12-01,telegram,GazaUpdates,telegram_total_views,1591248.0
+2023-12-01,telegram,HomeFrontAlerts,telegram_message_count,79.0
+2023-12-01,telegram,HomeFrontAlerts,telegram_total_views,1380048.0
+2023-12-01,telegram,HostageFamilies,telegram_message_count,44.0
+2023-12-01,telegram,HostageFamilies,telegram_total_views,841123.0
+2023-12-01,telegram,ILPoliticsChannel,telegram_message_count,56.0
+2023-12-01,telegram,ILPoliticsChannel,telegram_total_views,794172.0
+2023-12-01,telegram,InternationalIsrael,telegram_message_count,56.0
+2023-12-01,telegram,InternationalIsrael,telegram_total_views,1098458.0
+2023-12-01,telegram,IsraelNewsLive,telegram_message_count,126.0
+2023-12-01,telegram,IsraelNewsLive,telegram_total_views,2190154.0
+2023-12-02,telegram,GazaUpdates,telegram_message_count,84.0
+2023-12-02,telegram,GazaUpdates,telegram_total_views,1083410.0
+2023-12-02,telegram,HomeFrontAlerts,telegram_message_count,62.0
+2023-12-02,telegram,HomeFrontAlerts,telegram_total_views,656305.0
+2023-12-02,telegram,HostageFamilies,telegram_message_count,21.0
+2023-12-02,telegram,HostageFamilies,telegram_total_views,261944.0
+2023-12-02,telegram,ILPoliticsChannel,telegram_message_count,39.0
+2023-12-02,telegram,ILPoliticsChannel,telegram_total_views,433011.0
+2023-12-02,telegram,InternationalIsrael,telegram_message_count,57.0
+2023-12-02,telegram,InternationalIsrael,telegram_total_views,697912.0
+2023-12-02,telegram,IsraelNewsLive,telegram_message_count,88.0
+2023-12-02,telegram,IsraelNewsLive,telegram_total_views,1077832.0
+2023-12-03,telegram,GazaUpdates,telegram_message_count,51.0
+2023-12-03,telegram,GazaUpdates,telegram_total_views,406696.0
+2023-12-03,telegram,HomeFrontAlerts,telegram_message_count,43.0
+2023-12-03,telegram,HomeFrontAlerts,telegram_total_views,325615.0
+2023-12-03,telegram,HostageFamilies,telegram_message_count,23.0
+2023-12-03,telegram,HostageFamilies,telegram_total_views,169406.0
+2023-12-03,telegram,ILPoliticsChannel,telegram_message_count,21.0
+2023-12-03,telegram,ILPoliticsChannel,telegram_total_views,184822.0
+2023-12-03,telegram,InternationalIsrael,telegram_message_count,39.0
+2023-12-03,telegram,InternationalIsrael,telegram_total_views,331103.0
+2023-12-03,telegram,IsraelNewsLive,telegram_message_count,58.0
+2023-12-03,telegram,IsraelNewsLive,telegram_total_views,499161.0
+2023-12-04,telegram,GazaUpdates,telegram_message_count,35.0
+2023-12-04,telegram,GazaUpdates,telegram_total_views,254834.0
+2023-12-04,telegram,HomeFrontAlerts,telegram_message_count,27.0
+2023-12-04,telegram,HomeFrontAlerts,telegram_total_views,168309.0
+2023-12-04,telegram,HostageFamilies,telegram_message_count,19.0
+2023-12-04,telegram,HostageFamilies,telegram_total_views,90928.0
+2023-12-04,telegram,ILPoliticsChannel,telegram_message_count,20.0
+2023-12-04,telegram,ILPoliticsChannel,telegram_total_views,94384.0
+2023-12-04,telegram,InternationalIsrael,telegram_message_count,25.0
+2023-12-04,telegram,InternationalIsrael,telegram_total_views,151369.0
+2023-12-04,telegram,IsraelNewsLive,telegram_message_count,38.0
+2023-12-04,telegram,IsraelNewsLive,telegram_total_views,248791.0
+2023-12-05,telegram,GazaUpdates,telegram_message_count,29.0
+2023-12-05,telegram,GazaUpdates,telegram_total_views,130236.0
+2023-12-05,telegram,HomeFrontAlerts,telegram_message_count,21.0
+2023-12-05,telegram,HomeFrontAlerts,telegram_total_views,95643.0
+2023-12-05,telegram,HostageFamilies,telegram_message_count,18.0
+2023-12-05,telegram,HostageFamilies,telegram_total_views,73129.0
+2023-12-05,telegram,ILPoliticsChannel,telegram_message_count,11.0
+2023-12-05,telegram,ILPoliticsChannel,telegram_total_views,39278.0
+2023-12-05,telegram,InternationalIsrael,telegram_message_count,18.0
+2023-12-05,telegram,InternationalIsrael,telegram_total_views,71352.0
+2023-12-05,telegram,IsraelNewsLive,telegram_message_count,30.0
+2023-12-05,telegram,IsraelNewsLive,telegram_total_views,127174.0
+2023-12-06,telegram,GazaUpdates,telegram_message_count,26.0
+2023-12-06,telegram,GazaUpdates,telegram_total_views,95400.0
+2023-12-06,telegram,HomeFrontAlerts,telegram_message_count,24.0
+2023-12-06,telegram,HomeFrontAlerts,telegram_total_views,97402.0
+2023-12-06,telegram,HostageFamilies,telegram_message_count,14.0
+2023-12-06,telegram,HostageFamilies,telegram_total_views,49620.0
+2023-12-06,telegram,ILPoliticsChannel,telegram_message_count,25.0
+2023-12-06,telegram,ILPoliticsChannel,telegram_total_views,108408.0
+2023-12-06,telegram,InternationalIsrael,telegram_message_count,22.0
+2023-12-06,telegram,InternationalIsrael,telegram_total_views,70906.0
+2023-12-06,telegram,IsraelNewsLive,telegram_message_count,29.0
+2023-12-06,telegram,IsraelNewsLive,telegram_total_views,112753.0
+2023-12-07,telegram,GazaUpdates,telegram_message_count,25.0
+2023-12-07,telegram,GazaUpdates,telegram_total_views,115340.0
+2023-12-07,telegram,HomeFrontAlerts,telegram_message_count,16.0
+2023-12-07,telegram,HomeFrontAlerts,telegram_total_views,58921.0
+2023-12-07,telegram,HostageFamilies,telegram_message_count,10.0
+2023-12-07,telegram,HostageFamilies,telegram_total_views,47283.0
+2023-12-07,telegram,ILPoliticsChannel,telegram_message_count,9.0
+2023-12-07,telegram,ILPoliticsChannel,telegram_total_views,29252.0
+2023-12-07,telegram,InternationalIsrael,telegram_message_count,26.0
+2023-12-07,telegram,InternationalIsrael,telegram_total_views,113043.0
+2023-12-07,telegram,IsraelNewsLive,telegram_message_count,29.0
+2023-12-07,telegram,IsraelNewsLive,telegram_total_views,103595.0
+2023-12-08,telegram,GazaUpdates,telegram_message_count,21.0
+2023-12-08,telegram,GazaUpdates,telegram_total_views,78264.0
+2023-12-08,telegram,HomeFrontAlerts,telegram_message_count,20.0
+2023-12-08,telegram,HomeFrontAlerts,telegram_total_views,99352.0
+2023-12-08,telegram,HostageFamilies,telegram_message_count,12.0
+2023-12-08,telegram,HostageFamilies,telegram_total_views,55505.0
+2023-12-08,telegram,ILPoliticsChannel,telegram_message_count,13.0
+2023-12-08,telegram,ILPoliticsChannel,telegram_total_views,55388.0
+2023-12-08,telegram,InternationalIsrael,telegram_message_count,17.0
+2023-12-08,telegram,InternationalIsrael,telegram_total_views,71512.0
+2023-12-08,telegram,IsraelNewsLive,telegram_message_count,40.0
+2023-12-08,telegram,IsraelNewsLive,telegram_total_views,176498.0
+2023-12-09,telegram,GazaUpdates,telegram_message_count,25.0
+2023-12-09,telegram,GazaUpdates,telegram_total_views,127489.0
+2023-12-09,telegram,HomeFrontAlerts,telegram_message_count,20.0
+2023-12-09,telegram,HomeFrontAlerts,telegram_total_views,101329.0
+2023-12-09,telegram,HostageFamilies,telegram_message_count,11.0
+2023-12-09,telegram,HostageFamilies,telegram_total_views,43343.0
+2023-12-09,telegram,ILPoliticsChannel,telegram_message_count,14.0
+2023-12-09,telegram,ILPoliticsChannel,telegram_total_views,59528.0
+2023-12-09,telegram,InternationalIsrael,telegram_message_count,28.0
+2023-12-09,telegram,InternationalIsrael,telegram_total_views,133913.0
+2023-12-09,telegram,IsraelNewsLive,telegram_message_count,45.0
+2023-12-09,telegram,IsraelNewsLive,telegram_total_views,231947.0
+2023-12-10,telegram,GazaUpdates,telegram_message_count,29.0
+2023-12-10,telegram,GazaUpdates,telegram_total_views,117838.0
+2023-12-10,telegram,HomeFrontAlerts,telegram_message_count,21.0
+2023-12-10,telegram,HomeFrontAlerts,telegram_total_views,100033.0
+2023-12-10,telegram,HostageFamilies,telegram_message_count,14.0
+2023-12-10,telegram,HostageFamilies,telegram_total_views,73362.0
+2023-12-10,telegram,ILPoliticsChannel,telegram_message_count,12.0
+2023-12-10,telegram,ILPoliticsChannel,telegram_total_views,43439.0
+2023-12-10,telegram,InternationalIsrael,telegram_message_count,14.0
+2023-12-10,telegram,InternationalIsrael,telegram_total_views,68550.0
+2023-12-10,telegram,IsraelNewsLive,telegram_message_count,37.0
+2023-12-10,telegram,IsraelNewsLive,telegram_total_views,166189.0
+2023-12-11,telegram,GazaUpdates,telegram_message_count,29.0
+2023-12-11,telegram,GazaUpdates,telegram_total_views,135776.0
+2023-12-11,telegram,HomeFrontAlerts,telegram_message_count,17.0
+2023-12-11,telegram,HomeFrontAlerts,telegram_total_views,74894.0
+2023-12-11,telegram,HostageFamilies,telegram_message_count,16.0
+2023-12-11,telegram,HostageFamilies,telegram_total_views,59469.0
+2023-12-11,telegram,ILPoliticsChannel,telegram_message_count,10.0
+2023-12-11,telegram,ILPoliticsChannel,telegram_total_views,48060.0
+2023-12-11,telegram,InternationalIsrael,telegram_message_count,18.0
+2023-12-11,telegram,InternationalIsrael,telegram_total_views,98352.0
+2023-12-11,telegram,IsraelNewsLive,telegram_message_count,35.0
+2023-12-11,telegram,IsraelNewsLive,telegram_total_views,153429.0
+2023-12-12,telegram,GazaUpdates,telegram_message_count,33.0
+2023-12-12,telegram,GazaUpdates,telegram_total_views,137726.0
+2023-12-12,telegram,HomeFrontAlerts,telegram_message_count,18.0
+2023-12-12,telegram,HomeFrontAlerts,telegram_total_views,95154.0
+2023-12-12,telegram,HostageFamilies,telegram_message_count,12.0
+2023-12-12,telegram,HostageFamilies,telegram_total_views,65847.0
+2023-12-12,telegram,ILPoliticsChannel,telegram_message_count,17.0
+2023-12-12,telegram,ILPoliticsChannel,telegram_total_views,77772.0
+2023-12-12,telegram,InternationalIsrael,telegram_message_count,17.0
+2023-12-12,telegram,InternationalIsrael,telegram_total_views,63393.0
+2023-12-12,telegram,IsraelNewsLive,telegram_message_count,36.0
+2023-12-12,telegram,IsraelNewsLive,telegram_total_views,157740.0
+2023-12-13,telegram,GazaUpdates,telegram_message_count,29.0
+2023-12-13,telegram,GazaUpdates,telegram_total_views,147159.0
+2023-12-13,telegram,HomeFrontAlerts,telegram_message_count,28.0
+2023-12-13,telegram,HomeFrontAlerts,telegram_total_views,148174.0
+2023-12-13,telegram,HostageFamilies,telegram_message_count,7.0
+2023-12-13,telegram,HostageFamilies,telegram_total_views,36790.0
+2023-12-13,telegram,ILPoliticsChannel,telegram_message_count,20.0
+2023-12-13,telegram,ILPoliticsChannel,telegram_total_views,99914.0
+2023-12-13,telegram,InternationalIsrael,telegram_message_count,25.0
+2023-12-13,telegram,InternationalIsrael,telegram_total_views,123700.0
+2023-12-13,telegram,IsraelNewsLive,telegram_message_count,20.0
+2023-12-13,telegram,IsraelNewsLive,telegram_total_views,104026.0
+2023-12-14,telegram,GazaUpdates,telegram_message_count,28.0
+2023-12-14,telegram,GazaUpdates,telegram_total_views,102891.0
+2023-12-14,telegram,HomeFrontAlerts,telegram_message_count,22.0
+2023-12-14,telegram,HomeFrontAlerts,telegram_total_views,104895.0
+2023-12-14,telegram,HostageFamilies,telegram_message_count,13.0
+2023-12-14,telegram,HostageFamilies,telegram_total_views,74996.0
+2023-12-14,telegram,ILPoliticsChannel,telegram_message_count,20.0
+2023-12-14,telegram,ILPoliticsChannel,telegram_total_views,78919.0
+2023-12-14,telegram,InternationalIsrael,telegram_message_count,10.0
+2023-12-14,telegram,InternationalIsrael,telegram_total_views,54491.0
+2023-12-14,telegram,IsraelNewsLive,telegram_message_count,31.0
+2023-12-14,telegram,IsraelNewsLive,telegram_total_views,140069.0
+2023-12-15,telegram,GazaUpdates,telegram_message_count,32.0
+2023-12-15,telegram,GazaUpdates,telegram_total_views,142806.0
+2023-12-15,telegram,HomeFrontAlerts,telegram_message_count,22.0
+2023-12-15,telegram,HomeFrontAlerts,telegram_total_views,107202.0
+2023-12-15,telegram,HostageFamilies,telegram_message_count,13.0
+2023-12-15,telegram,HostageFamilies,telegram_total_views,42555.0
+2023-12-15,telegram,ILPoliticsChannel,telegram_message_count,16.0
+2023-12-15,telegram,ILPoliticsChannel,telegram_total_views,52073.0
+2023-12-15,telegram,InternationalIsrael,telegram_message_count,6.0
+2023-12-15,telegram,InternationalIsrael,telegram_total_views,16434.0
+2023-12-15,telegram,IsraelNewsLive,telegram_message_count,33.0
+2023-12-15,telegram,IsraelNewsLive,telegram_total_views,167445.0
+2023-12-16,telegram,GazaUpdates,telegram_message_count,23.0
+2023-12-16,telegram,GazaUpdates,telegram_total_views,105853.0
+2023-12-16,telegram,HomeFrontAlerts,telegram_message_count,22.0
+2023-12-16,telegram,HomeFrontAlerts,telegram_total_views,98620.0
+2023-12-16,telegram,HostageFamilies,telegram_message_count,8.0
+2023-12-16,telegram,HostageFamilies,telegram_total_views,45528.0
+2023-12-16,telegram,ILPoliticsChannel,telegram_message_count,20.0
+2023-12-16,telegram,ILPoliticsChannel,telegram_total_views,95569.0
+2023-12-16,telegram,InternationalIsrael,telegram_message_count,27.0
+2023-12-16,telegram,InternationalIsrael,telegram_total_views,134300.0
+2023-12-16,telegram,IsraelNewsLive,telegram_message_count,31.0
+2023-12-16,telegram,IsraelNewsLive,telegram_total_views,117356.0
+2023-12-17,telegram,GazaUpdates,telegram_message_count,29.0
+2023-12-17,telegram,GazaUpdates,telegram_total_views,150969.0
+2023-12-17,telegram,HomeFrontAlerts,telegram_message_count,28.0
+2023-12-17,telegram,HomeFrontAlerts,telegram_total_views,108285.0
+2023-12-17,telegram,HostageFamilies,telegram_message_count,12.0
+2023-12-17,telegram,HostageFamilies,telegram_total_views,41656.0
+2023-12-17,telegram,ILPoliticsChannel,telegram_message_count,16.0
+2023-12-17,telegram,ILPoliticsChannel,telegram_total_views,65416.0
+2023-12-17,telegram,InternationalIsrael,telegram_message_count,17.0
+2023-12-17,telegram,InternationalIsrael,telegram_total_views,83278.0
+2023-12-17,telegram,IsraelNewsLive,telegram_message_count,35.0
+2023-12-17,telegram,IsraelNewsLive,telegram_total_views,131348.0
+2023-12-18,telegram,GazaUpdates,telegram_message_count,22.0
+2023-12-18,telegram,GazaUpdates,telegram_total_views,93394.0
+2023-12-18,telegram,HomeFrontAlerts,telegram_message_count,18.0
+2023-12-18,telegram,HomeFrontAlerts,telegram_total_views,64637.0
+2023-12-18,telegram,HostageFamilies,telegram_message_count,6.0
+2023-12-18,telegram,HostageFamilies,telegram_total_views,18467.0
+2023-12-18,telegram,ILPoliticsChannel,telegram_message_count,11.0
+2023-12-18,telegram,ILPoliticsChannel,telegram_total_views,48978.0
+2023-12-18,telegram,InternationalIsrael,telegram_message_count,21.0
+2023-12-18,telegram,InternationalIsrael,telegram_total_views,96358.0
+2023-12-18,telegram,IsraelNewsLive,telegram_message_count,35.0
+2023-12-18,telegram,IsraelNewsLive,telegram_total_views,133887.0
+2023-12-19,telegram,GazaUpdates,telegram_message_count,18.0
+2023-12-19,telegram,GazaUpdates,telegram_total_views,86748.0
+2023-12-19,telegram,HomeFrontAlerts,telegram_message_count,19.0
+2023-12-19,telegram,HomeFrontAlerts,telegram_total_views,103894.0
+2023-12-19,telegram,HostageFamilies,telegram_message_count,11.0
+2023-12-19,telegram,HostageFamilies,telegram_total_views,53362.0
+2023-12-19,telegram,ILPoliticsChannel,telegram_message_count,20.0
+2023-12-19,telegram,ILPoliticsChannel,telegram_total_views,102661.0
+2023-12-19,telegram,InternationalIsrael,telegram_message_count,27.0
+2023-12-19,telegram,InternationalIsrael,telegram_total_views,136452.0
+2023-12-19,telegram,IsraelNewsLive,telegram_message_count,28.0
+2023-12-19,telegram,IsraelNewsLive,telegram_total_views,130359.0
+2023-12-20,telegram,GazaUpdates,telegram_message_count,21.0
+2023-12-20,telegram,GazaUpdates,telegram_total_views,86159.0
+2023-12-20,telegram,HomeFrontAlerts,telegram_message_count,31.0
+2023-12-20,telegram,HomeFrontAlerts,telegram_total_views,141897.0
+2023-12-20,telegram,HostageFamilies,telegram_message_count,11.0
+2023-12-20,telegram,HostageFamilies,telegram_total_views,48772.0
+2023-12-20,telegram,ILPoliticsChannel,telegram_message_count,15.0
+2023-12-20,telegram,ILPoliticsChannel,telegram_total_views,72223.0
+2023-12-20,telegram,InternationalIsrael,telegram_message_count,21.0
+2023-12-20,telegram,InternationalIsrael,telegram_total_views,92510.0
+2023-12-20,telegram,IsraelNewsLive,telegram_message_count,36.0
+2023-12-20,telegram,IsraelNewsLive,telegram_total_views,173994.0
+2023-12-21,telegram,GazaUpdates,telegram_message_count,25.0
+2023-12-21,telegram,GazaUpdates,telegram_total_views,104596.0
+2023-12-21,telegram,HomeFrontAlerts,telegram_message_count,17.0
+2023-12-21,telegram,HomeFrontAlerts,telegram_total_views,85918.0
+2023-12-21,telegram,HostageFamilies,telegram_message_count,11.0
+2023-12-21,telegram,HostageFamilies,telegram_total_views,53609.0
+2023-12-21,telegram,ILPoliticsChannel,telegram_message_count,13.0
+2023-12-21,telegram,ILPoliticsChannel,telegram_total_views,64385.0
+2023-12-21,telegram,InternationalIsrael,telegram_message_count,21.0
+2023-12-21,telegram,InternationalIsrael,telegram_total_views,104349.0
+2023-12-21,telegram,IsraelNewsLive,telegram_message_count,30.0
+2023-12-21,telegram,IsraelNewsLive,telegram_total_views,102485.0
+2023-12-22,telegram,GazaUpdates,telegram_message_count,25.0
+2023-12-22,telegram,GazaUpdates,telegram_total_views,114810.0
+2023-12-22,telegram,HomeFrontAlerts,telegram_message_count,21.0
+2023-12-22,telegram,HomeFrontAlerts,telegram_total_views,84933.0
+2023-12-22,telegram,HostageFamilies,telegram_message_count,9.0
+2023-12-22,telegram,HostageFamilies,telegram_total_views,42534.0
+2023-12-22,telegram,ILPoliticsChannel,telegram_message_count,14.0
+2023-12-22,telegram,ILPoliticsChannel,telegram_total_views,59759.0
+2023-12-22,telegram,InternationalIsrael,telegram_message_count,18.0
+2023-12-22,telegram,InternationalIsrael,telegram_total_views,81278.0
+2023-12-22,telegram,IsraelNewsLive,telegram_message_count,34.0
+2023-12-22,telegram,IsraelNewsLive,telegram_total_views,151943.0
+2023-12-23,telegram,GazaUpdates,telegram_message_count,30.0
+2023-12-23,telegram,GazaUpdates,telegram_total_views,168710.0
+2023-12-23,telegram,HomeFrontAlerts,telegram_message_count,25.0
+2023-12-23,telegram,HomeFrontAlerts,telegram_total_views,112037.0
+2023-12-23,telegram,HostageFamilies,telegram_message_count,4.0
+2023-12-23,telegram,HostageFamilies,telegram_total_views,20890.0
+2023-12-23,telegram,ILPoliticsChannel,telegram_message_count,32.0
+2023-12-23,telegram,ILPoliticsChannel,telegram_total_views,132024.0
+2023-12-23,telegram,InternationalIsrael,telegram_message_count,18.0
+2023-12-23,telegram,InternationalIsrael,telegram_total_views,85999.0
+2023-12-23,telegram,IsraelNewsLive,telegram_message_count,27.0
+2023-12-23,telegram,IsraelNewsLive,telegram_total_views,118747.0
+2023-12-24,telegram,GazaUpdates,telegram_message_count,16.0
+2023-12-24,telegram,GazaUpdates,telegram_total_views,71097.0
+2023-12-24,telegram,HomeFrontAlerts,telegram_message_count,19.0
+2023-12-24,telegram,HomeFrontAlerts,telegram_total_views,84985.0
+2023-12-24,telegram,HostageFamilies,telegram_message_count,10.0
+2023-12-24,telegram,HostageFamilies,telegram_total_views,38631.0
+2023-12-24,telegram,ILPoliticsChannel,telegram_message_count,12.0
+2023-12-24,telegram,ILPoliticsChannel,telegram_total_views,55227.0
+2023-12-24,telegram,InternationalIsrael,telegram_message_count,16.0
+2023-12-24,telegram,InternationalIsrael,telegram_total_views,64298.0
+2023-12-24,telegram,IsraelNewsLive,telegram_message_count,38.0
+2023-12-24,telegram,IsraelNewsLive,telegram_total_views,141284.0
+2023-12-25,telegram,GazaUpdates,telegram_message_count,27.0
+2023-12-25,telegram,GazaUpdates,telegram_total_views,123020.0
+2023-12-25,telegram,HomeFrontAlerts,telegram_message_count,23.0
+2023-12-25,telegram,HomeFrontAlerts,telegram_total_views,99034.0
+2023-12-25,telegram,HostageFamilies,telegram_message_count,8.0
+2023-12-25,telegram,HostageFamilies,telegram_total_views,33158.0
+2023-12-25,telegram,ILPoliticsChannel,telegram_message_count,18.0
+2023-12-25,telegram,ILPoliticsChannel,telegram_total_views,82191.0
+2023-12-25,telegram,InternationalIsrael,telegram_message_count,14.0
+2023-12-25,telegram,InternationalIsrael,telegram_total_views,73013.0
+2023-12-25,telegram,IsraelNewsLive,telegram_message_count,38.0
+2023-12-25,telegram,IsraelNewsLive,telegram_total_views,199440.0
+2023-12-26,telegram,GazaUpdates,telegram_message_count,24.0
+2023-12-26,telegram,GazaUpdates,telegram_total_views,141789.0
+2023-12-26,telegram,HomeFrontAlerts,telegram_message_count,15.0
+2023-12-26,telegram,HomeFrontAlerts,telegram_total_views,75767.0
+2023-12-26,telegram,HostageFamilies,telegram_message_count,9.0
+2023-12-26,telegram,HostageFamilies,telegram_total_views,44697.0
+2023-12-26,telegram,ILPoliticsChannel,telegram_message_count,13.0
+2023-12-26,telegram,ILPoliticsChannel,telegram_total_views,48591.0
+2023-12-26,telegram,InternationalIsrael,telegram_message_count,18.0
+2023-12-26,telegram,InternationalIsrael,telegram_total_views,92594.0
+2023-12-26,telegram,IsraelNewsLive,telegram_message_count,36.0
+2023-12-26,telegram,IsraelNewsLive,telegram_total_views,179628.0
+2023-12-27,telegram,GazaUpdates,telegram_message_count,35.0
+2023-12-27,telegram,GazaUpdates,telegram_total_views,182298.0
+2023-12-27,telegram,HomeFrontAlerts,telegram_message_count,24.0
+2023-12-27,telegram,HomeFrontAlerts,telegram_total_views,92890.0
+2023-12-27,telegram,HostageFamilies,telegram_message_count,9.0
+2023-12-27,telegram,HostageFamilies,telegram_total_views,40621.0
+2023-12-27,telegram,ILPoliticsChannel,telegram_message_count,13.0
+2023-12-27,telegram,ILPoliticsChannel,telegram_total_views,56959.0
+2023-12-27,telegram,InternationalIsrael,telegram_message_count,20.0
+2023-12-27,telegram,InternationalIsrael,telegram_total_views,93442.0
+2023-12-27,telegram,IsraelNewsLive,telegram_message_count,33.0
+2023-12-27,telegram,IsraelNewsLive,telegram_total_views,162994.0
+2023-12-28,telegram,GazaUpdates,telegram_message_count,32.0
+2023-12-28,telegram,GazaUpdates,telegram_total_views,145568.0
+2023-12-28,telegram,HomeFrontAlerts,telegram_message_count,16.0
+2023-12-28,telegram,HomeFrontAlerts,telegram_total_views,65906.0
+2023-12-28,telegram,HostageFamilies,telegram_message_count,10.0
+2023-12-28,telegram,HostageFamilies,telegram_total_views,31971.0
+2023-12-28,telegram,ILPoliticsChannel,telegram_message_count,19.0
+2023-12-28,telegram,ILPoliticsChannel,telegram_total_views,69804.0
+2023-12-28,telegram,InternationalIsrael,telegram_message_count,16.0
+2023-12-28,telegram,InternationalIsrael,telegram_total_views,64720.0
+2023-12-28,telegram,IsraelNewsLive,telegram_message_count,29.0
+2023-12-28,telegram,IsraelNewsLive,telegram_total_views,143534.0
+2023-12-29,telegram,GazaUpdates,telegram_message_count,31.0
+2023-12-29,telegram,GazaUpdates,telegram_total_views,145585.0
+2023-12-29,telegram,HomeFrontAlerts,telegram_message_count,19.0
+2023-12-29,telegram,HomeFrontAlerts,telegram_total_views,98020.0
+2023-12-29,telegram,HostageFamilies,telegram_message_count,6.0
+2023-12-29,telegram,HostageFamilies,telegram_total_views,35427.0
+2023-12-29,telegram,ILPoliticsChannel,telegram_message_count,15.0
+2023-12-29,telegram,ILPoliticsChannel,telegram_total_views,76789.0
+2023-12-29,telegram,InternationalIsrael,telegram_message_count,25.0
+2023-12-29,telegram,InternationalIsrael,telegram_total_views,128714.0
+2023-12-29,telegram,IsraelNewsLive,telegram_message_count,35.0
+2023-12-29,telegram,IsraelNewsLive,telegram_total_views,190624.0
+2023-12-30,telegram,GazaUpdates,telegram_message_count,28.0
+2023-12-30,telegram,GazaUpdates,telegram_total_views,123770.0
+2023-12-30,telegram,HomeFrontAlerts,telegram_message_count,21.0
+2023-12-30,telegram,HomeFrontAlerts,telegram_total_views,109158.0
+2023-12-30,telegram,HostageFamilies,telegram_message_count,11.0
+2023-12-30,telegram,HostageFamilies,telegram_total_views,48112.0
+2023-12-30,telegram,ILPoliticsChannel,telegram_message_count,17.0
+2023-12-30,telegram,ILPoliticsChannel,telegram_total_views,91207.0
+2023-12-30,telegram,InternationalIsrael,telegram_message_count,16.0
+2023-12-30,telegram,InternationalIsrael,telegram_total_views,93832.0
+2023-12-30,telegram,IsraelNewsLive,telegram_message_count,29.0
+2023-12-30,telegram,IsraelNewsLive,telegram_total_views,124107.0
+2023-12-31,telegram,GazaUpdates,telegram_message_count,27.0
+2023-12-31,telegram,GazaUpdates,telegram_total_views,126761.0
+2023-12-31,telegram,HomeFrontAlerts,telegram_message_count,15.0
+2023-12-31,telegram,HomeFrontAlerts,telegram_total_views,63312.0
+2023-12-31,telegram,HostageFamilies,telegram_message_count,13.0
+2023-12-31,telegram,HostageFamilies,telegram_total_views,60356.0
+2023-12-31,telegram,ILPoliticsChannel,telegram_message_count,12.0
+2023-12-31,telegram,ILPoliticsChannel,telegram_total_views,61700.0
+2023-12-31,telegram,InternationalIsrael,telegram_message_count,16.0
+2023-12-31,telegram,InternationalIsrael,telegram_total_views,80149.0
+2023-12-31,telegram,IsraelNewsLive,telegram_message_count,27.0
+2023-12-31,telegram,IsraelNewsLive,telegram_total_views,131972.0
+2023-09-01,rss,Haaretz,rss_article_count,22.0
+2023-09-01,rss,Kan News,rss_article_count,24.0
+2023-09-01,rss,Mako,rss_article_count,29.0
+2023-09-01,rss,N12 News,rss_article_count,39.0
+2023-09-01,rss,Times of Israel,rss_article_count,40.0
+2023-09-01,rss,Ynet,rss_article_count,41.0
+2023-09-02,rss,Haaretz,rss_article_count,27.0
+2023-09-02,rss,Kan News,rss_article_count,27.0
+2023-09-02,rss,Mako,rss_article_count,29.0
+2023-09-02,rss,N12 News,rss_article_count,28.0
+2023-09-02,rss,Times of Israel,rss_article_count,50.0
+2023-09-02,rss,Ynet,rss_article_count,31.0
+2023-09-03,rss,Haaretz,rss_article_count,29.0
+2023-09-03,rss,Kan News,rss_article_count,15.0
+2023-09-03,rss,Mako,rss_article_count,34.0
+2023-09-03,rss,N12 News,rss_article_count,32.0
+2023-09-03,rss,Times of Israel,rss_article_count,27.0
+2023-09-03,rss,Ynet,rss_article_count,48.0
+2023-09-04,rss,Haaretz,rss_article_count,24.0
+2023-09-04,rss,Kan News,rss_article_count,19.0
+2023-09-04,rss,Mako,rss_article_count,35.0
+2023-09-04,rss,N12 News,rss_article_count,30.0
+2023-09-04,rss,Times of Israel,rss_article_count,28.0
+2023-09-04,rss,Ynet,rss_article_count,33.0
+2023-09-05,rss,Haaretz,rss_article_count,24.0
+2023-09-05,rss,Kan News,rss_article_count,27.0
+2023-09-05,rss,Mako,rss_article_count,31.0
+2023-09-05,rss,N12 News,rss_article_count,26.0
+2023-09-05,rss,Times of Israel,rss_article_count,36.0
+2023-09-05,rss,Ynet,rss_article_count,44.0
+2023-09-06,rss,Haaretz,rss_article_count,22.0
+2023-09-06,rss,Kan News,rss_article_count,26.0
+2023-09-06,rss,Mako,rss_article_count,29.0
+2023-09-06,rss,N12 News,rss_article_count,39.0
+2023-09-06,rss,Times of Israel,rss_article_count,34.0
+2023-09-06,rss,Ynet,rss_article_count,39.0
+2023-09-07,rss,Haaretz,rss_article_count,31.0
+2023-09-07,rss,Kan News,rss_article_count,21.0
+2023-09-07,rss,Mako,rss_article_count,34.0
+2023-09-07,rss,N12 News,rss_article_count,27.0
+2023-09-07,rss,Times of Israel,rss_article_count,29.0
+2023-09-07,rss,Ynet,rss_article_count,39.0
+2023-09-08,rss,Haaretz,rss_article_count,31.0
+2023-09-08,rss,Kan News,rss_article_count,26.0
+2023-09-08,rss,Mako,rss_article_count,35.0
+2023-09-08,rss,N12 News,rss_article_count,36.0
+2023-09-08,rss,Times of Israel,rss_article_count,33.0
+2023-09-08,rss,Ynet,rss_article_count,40.0
+2023-09-09,rss,Haaretz,rss_article_count,25.0
+2023-09-09,rss,Kan News,rss_article_count,16.0
+2023-09-09,rss,Mako,rss_article_count,32.0
+2023-09-09,rss,N12 News,rss_article_count,26.0
+2023-09-09,rss,Times of Israel,rss_article_count,50.0
+2023-09-09,rss,Ynet,rss_article_count,38.0
+2023-09-10,rss,Haaretz,rss_article_count,22.0
+2023-09-10,rss,Kan News,rss_article_count,15.0
+2023-09-10,rss,Mako,rss_article_count,34.0
+2023-09-10,rss,N12 News,rss_article_count,31.0
+2023-09-10,rss,Times of Israel,rss_article_count,31.0
+2023-09-10,rss,Ynet,rss_article_count,30.0
+2023-09-11,rss,Haaretz,rss_article_count,30.0
+2023-09-11,rss,Kan News,rss_article_count,32.0
+2023-09-11,rss,Mako,rss_article_count,35.0
+2023-09-11,rss,N12 News,rss_article_count,35.0
+2023-09-11,rss,Times of Israel,rss_article_count,32.0
+2023-09-11,rss,Ynet,rss_article_count,54.0
+2023-09-12,rss,Haaretz,rss_article_count,22.0
+2023-09-12,rss,Kan News,rss_article_count,18.0
+2023-09-12,rss,Mako,rss_article_count,46.0
+2023-09-12,rss,N12 News,rss_article_count,27.0
+2023-09-12,rss,Times of Israel,rss_article_count,36.0
+2023-09-12,rss,Ynet,rss_article_count,35.0
+2023-09-13,rss,Haaretz,rss_article_count,29.0
+2023-09-13,rss,Kan News,rss_article_count,25.0
+2023-09-13,rss,Mako,rss_article_count,30.0
+2023-09-13,rss,N12 News,rss_article_count,39.0
+2023-09-13,rss,Times of Israel,rss_article_count,43.0
+2023-09-13,rss,Ynet,rss_article_count,42.0
+2023-09-14,rss,Haaretz,rss_article_count,35.0
+2023-09-14,rss,Kan News,rss_article_count,22.0
+2023-09-14,rss,Mako,rss_article_count,30.0
+2023-09-14,rss,N12 News,rss_article_count,33.0
+2023-09-14,rss,Times of Israel,rss_article_count,32.0
+2023-09-14,rss,Ynet,rss_article_count,53.0
+2023-09-15,rss,Haaretz,rss_article_count,25.0
+2023-09-15,rss,Kan News,rss_article_count,20.0
+2023-09-15,rss,Mako,rss_article_count,40.0
+2023-09-15,rss,N12 News,rss_article_count,29.0
+2023-09-15,rss,Times of Israel,rss_article_count,30.0
+2023-09-15,rss,Ynet,rss_article_count,46.0
+2023-09-16,rss,Haaretz,rss_article_count,21.0
+2023-09-16,rss,Kan News,rss_article_count,28.0
+2023-09-16,rss,Mako,rss_article_count,36.0
+2023-09-16,rss,N12 News,rss_article_count,26.0
+2023-09-16,rss,Times of Israel,rss_article_count,41.0
+2023-09-16,rss,Ynet,rss_article_count,44.0
+2023-09-17,rss,Haaretz,rss_article_count,21.0
+2023-09-17,rss,Kan News,rss_article_count,22.0
+2023-09-17,rss,Mako,rss_article_count,29.0
+2023-09-17,rss,N12 News,rss_article_count,28.0
+2023-09-17,rss,Times of Israel,rss_article_count,41.0
+2023-09-17,rss,Ynet,rss_article_count,36.0
+2023-09-18,rss,Haaretz,rss_article_count,26.0
+2023-09-18,rss,Kan News,rss_article_count,26.0
+2023-09-18,rss,Mako,rss_article_count,36.0
+2023-09-18,rss,N12 News,rss_article_count,25.0
+2023-09-18,rss,Times of Israel,rss_article_count,29.0
+2023-09-18,rss,Ynet,rss_article_count,51.0
+2023-09-19,rss,Haaretz,rss_article_count,27.0
+2023-09-19,rss,Kan News,rss_article_count,15.0
+2023-09-19,rss,Mako,rss_article_count,41.0
+2023-09-19,rss,N12 News,rss_article_count,33.0
+2023-09-19,rss,Times of Israel,rss_article_count,33.0
+2023-09-19,rss,Ynet,rss_article_count,40.0
+2023-09-20,rss,Haaretz,rss_article_count,24.0
+2023-09-20,rss,Kan News,rss_article_count,27.0
+2023-09-20,rss,Mako,rss_article_count,39.0
+2023-09-20,rss,N12 News,rss_article_count,25.0
+2023-09-20,rss,Times of Israel,rss_article_count,46.0
+2023-09-20,rss,Ynet,rss_article_count,54.0
+2023-09-21,rss,Haaretz,rss_article_count,29.0
+2023-09-21,rss,Kan News,rss_article_count,19.0
+2023-09-21,rss,Mako,rss_article_count,39.0
+2023-09-21,rss,N12 News,rss_article_count,24.0
+2023-09-21,rss,Times of Israel,rss_article_count,34.0
+2023-09-21,rss,Ynet,rss_article_count,35.0
+2023-09-22,rss,Haaretz,rss_article_count,23.0
+2023-09-22,rss,Kan News,rss_article_count,21.0
+2023-09-22,rss,Mako,rss_article_count,36.0
+2023-09-22,rss,N12 News,rss_article_count,24.0
+2023-09-22,rss,Times of Israel,rss_article_count,33.0
+2023-09-22,rss,Ynet,rss_article_count,36.0
+2023-09-23,rss,Haaretz,rss_article_count,23.0
+2023-09-23,rss,Kan News,rss_article_count,18.0
+2023-09-23,rss,Mako,rss_article_count,45.0
+2023-09-23,rss,N12 News,rss_article_count,32.0
+2023-09-23,rss,Times of Israel,rss_article_count,36.0
+2023-09-23,rss,Ynet,rss_article_count,32.0
+2023-09-24,rss,Haaretz,rss_article_count,31.0
+2023-09-24,rss,Kan News,rss_article_count,16.0
+2023-09-24,rss,Mako,rss_article_count,27.0
+2023-09-24,rss,N12 News,rss_article_count,33.0
+2023-09-24,rss,Times of Israel,rss_article_count,42.0
+2023-09-24,rss,Ynet,rss_article_count,39.0
+2023-09-25,rss,Haaretz,rss_article_count,34.0
+2023-09-25,rss,Kan News,rss_article_count,27.0
+2023-09-25,rss,Mako,rss_article_count,29.0
+2023-09-25,rss,N12 News,rss_article_count,24.0
+2023-09-25,rss,Times of Israel,rss_article_count,40.0
+2023-09-25,rss,Ynet,rss_article_count,32.0
+2023-09-26,rss,Haaretz,rss_article_count,27.0
+2023-09-26,rss,Kan News,rss_article_count,21.0
+2023-09-26,rss,Mako,rss_article_count,26.0
+2023-09-26,rss,N12 News,rss_article_count,33.0
+2023-09-26,rss,Times of Israel,rss_article_count,35.0
+2023-09-26,rss,Ynet,rss_article_count,53.0
+2023-09-27,rss,Haaretz,rss_article_count,29.0
+2023-09-27,rss,Kan News,rss_article_count,21.0
+2023-09-27,rss,Mako,rss_article_count,32.0
+2023-09-27,rss,N12 News,rss_article_count,30.0
+2023-09-27,rss,Times of Israel,rss_article_count,40.0
+2023-09-27,rss,Ynet,rss_article_count,33.0
+2023-09-28,rss,Haaretz,rss_article_count,19.0
+2023-09-28,rss,Kan News,rss_article_count,28.0
+2023-09-28,rss,Mako,rss_article_count,27.0
+2023-09-28,rss,N12 News,rss_article_count,29.0
+2023-09-28,rss,Times of Israel,rss_article_count,41.0
+2023-09-28,rss,Ynet,rss_article_count,37.0
+2023-09-29,rss,Haaretz,rss_article_count,28.0
+2023-09-29,rss,Kan News,rss_article_count,29.0
+2023-09-29,rss,Mako,rss_article_count,33.0
+2023-09-29,rss,N12 News,rss_article_count,39.0
+2023-09-29,rss,Times of Israel,rss_article_count,58.0
+2023-09-29,rss,Ynet,rss_article_count,46.0
+2023-09-30,rss,Haaretz,rss_article_count,22.0
+2023-09-30,rss,Kan News,rss_article_count,29.0
+2023-09-30,rss,Mako,rss_article_count,33.0
+2023-09-30,rss,N12 News,rss_article_count,21.0
+2023-09-30,rss,Times of Israel,rss_article_count,37.0
+2023-09-30,rss,Ynet,rss_article_count,45.0
+2023-10-01,rss,Haaretz,rss_article_count,21.0
+2023-10-01,rss,Kan News,rss_article_count,19.0
+2023-10-01,rss,Mako,rss_article_count,33.0
+2023-10-01,rss,N12 News,rss_article_count,22.0
+2023-10-01,rss,Times of Israel,rss_article_count,35.0
+2023-10-01,rss,Ynet,rss_article_count,36.0
+2023-10-02,rss,Haaretz,rss_article_count,22.0
+2023-10-02,rss,Kan News,rss_article_count,23.0
+2023-10-02,rss,Mako,rss_article_count,40.0
+2023-10-02,rss,N12 News,rss_article_count,25.0
+2023-10-02,rss,Times of Israel,rss_article_count,38.0
+2023-10-02,rss,Ynet,rss_article_count,43.0
+2023-10-03,rss,Haaretz,rss_article_count,28.0
+2023-10-03,rss,Kan News,rss_article_count,19.0
+2023-10-03,rss,Mako,rss_article_count,28.0
+2023-10-03,rss,N12 News,rss_article_count,27.0
+2023-10-03,rss,Times of Israel,rss_article_count,36.0
+2023-10-03,rss,Ynet,rss_article_count,40.0
+2023-10-04,rss,Haaretz,rss_article_count,29.0
+2023-10-04,rss,Kan News,rss_article_count,22.0
+2023-10-04,rss,Mako,rss_article_count,44.0
+2023-10-04,rss,N12 News,rss_article_count,37.0
+2023-10-04,rss,Times of Israel,rss_article_count,30.0
+2023-10-04,rss,Ynet,rss_article_count,51.0
+2023-10-05,rss,Haaretz,rss_article_count,19.0
+2023-10-05,rss,Kan News,rss_article_count,16.0
+2023-10-05,rss,Mako,rss_article_count,24.0
+2023-10-05,rss,N12 News,rss_article_count,29.0
+2023-10-05,rss,Times of Israel,rss_article_count,27.0
+2023-10-05,rss,Ynet,rss_article_count,43.0
+2023-10-06,rss,Haaretz,rss_article_count,349.0
+2023-10-06,rss,Kan News,rss_article_count,344.0
+2023-10-06,rss,Mako,rss_article_count,459.0
+2023-10-06,rss,N12 News,rss_article_count,414.0
+2023-10-06,rss,Times of Israel,rss_article_count,505.0
+2023-10-06,rss,Ynet,rss_article_count,571.0
+2023-10-07,rss,Haaretz,rss_article_count,396.0
+2023-10-07,rss,Kan News,rss_article_count,340.0
+2023-10-07,rss,Mako,rss_article_count,458.0
+2023-10-07,rss,N12 News,rss_article_count,451.0
+2023-10-07,rss,Times of Israel,rss_article_count,564.0
+2023-10-07,rss,Ynet,rss_article_count,620.0
+2023-10-08,rss,Haaretz,rss_article_count,246.0
+2023-10-08,rss,Kan News,rss_article_count,228.0
+2023-10-08,rss,Mako,rss_article_count,321.0
+2023-10-08,rss,N12 News,rss_article_count,301.0
+2023-10-08,rss,Times of Israel,rss_article_count,396.0
+2023-10-08,rss,Ynet,rss_article_count,430.0
+2023-10-09,rss,Haaretz,rss_article_count,191.0
+2023-10-09,rss,Kan News,rss_article_count,142.0
+2023-10-09,rss,Mako,rss_article_count,228.0
+2023-10-09,rss,N12 News,rss_article_count,201.0
+2023-10-09,rss,Times of Israel,rss_article_count,247.0
+2023-10-09,rss,Ynet,rss_article_count,317.0
+2023-10-10,rss,Haaretz,rss_article_count,136.0
+2023-10-10,rss,Kan News,rss_article_count,134.0
+2023-10-10,rss,Mako,rss_article_count,155.0
+2023-10-10,rss,N12 News,rss_article_count,140.0
+2023-10-10,rss,Times of Israel,rss_article_count,197.0
+2023-10-10,rss,Ynet,rss_article_count,224.0
+2023-10-11,rss,Haaretz,rss_article_count,82.0
+2023-10-11,rss,Kan News,rss_article_count,85.0
+2023-10-11,rss,Mako,rss_article_count,122.0
+2023-10-11,rss,N12 News,rss_article_count,102.0
+2023-10-11,rss,Times of Israel,rss_article_count,122.0
+2023-10-11,rss,Ynet,rss_article_count,161.0
+2023-10-12,rss,Haaretz,rss_article_count,67.0
+2023-10-12,rss,Kan News,rss_article_count,65.0
+2023-10-12,rss,Mako,rss_article_count,78.0
+2023-10-12,rss,N12 News,rss_article_count,64.0
+2023-10-12,rss,Times of Israel,rss_article_count,99.0
+2023-10-12,rss,Ynet,rss_article_count,102.0
+2023-10-13,rss,Haaretz,rss_article_count,58.0
+2023-10-13,rss,Kan News,rss_article_count,33.0
+2023-10-13,rss,Mako,rss_article_count,55.0
+2023-10-13,rss,N12 News,rss_article_count,41.0
+2023-10-13,rss,Times of Israel,rss_article_count,74.0
+2023-10-13,rss,Ynet,rss_article_count,68.0
+2023-10-14,rss,Haaretz,rss_article_count,40.0
+2023-10-14,rss,Kan News,rss_article_count,34.0
+2023-10-14,rss,Mako,rss_article_count,39.0
+2023-10-14,rss,N12 News,rss_article_count,32.0
+2023-10-14,rss,Times of Israel,rss_article_count,64.0
+2023-10-14,rss,Ynet,rss_article_count,55.0
+2023-10-15,rss,Haaretz,rss_article_count,20.0
+2023-10-15,rss,Kan News,rss_article_count,22.0
+2023-10-15,rss,Mako,rss_article_count,46.0
+2023-10-15,rss,N12 News,rss_article_count,35.0
+2023-10-15,rss,Times of Israel,rss_article_count,38.0
+2023-10-15,rss,Ynet,rss_article_count,38.0
+2023-10-16,rss,Haaretz,rss_article_count,34.0
+2023-10-16,rss,Kan News,rss_article_count,22.0
+2023-10-16,rss,Mako,rss_article_count,31.0
+2023-10-16,rss,N12 News,rss_article_count,33.0
+2023-10-16,rss,Times of Israel,rss_article_count,32.0
+2023-10-16,rss,Ynet,rss_article_count,59.0
+2023-10-17,rss,Haaretz,rss_article_count,26.0
+2023-10-17,rss,Kan News,rss_article_count,25.0
+2023-10-17,rss,Mako,rss_article_count,27.0
+2023-10-17,rss,N12 News,rss_article_count,26.0
+2023-10-17,rss,Times of Israel,rss_article_count,40.0
+2023-10-17,rss,Ynet,rss_article_count,38.0
+2023-10-18,rss,Haaretz,rss_article_count,26.0
+2023-10-18,rss,Kan News,rss_article_count,23.0
+2023-10-18,rss,Mako,rss_article_count,41.0
+2023-10-18,rss,N12 News,rss_article_count,31.0
+2023-10-18,rss,Times of Israel,rss_article_count,27.0
+2023-10-18,rss,Ynet,rss_article_count,39.0
+2023-10-19,rss,Haaretz,rss_article_count,30.0
+2023-10-19,rss,Kan News,rss_article_count,18.0
+2023-10-19,rss,Mako,rss_article_count,30.0
+2023-10-19,rss,N12 News,rss_article_count,41.0
+2023-10-19,rss,Times of Israel,rss_article_count,50.0
+2023-10-19,rss,Ynet,rss_article_count,38.0
+2023-10-20,rss,Haaretz,rss_article_count,33.0
+2023-10-20,rss,Kan News,rss_article_count,27.0
+2023-10-20,rss,Mako,rss_article_count,34.0
+2023-10-20,rss,N12 News,rss_article_count,22.0
+2023-10-20,rss,Times of Israel,rss_article_count,42.0
+2023-10-20,rss,Ynet,rss_article_count,44.0
+2023-10-21,rss,Haaretz,rss_article_count,18.0
+2023-10-21,rss,Kan News,rss_article_count,28.0
+2023-10-21,rss,Mako,rss_article_count,26.0
+2023-10-21,rss,N12 News,rss_article_count,40.0
+2023-10-21,rss,Times of Israel,rss_article_count,43.0
+2023-10-21,rss,Ynet,rss_article_count,43.0
+2023-10-22,rss,Haaretz,rss_article_count,30.0
+2023-10-22,rss,Kan News,rss_article_count,20.0
+2023-10-22,rss,Mako,rss_article_count,28.0
+2023-10-22,rss,N12 News,rss_article_count,25.0
+2023-10-22,rss,Times of Israel,rss_article_count,33.0
+2023-10-22,rss,Ynet,rss_article_count,47.0
+2023-10-23,rss,Haaretz,rss_article_count,40.0
+2023-10-23,rss,Kan News,rss_article_count,19.0
+2023-10-23,rss,Mako,rss_article_count,40.0
+2023-10-23,rss,N12 News,rss_article_count,28.0
+2023-10-23,rss,Times of Israel,rss_article_count,37.0
+2023-10-23,rss,Ynet,rss_article_count,57.0
+2023-10-24,rss,Haaretz,rss_article_count,27.0
+2023-10-24,rss,Kan News,rss_article_count,27.0
+2023-10-24,rss,Mako,rss_article_count,30.0
+2023-10-24,rss,N12 News,rss_article_count,39.0
+2023-10-24,rss,Times of Israel,rss_article_count,39.0
+2023-10-24,rss,Ynet,rss_article_count,44.0
+2023-10-25,rss,Haaretz,rss_article_count,42.0
+2023-10-25,rss,Kan News,rss_article_count,33.0
+2023-10-25,rss,Mako,rss_article_count,37.0
+2023-10-25,rss,N12 News,rss_article_count,33.0
+2023-10-25,rss,Times of Israel,rss_article_count,45.0
+2023-10-25,rss,Ynet,rss_article_count,42.0
+2023-10-26,rss,Haaretz,rss_article_count,152.0
+2023-10-26,rss,Kan News,rss_article_count,133.0
+2023-10-26,rss,Mako,rss_article_count,188.0
+2023-10-26,rss,N12 News,rss_article_count,192.0
+2023-10-26,rss,Times of Israel,rss_article_count,218.0
+2023-10-26,rss,Ynet,rss_article_count,276.0
+2023-10-27,rss,Haaretz,rss_article_count,177.0
+2023-10-27,rss,Kan News,rss_article_count,131.0
+2023-10-27,rss,Mako,rss_article_count,199.0
+2023-10-27,rss,N12 News,rss_article_count,166.0
+2023-10-27,rss,Times of Israel,rss_article_count,195.0
+2023-10-27,rss,Ynet,rss_article_count,245.0
+2023-10-28,rss,Haaretz,rss_article_count,104.0
+2023-10-28,rss,Kan News,rss_article_count,91.0
+2023-10-28,rss,Mako,rss_article_count,116.0
+2023-10-28,rss,N12 News,rss_article_count,114.0
+2023-10-28,rss,Times of Israel,rss_article_count,173.0
+2023-10-28,rss,Ynet,rss_article_count,185.0
+2023-10-29,rss,Haaretz,rss_article_count,74.0
+2023-10-29,rss,Kan News,rss_article_count,55.0
+2023-10-29,rss,Mako,rss_article_count,90.0
+2023-10-29,rss,N12 News,rss_article_count,81.0
+2023-10-29,rss,Times of Israel,rss_article_count,100.0
+2023-10-29,rss,Ynet,rss_article_count,134.0
+2023-10-30,rss,Haaretz,rss_article_count,53.0
+2023-10-30,rss,Kan News,rss_article_count,56.0
+2023-10-30,rss,Mako,rss_article_count,50.0
+2023-10-30,rss,N12 News,rss_article_count,56.0
+2023-10-30,rss,Times of Israel,rss_article_count,69.0
+2023-10-30,rss,Ynet,rss_article_count,93.0
+2023-10-31,rss,Haaretz,rss_article_count,45.0
+2023-10-31,rss,Kan News,rss_article_count,35.0
+2023-10-31,rss,Mako,rss_article_count,47.0
+2023-10-31,rss,N12 News,rss_article_count,44.0
+2023-10-31,rss,Times of Israel,rss_article_count,44.0
+2023-10-31,rss,Ynet,rss_article_count,63.0
+2023-11-01,rss,Haaretz,rss_article_count,27.0
+2023-11-01,rss,Kan News,rss_article_count,33.0
+2023-11-01,rss,Mako,rss_article_count,36.0
+2023-11-01,rss,N12 News,rss_article_count,36.0
+2023-11-01,rss,Times of Israel,rss_article_count,47.0
+2023-11-01,rss,Ynet,rss_article_count,45.0
+2023-11-02,rss,Haaretz,rss_article_count,27.0
+2023-11-02,rss,Kan News,rss_article_count,20.0
+2023-11-02,rss,Mako,rss_article_count,30.0
+2023-11-02,rss,N12 News,rss_article_count,30.0
+2023-11-02,rss,Times of Israel,rss_article_count,46.0
+2023-11-02,rss,Ynet,rss_article_count,42.0
+2023-11-03,rss,Haaretz,rss_article_count,18.0
+2023-11-03,rss,Kan News,rss_article_count,24.0
+2023-11-03,rss,Mako,rss_article_count,37.0
+2023-11-03,rss,N12 News,rss_article_count,36.0
+2023-11-03,rss,Times of Israel,rss_article_count,35.0
+2023-11-03,rss,Ynet,rss_article_count,40.0
+2023-11-04,rss,Haaretz,rss_article_count,25.0
+2023-11-04,rss,Kan News,rss_article_count,23.0
+2023-11-04,rss,Mako,rss_article_count,22.0
+2023-11-04,rss,N12 News,rss_article_count,34.0
+2023-11-04,rss,Times of Israel,rss_article_count,46.0
+2023-11-04,rss,Ynet,rss_article_count,51.0
+2023-11-05,rss,Haaretz,rss_article_count,22.0
+2023-11-05,rss,Kan News,rss_article_count,25.0
+2023-11-05,rss,Mako,rss_article_count,43.0
+2023-11-05,rss,N12 News,rss_article_count,27.0
+2023-11-05,rss,Times of Israel,rss_article_count,43.0
+2023-11-05,rss,Ynet,rss_article_count,53.0
+2023-11-06,rss,Haaretz,rss_article_count,31.0
+2023-11-06,rss,Kan News,rss_article_count,27.0
+2023-11-06,rss,Mako,rss_article_count,34.0
+2023-11-06,rss,N12 News,rss_article_count,28.0
+2023-11-06,rss,Times of Israel,rss_article_count,40.0
+2023-11-06,rss,Ynet,rss_article_count,52.0
+2023-11-07,rss,Haaretz,rss_article_count,25.0
+2023-11-07,rss,Kan News,rss_article_count,24.0
+2023-11-07,rss,Mako,rss_article_count,40.0
+2023-11-07,rss,N12 News,rss_article_count,25.0
+2023-11-07,rss,Times of Israel,rss_article_count,36.0
+2023-11-07,rss,Ynet,rss_article_count,47.0
+2023-11-08,rss,Haaretz,rss_article_count,21.0
+2023-11-08,rss,Kan News,rss_article_count,23.0
+2023-11-08,rss,Mako,rss_article_count,34.0
+2023-11-08,rss,N12 News,rss_article_count,31.0
+2023-11-08,rss,Times of Israel,rss_article_count,37.0
+2023-11-08,rss,Ynet,rss_article_count,48.0
+2023-11-09,rss,Haaretz,rss_article_count,31.0
+2023-11-09,rss,Kan News,rss_article_count,21.0
+2023-11-09,rss,Mako,rss_article_count,25.0
+2023-11-09,rss,N12 News,rss_article_count,34.0
+2023-11-09,rss,Times of Israel,rss_article_count,37.0
+2023-11-09,rss,Ynet,rss_article_count,39.0
+2023-11-10,rss,Haaretz,rss_article_count,26.0
+2023-11-10,rss,Kan News,rss_article_count,19.0
+2023-11-10,rss,Mako,rss_article_count,30.0
+2023-11-10,rss,N12 News,rss_article_count,20.0
+2023-11-10,rss,Times of Israel,rss_article_count,52.0
+2023-11-10,rss,Ynet,rss_article_count,49.0
+2023-11-11,rss,Haaretz,rss_article_count,27.0
+2023-11-11,rss,Kan News,rss_article_count,34.0
+2023-11-11,rss,Mako,rss_article_count,46.0
+2023-11-11,rss,N12 News,rss_article_count,30.0
+2023-11-11,rss,Times of Israel,rss_article_count,42.0
+2023-11-11,rss,Ynet,rss_article_count,30.0
+2023-11-12,rss,Haaretz,rss_article_count,23.0
+2023-11-12,rss,Kan News,rss_article_count,24.0
+2023-11-12,rss,Mako,rss_article_count,37.0
+2023-11-12,rss,N12 News,rss_article_count,30.0
+2023-11-12,rss,Times of Israel,rss_article_count,41.0
+2023-11-12,rss,Ynet,rss_article_count,38.0
+2023-11-13,rss,Haaretz,rss_article_count,28.0
+2023-11-13,rss,Kan News,rss_article_count,18.0
+2023-11-13,rss,Mako,rss_article_count,32.0
+2023-11-13,rss,N12 News,rss_article_count,28.0
+2023-11-13,rss,Times of Israel,rss_article_count,44.0
+2023-11-13,rss,Ynet,rss_article_count,47.0
+2023-11-14,rss,Haaretz,rss_article_count,24.0
+2023-11-14,rss,Kan News,rss_article_count,30.0
+2023-11-14,rss,Mako,rss_article_count,36.0
+2023-11-14,rss,N12 News,rss_article_count,36.0
+2023-11-14,rss,Times of Israel,rss_article_count,38.0
+2023-11-14,rss,Ynet,rss_article_count,36.0
+2023-11-15,rss,Haaretz,rss_article_count,20.0
+2023-11-15,rss,Kan News,rss_article_count,26.0
+2023-11-15,rss,Mako,rss_article_count,29.0
+2023-11-15,rss,N12 News,rss_article_count,30.0
+2023-11-15,rss,Times of Israel,rss_article_count,39.0
+2023-11-15,rss,Ynet,rss_article_count,41.0
+2023-11-16,rss,Haaretz,rss_article_count,25.0
+2023-11-16,rss,Kan News,rss_article_count,26.0
+2023-11-16,rss,Mako,rss_article_count,31.0
+2023-11-16,rss,N12 News,rss_article_count,27.0
+2023-11-16,rss,Times of Israel,rss_article_count,38.0
+2023-11-16,rss,Ynet,rss_article_count,55.0
+2023-11-17,rss,Haaretz,rss_article_count,27.0
+2023-11-17,rss,Kan News,rss_article_count,24.0
+2023-11-17,rss,Mako,rss_article_count,34.0
+2023-11-17,rss,N12 News,rss_article_count,31.0
+2023-11-17,rss,Times of Israel,rss_article_count,38.0
+2023-11-17,rss,Ynet,rss_article_count,47.0
+2023-11-18,rss,Haaretz,rss_article_count,28.0
+2023-11-18,rss,Kan News,rss_article_count,21.0
+2023-11-18,rss,Mako,rss_article_count,33.0
+2023-11-18,rss,N12 News,rss_article_count,23.0
+2023-11-18,rss,Times of Israel,rss_article_count,34.0
+2023-11-18,rss,Ynet,rss_article_count,53.0
+2023-11-19,rss,Haaretz,rss_article_count,26.0
+2023-11-19,rss,Kan News,rss_article_count,30.0
+2023-11-19,rss,Mako,rss_article_count,36.0
+2023-11-19,rss,N12 News,rss_article_count,32.0
+2023-11-19,rss,Times of Israel,rss_article_count,32.0
+2023-11-19,rss,Ynet,rss_article_count,59.0
+2023-11-20,rss,Haaretz,rss_article_count,23.0
+2023-11-20,rss,Kan News,rss_article_count,23.0
+2023-11-20,rss,Mako,rss_article_count,32.0
+2023-11-20,rss,N12 News,rss_article_count,25.0
+2023-11-20,rss,Times of Israel,rss_article_count,43.0
+2023-11-20,rss,Ynet,rss_article_count,45.0
+2023-11-21,rss,Haaretz,rss_article_count,29.0
+2023-11-21,rss,Kan News,rss_article_count,19.0
+2023-11-21,rss,Mako,rss_article_count,42.0
+2023-11-21,rss,N12 News,rss_article_count,28.0
+2023-11-21,rss,Times of Israel,rss_article_count,35.0
+2023-11-21,rss,Ynet,rss_article_count,36.0
+2023-11-22,rss,Haaretz,rss_article_count,37.0
+2023-11-22,rss,Kan News,rss_article_count,25.0
+2023-11-22,rss,Mako,rss_article_count,26.0
+2023-11-22,rss,N12 News,rss_article_count,22.0
+2023-11-22,rss,Times of Israel,rss_article_count,28.0
+2023-11-22,rss,Ynet,rss_article_count,43.0
+2023-11-23,rss,Haaretz,rss_article_count,159.0
+2023-11-23,rss,Kan News,rss_article_count,116.0
+2023-11-23,rss,Mako,rss_article_count,151.0
+2023-11-23,rss,N12 News,rss_article_count,146.0
+2023-11-23,rss,Times of Israel,rss_article_count,189.0
+2023-11-23,rss,Ynet,rss_article_count,230.0
+2023-11-24,rss,Haaretz,rss_article_count,152.0
+2023-11-24,rss,Kan News,rss_article_count,120.0
+2023-11-24,rss,Mako,rss_article_count,177.0
+2023-11-24,rss,N12 News,rss_article_count,140.0
+2023-11-24,rss,Times of Israel,rss_article_count,170.0
+2023-11-24,rss,Ynet,rss_article_count,177.0
+2023-11-25,rss,Haaretz,rss_article_count,74.0
+2023-11-25,rss,Kan News,rss_article_count,84.0
+2023-11-25,rss,Mako,rss_article_count,117.0
+2023-11-25,rss,N12 News,rss_article_count,76.0
+2023-11-25,rss,Times of Israel,rss_article_count,123.0
+2023-11-25,rss,Ynet,rss_article_count,118.0
+2023-11-26,rss,Haaretz,rss_article_count,60.0
+2023-11-26,rss,Kan News,rss_article_count,64.0
+2023-11-26,rss,Mako,rss_article_count,82.0
+2023-11-26,rss,N12 News,rss_article_count,83.0
+2023-11-26,rss,Times of Israel,rss_article_count,99.0
+2023-11-26,rss,Ynet,rss_article_count,110.0
+2023-11-27,rss,Haaretz,rss_article_count,40.0
+2023-11-27,rss,Kan News,rss_article_count,44.0
+2023-11-27,rss,Mako,rss_article_count,40.0
+2023-11-27,rss,N12 News,rss_article_count,58.0
+2023-11-27,rss,Times of Israel,rss_article_count,56.0
+2023-11-27,rss,Ynet,rss_article_count,69.0
+2023-11-28,rss,Haaretz,rss_article_count,33.0
+2023-11-28,rss,Kan News,rss_article_count,26.0
+2023-11-28,rss,Mako,rss_article_count,40.0
+2023-11-28,rss,N12 News,rss_article_count,45.0
+2023-11-28,rss,Times of Israel,rss_article_count,35.0
+2023-11-28,rss,Ynet,rss_article_count,59.0
+2023-11-29,rss,Haaretz,rss_article_count,20.0
+2023-11-29,rss,Kan News,rss_article_count,25.0
+2023-11-29,rss,Mako,rss_article_count,30.0
+2023-11-29,rss,N12 News,rss_article_count,31.0
+2023-11-29,rss,Times of Israel,rss_article_count,48.0
+2023-11-29,rss,Ynet,rss_article_count,43.0
+2023-11-30,rss,Haaretz,rss_article_count,101.0
+2023-11-30,rss,Kan News,rss_article_count,76.0
+2023-11-30,rss,Mako,rss_article_count,133.0
+2023-11-30,rss,N12 News,rss_article_count,132.0
+2023-11-30,rss,Times of Israel,rss_article_count,131.0
+2023-11-30,rss,Ynet,rss_article_count,134.0
+2023-12-01,rss,Haaretz,rss_article_count,109.0
+2023-12-01,rss,Kan News,rss_article_count,94.0
+2023-12-01,rss,Mako,rss_article_count,120.0
+2023-12-01,rss,N12 News,rss_article_count,90.0
+2023-12-01,rss,Times of Israel,rss_article_count,122.0
+2023-12-01,rss,Ynet,rss_article_count,132.0
+2023-12-02,rss,Haaretz,rss_article_count,67.0
+2023-12-02,rss,Kan News,rss_article_count,55.0
+2023-12-02,rss,Mako,rss_article_count,84.0
+2023-12-02,rss,N12 News,rss_article_count,77.0
+2023-12-02,rss,Times of Israel,rss_article_count,100.0
+2023-12-02,rss,Ynet,rss_article_count,123.0
+2023-12-03,rss,Haaretz,rss_article_count,42.0
+2023-12-03,rss,Kan News,rss_article_count,44.0
+2023-12-03,rss,Mako,rss_article_count,73.0
+2023-12-03,rss,N12 News,rss_article_count,50.0
+2023-12-03,rss,Times of Israel,rss_article_count,70.0
+2023-12-03,rss,Ynet,rss_article_count,80.0
+2023-12-04,rss,Haaretz,rss_article_count,25.0
+2023-12-04,rss,Kan News,rss_article_count,39.0
+2023-12-04,rss,Mako,rss_article_count,55.0
+2023-12-04,rss,N12 News,rss_article_count,33.0
+2023-12-04,rss,Times of Israel,rss_article_count,39.0
+2023-12-04,rss,Ynet,rss_article_count,45.0
+2023-12-05,rss,Haaretz,rss_article_count,25.0
+2023-12-05,rss,Kan News,rss_article_count,30.0
+2023-12-05,rss,Mako,rss_article_count,30.0
+2023-12-05,rss,N12 News,rss_article_count,31.0
+2023-12-05,rss,Times of Israel,rss_article_count,33.0
+2023-12-05,rss,Ynet,rss_article_count,37.0
+2023-12-06,rss,Haaretz,rss_article_count,23.0
+2023-12-06,rss,Kan News,rss_article_count,25.0
+2023-12-06,rss,Mako,rss_article_count,31.0
+2023-12-06,rss,N12 News,rss_article_count,27.0
+2023-12-06,rss,Times of Israel,rss_article_count,40.0
+2023-12-06,rss,Ynet,rss_article_count,42.0
+2023-12-07,rss,Haaretz,rss_article_count,23.0
+2023-12-07,rss,Kan News,rss_article_count,22.0
+2023-12-07,rss,Mako,rss_article_count,22.0
+2023-12-07,rss,N12 News,rss_article_count,30.0
+2023-12-07,rss,Times of Israel,rss_article_count,35.0
+2023-12-07,rss,Ynet,rss_article_count,46.0
+2023-12-08,rss,Haaretz,rss_article_count,24.0
+2023-12-08,rss,Kan News,rss_article_count,20.0
+2023-12-08,rss,Mako,rss_article_count,24.0
+2023-12-08,rss,N12 News,rss_article_count,30.0
+2023-12-08,rss,Times of Israel,rss_article_count,43.0
+2023-12-08,rss,Ynet,rss_article_count,48.0
+2023-12-09,rss,Haaretz,rss_article_count,23.0
+2023-12-09,rss,Kan News,rss_article_count,20.0
+2023-12-09,rss,Mako,rss_article_count,37.0
+2023-12-09,rss,N12 News,rss_article_count,29.0
+2023-12-09,rss,Times of Israel,rss_article_count,44.0
+2023-12-09,rss,Ynet,rss_article_count,57.0
+2023-12-10,rss,Haaretz,rss_article_count,37.0
+2023-12-10,rss,Kan News,rss_article_count,23.0
+2023-12-10,rss,Mako,rss_article_count,25.0
+2023-12-10,rss,N12 News,rss_article_count,34.0
+2023-12-10,rss,Times of Israel,rss_article_count,35.0
+2023-12-10,rss,Ynet,rss_article_count,47.0
+2023-12-11,rss,Haaretz,rss_article_count,25.0
+2023-12-11,rss,Kan News,rss_article_count,21.0
+2023-12-11,rss,Mako,rss_article_count,32.0
+2023-12-11,rss,N12 News,rss_article_count,28.0
+2023-12-11,rss,Times of Israel,rss_article_count,40.0
+2023-12-11,rss,Ynet,rss_article_count,48.0
+2023-12-12,rss,Haaretz,rss_article_count,18.0
+2023-12-12,rss,Kan News,rss_article_count,31.0
+2023-12-12,rss,Mako,rss_article_count,27.0
+2023-12-12,rss,N12 News,rss_article_count,32.0
+2023-12-12,rss,Times of Israel,rss_article_count,30.0
+2023-12-12,rss,Ynet,rss_article_count,43.0
+2023-12-13,rss,Haaretz,rss_article_count,23.0
+2023-12-13,rss,Kan News,rss_article_count,13.0
+2023-12-13,rss,Mako,rss_article_count,29.0
+2023-12-13,rss,N12 News,rss_article_count,36.0
+2023-12-13,rss,Times of Israel,rss_article_count,36.0
+2023-12-13,rss,Ynet,rss_article_count,54.0
+2023-12-14,rss,Haaretz,rss_article_count,27.0
+2023-12-14,rss,Kan News,rss_article_count,20.0
+2023-12-14,rss,Mako,rss_article_count,35.0
+2023-12-14,rss,N12 News,rss_article_count,28.0
+2023-12-14,rss,Times of Israel,rss_article_count,50.0
+2023-12-14,rss,Ynet,rss_article_count,52.0
+2023-12-15,rss,Haaretz,rss_article_count,30.0
+2023-12-15,rss,Kan News,rss_article_count,31.0
+2023-12-15,rss,Mako,rss_article_count,37.0
+2023-12-15,rss,N12 News,rss_article_count,28.0
+2023-12-15,rss,Times of Israel,rss_article_count,48.0
+2023-12-15,rss,Ynet,rss_article_count,42.0
+2023-12-16,rss,Haaretz,rss_article_count,32.0
+2023-12-16,rss,Kan News,rss_article_count,16.0
+2023-12-16,rss,Mako,rss_article_count,30.0
+2023-12-16,rss,N12 News,rss_article_count,26.0
+2023-12-16,rss,Times of Israel,rss_article_count,32.0
+2023-12-16,rss,Ynet,rss_article_count,46.0
+2023-12-17,rss,Haaretz,rss_article_count,31.0
+2023-12-17,rss,Kan News,rss_article_count,19.0
+2023-12-17,rss,Mako,rss_article_count,37.0
+2023-12-17,rss,N12 News,rss_article_count,26.0
+2023-12-17,rss,Times of Israel,rss_article_count,37.0
+2023-12-17,rss,Ynet,rss_article_count,37.0
+2023-12-18,rss,Haaretz,rss_article_count,23.0
+2023-12-18,rss,Kan News,rss_article_count,20.0
+2023-12-18,rss,Mako,rss_article_count,37.0
+2023-12-18,rss,N12 News,rss_article_count,35.0
+2023-12-18,rss,Times of Israel,rss_article_count,37.0
+2023-12-18,rss,Ynet,rss_article_count,29.0
+2023-12-19,rss,Haaretz,rss_article_count,26.0
+2023-12-19,rss,Kan News,rss_article_count,29.0
+2023-12-19,rss,Mako,rss_article_count,31.0
+2023-12-19,rss,N12 News,rss_article_count,32.0
+2023-12-19,rss,Times of Israel,rss_article_count,36.0
+2023-12-19,rss,Ynet,rss_article_count,48.0
+2023-12-20,rss,Haaretz,rss_article_count,34.0
+2023-12-20,rss,Kan News,rss_article_count,26.0
+2023-12-20,rss,Mako,rss_article_count,36.0
+2023-12-20,rss,N12 News,rss_article_count,28.0
+2023-12-20,rss,Times of Israel,rss_article_count,43.0
+2023-12-20,rss,Ynet,rss_article_count,47.0
+2023-12-21,rss,Haaretz,rss_article_count,18.0
+2023-12-21,rss,Kan News,rss_article_count,16.0
+2023-12-21,rss,Mako,rss_article_count,32.0
+2023-12-21,rss,N12 News,rss_article_count,27.0
+2023-12-21,rss,Times of Israel,rss_article_count,41.0
+2023-12-21,rss,Ynet,rss_article_count,43.0
+2023-12-22,rss,Haaretz,rss_article_count,22.0
+2023-12-22,rss,Kan News,rss_article_count,27.0
+2023-12-22,rss,Mako,rss_article_count,28.0
+2023-12-22,rss,N12 News,rss_article_count,24.0
+2023-12-22,rss,Times of Israel,rss_article_count,31.0
+2023-12-22,rss,Ynet,rss_article_count,31.0
+2023-12-23,rss,Haaretz,rss_article_count,32.0
+2023-12-23,rss,Kan News,rss_article_count,33.0
+2023-12-23,rss,Mako,rss_article_count,43.0
+2023-12-23,rss,N12 News,rss_article_count,32.0
+2023-12-23,rss,Times of Israel,rss_article_count,39.0
+2023-12-23,rss,Ynet,rss_article_count,42.0
+2023-12-24,rss,Haaretz,rss_article_count,21.0
+2023-12-24,rss,Kan News,rss_article_count,18.0
+2023-12-24,rss,Mako,rss_article_count,27.0
+2023-12-24,rss,N12 News,rss_article_count,35.0
+2023-12-24,rss,Times of Israel,rss_article_count,41.0
+2023-12-24,rss,Ynet,rss_article_count,33.0
+2023-12-25,rss,Haaretz,rss_article_count,36.0
+2023-12-25,rss,Kan News,rss_article_count,21.0
+2023-12-25,rss,Mako,rss_article_count,38.0
+2023-12-25,rss,N12 News,rss_article_count,35.0
+2023-12-25,rss,Times of Israel,rss_article_count,41.0
+2023-12-25,rss,Ynet,rss_article_count,44.0
+2023-12-26,rss,Haaretz,rss_article_count,26.0
+2023-12-26,rss,Kan News,rss_article_count,20.0
+2023-12-26,rss,Mako,rss_article_count,28.0
+2023-12-26,rss,N12 News,rss_article_count,21.0
+2023-12-26,rss,Times of Israel,rss_article_count,39.0
+2023-12-26,rss,Ynet,rss_article_count,47.0
+2023-12-27,rss,Haaretz,rss_article_count,28.0
+2023-12-27,rss,Kan News,rss_article_count,25.0
+2023-12-27,rss,Mako,rss_article_count,37.0
+2023-12-27,rss,N12 News,rss_article_count,29.0
+2023-12-27,rss,Times of Israel,rss_article_count,37.0
+2023-12-27,rss,Ynet,rss_article_count,43.0
+2023-12-28,rss,Haaretz,rss_article_count,23.0
+2023-12-28,rss,Kan News,rss_article_count,29.0
+2023-12-28,rss,Mako,rss_article_count,30.0
+2023-12-28,rss,N12 News,rss_article_count,27.0
+2023-12-28,rss,Times of Israel,rss_article_count,41.0
+2023-12-28,rss,Ynet,rss_article_count,46.0
+2023-12-29,rss,Haaretz,rss_article_count,34.0
+2023-12-29,rss,Kan News,rss_article_count,25.0
+2023-12-29,rss,Mako,rss_article_count,33.0
+2023-12-29,rss,N12 News,rss_article_count,35.0
+2023-12-29,rss,Times of Israel,rss_article_count,36.0
+2023-12-29,rss,Ynet,rss_article_count,50.0
+2023-12-30,rss,Haaretz,rss_article_count,21.0
+2023-12-30,rss,Kan News,rss_article_count,17.0
+2023-12-30,rss,Mako,rss_article_count,24.0
+2023-12-30,rss,N12 News,rss_article_count,38.0
+2023-12-30,rss,Times of Israel,rss_article_count,35.0
+2023-12-30,rss,Ynet,rss_article_count,40.0
+2023-12-31,rss,Haaretz,rss_article_count,19.0
+2023-12-31,rss,Kan News,rss_article_count,23.0
+2023-12-31,rss,Mako,rss_article_count,45.0
+2023-12-31,rss,N12 News,rss_article_count,29.0
+2023-12-31,rss,Times of Israel,rss_article_count,37.0
+2023-12-31,rss,Ynet,rss_article_count,43.0
+2023-09-01,google_trends,news,google_trend_value,1.0
+2023-09-02,google_trends,news,google_trend_value,1.2
+2023-09-03,google_trends,news,google_trend_value,1.2
+2023-09-04,google_trends,news,google_trend_value,1.6
+2023-09-05,google_trends,news,google_trend_value,0.2
+2023-09-06,google_trends,news,google_trend_value,1.6
+2023-09-07,google_trends,news,google_trend_value,0.7
+2023-09-08,google_trends,news,google_trend_value,0.9
+2023-09-09,google_trends,news,google_trend_value,1.1
+2023-09-10,google_trends,news,google_trend_value,0.7
+2023-09-11,google_trends,news,google_trend_value,1.0
+2023-09-12,google_trends,news,google_trend_value,1.4
+2023-09-13,google_trends,news,google_trend_value,1.7
+2023-09-14,google_trends,news,google_trend_value,1.3
+2023-09-15,google_trends,news,google_trend_value,1.1
+2023-09-16,google_trends,news,google_trend_value,0.3
+2023-09-17,google_trends,news,google_trend_value,1.2
+2023-09-18,google_trends,news,google_trend_value,1.2
+2023-09-19,google_trends,news,google_trend_value,0.7
+2023-09-20,google_trends,news,google_trend_value,1.3
+2023-09-21,google_trends,news,google_trend_value,0.6
+2023-09-22,google_trends,news,google_trend_value,0.8
+2023-09-23,google_trends,news,google_trend_value,1.3
+2023-09-24,google_trends,news,google_trend_value,1.7
+2023-09-25,google_trends,news,google_trend_value,1.3
+2023-09-26,google_trends,news,google_trend_value,0.8
+2023-09-27,google_trends,news,google_trend_value,0.5
+2023-09-28,google_trends,news,google_trend_value,1.7
+2023-09-29,google_trends,news,google_trend_value,1.1
+2023-09-30,google_trends,news,google_trend_value,1.0
+2023-10-01,google_trends,news,google_trend_value,1.0
+2023-10-02,google_trends,news,google_trend_value,1.6
+2023-10-03,google_trends,news,google_trend_value,1.4
+2023-10-04,google_trends,news,google_trend_value,1.2
+2023-10-05,google_trends,news,google_trend_value,0.1
+2023-10-06,google_trends,news,google_trend_value,100.0
+2023-10-07,google_trends,news,google_trend_value,99.9
+2023-10-08,google_trends,news,google_trend_value,68.6
+2023-10-09,google_trends,news,google_trend_value,46.3
+2023-10-10,google_trends,news,google_trend_value,31.7
+2023-10-11,google_trends,news,google_trend_value,19.5
+2023-10-12,google_trends,news,google_trend_value,13.0
+2023-10-13,google_trends,news,google_trend_value,7.7
+2023-10-14,google_trends,news,google_trend_value,2.9
+2023-10-15,google_trends,news,google_trend_value,0.9
+2023-10-16,google_trends,news,google_trend_value,1.5
+2023-10-17,google_trends,news,google_trend_value,0.9
+2023-10-18,google_trends,news,google_trend_value,1.1
+2023-10-19,google_trends,news,google_trend_value,1.2
+2023-10-20,google_trends,news,google_trend_value,0.8
+2023-10-21,google_trends,news,google_trend_value,1.4
+2023-10-22,google_trends,news,google_trend_value,0.7
+2023-10-23,google_trends,news,google_trend_value,1.0
+2023-10-24,google_trends,news,google_trend_value,1.4
+2023-10-25,google_trends,news,google_trend_value,0.0
+2023-10-26,google_trends,news,google_trend_value,36.7
+2023-10-27,google_trends,news,google_trend_value,35.7
+2023-10-28,google_trends,news,google_trend_value,23.5
+2023-10-29,google_trends,news,google_trend_value,14.8
+2023-10-30,google_trends,news,google_trend_value,8.2
+2023-10-31,google_trends,news,google_trend_value,3.7
+2023-11-01,google_trends,news,google_trend_value,1.5
+2023-11-02,google_trends,news,google_trend_value,0.8
+2023-11-03,google_trends,news,google_trend_value,1.6
+2023-11-04,google_trends,news,google_trend_value,1.4
+2023-11-05,google_trends,news,google_trend_value,0.6
+2023-11-06,google_trends,news,google_trend_value,1.5
+2023-11-07,google_trends,news,google_trend_value,1.4
+2023-11-08,google_trends,news,google_trend_value,0.3
+2023-11-09,google_trends,news,google_trend_value,1.1
+2023-11-10,google_trends,news,google_trend_value,0.5
+2023-11-11,google_trends,news,google_trend_value,0.8
+2023-11-12,google_trends,news,google_trend_value,1.2
+2023-11-13,google_trends,news,google_trend_value,0.9
+2023-11-14,google_trends,news,google_trend_value,0.9
+2023-11-15,google_trends,news,google_trend_value,1.2
+2023-11-16,google_trends,news,google_trend_value,0.2
+2023-11-17,google_trends,news,google_trend_value,0.8
+2023-11-18,google_trends,news,google_trend_value,0.8
+2023-11-19,google_trends,news,google_trend_value,0.5
+2023-11-20,google_trends,news,google_trend_value,0.6
+2023-11-21,google_trends,news,google_trend_value,0.0
+2023-11-22,google_trends,news,google_trend_value,1.2
+2023-11-23,google_trends,news,google_trend_value,28.8
+2023-11-24,google_trends,news,google_trend_value,29.1
+2023-11-25,google_trends,news,google_trend_value,19.5
+2023-11-26,google_trends,news,google_trend_value,10.8
+2023-11-27,google_trends,news,google_trend_value,6.2
+2023-11-28,google_trends,news,google_trend_value,2.5
+2023-11-29,google_trends,news,google_trend_value,1.0
+2023-11-30,google_trends,news,google_trend_value,21.9
+2023-12-01,google_trends,news,google_trend_value,22.2
+2023-12-02,google_trends,news,google_trend_value,13.6
+2023-12-03,google_trends,news,google_trend_value,8.1
+2023-12-04,google_trends,news,google_trend_value,3.7
+2023-12-05,google_trends,news,google_trend_value,1.7
+2023-12-06,google_trends,news,google_trend_value,1.2
+2023-12-07,google_trends,news,google_trend_value,1.1
+2023-12-08,google_trends,news,google_trend_value,0.6
+2023-12-09,google_trends,news,google_trend_value,1.2
+2023-12-10,google_trends,news,google_trend_value,1.3
+2023-12-11,google_trends,news,google_trend_value,0.2
+2023-12-12,google_trends,news,google_trend_value,1.2
+2023-12-13,google_trends,news,google_trend_value,0.7
+2023-12-14,google_trends,news,google_trend_value,1.1
+2023-12-15,google_trends,news,google_trend_value,0.9
+2023-12-16,google_trends,news,google_trend_value,0.5
+2023-12-17,google_trends,news,google_trend_value,0.6
+2023-12-18,google_trends,news,google_trend_value,0.1
+2023-12-19,google_trends,news,google_trend_value,1.1
+2023-12-20,google_trends,news,google_trend_value,0.2
+2023-12-21,google_trends,news,google_trend_value,0.5
+2023-12-22,google_trends,news,google_trend_value,1.1
+2023-12-23,google_trends,news,google_trend_value,1.7
+2023-12-24,google_trends,news,google_trend_value,1.0
+2023-12-25,google_trends,news,google_trend_value,0.9
+2023-12-26,google_trends,news,google_trend_value,1.0
+2023-12-27,google_trends,news,google_trend_value,0.9
+2023-12-28,google_trends,news,google_trend_value,0.4
+2023-12-29,google_trends,news,google_trend_value,0.8
+2023-12-30,google_trends,news,google_trend_value,1.3
+2023-12-31,google_trends,news,google_trend_value,0.5
+2023-09-01,google_trends,siren,google_trend_value,0.6
+2023-09-02,google_trends,siren,google_trend_value,0.9
+2023-09-03,google_trends,siren,google_trend_value,0.9
+2023-09-04,google_trends,siren,google_trend_value,0.8
+2023-09-05,google_trends,siren,google_trend_value,0.1
+2023-09-06,google_trends,siren,google_trend_value,1.0
+2023-09-07,google_trends,siren,google_trend_value,0.4
+2023-09-08,google_trends,siren,google_trend_value,0.9
+2023-09-09,google_trends,siren,google_trend_value,1.1
+2023-09-10,google_trends,siren,google_trend_value,1.0
+2023-09-11,google_trends,siren,google_trend_value,1.4
+2023-09-12,google_trends,siren,google_trend_value,0.9
+2023-09-13,google_trends,siren,google_trend_value,1.1
+2023-09-14,google_trends,siren,google_trend_value,0.5
+2023-09-15,google_trends,siren,google_trend_value,0.6
+2023-09-16,google_trends,siren,google_trend_value,0.3
+2023-09-17,google_trends,siren,google_trend_value,1.2
+2023-09-18,google_trends,siren,google_trend_value,1.0
+2023-09-19,google_trends,siren,google_trend_value,0.1
+2023-09-20,google_trends,siren,google_trend_value,0.9
+2023-09-21,google_trends,siren,google_trend_value,0.6
+2023-09-22,google_trends,siren,google_trend_value,0.6
+2023-09-23,google_trends,siren,google_trend_value,0.7
+2023-09-24,google_trends,siren,google_trend_value,1.0
+2023-09-25,google_trends,siren,google_trend_value,1.0
+2023-09-26,google_trends,siren,google_trend_value,0.5
+2023-09-27,google_trends,siren,google_trend_value,0.5
+2023-09-28,google_trends,siren,google_trend_value,1.3
+2023-09-29,google_trends,siren,google_trend_value,0.7
+2023-09-30,google_trends,siren,google_trend_value,0.5
+2023-10-01,google_trends,siren,google_trend_value,1.1
+2023-10-02,google_trends,siren,google_trend_value,1.1
+2023-10-03,google_trends,siren,google_trend_value,0.7
+2023-10-04,google_trends,siren,google_trend_value,1.1
+2023-10-05,google_trends,siren,google_trend_value,0.1
+2023-10-06,google_trends,siren,google_trend_value,99.4
+2023-10-07,google_trends,siren,google_trend_value,100.0
+2023-10-08,google_trends,siren,google_trend_value,68.1
+2023-10-09,google_trends,siren,google_trend_value,45.9
+2023-10-10,google_trends,siren,google_trend_value,31.2
+2023-10-11,google_trends,siren,google_trend_value,19.9
+2023-10-12,google_trends,siren,google_trend_value,12.8
+2023-10-13,google_trends,siren,google_trend_value,7.1
+2023-10-14,google_trends,siren,google_trend_value,2.8
+2023-10-15,google_trends,siren,google_trend_value,0.7
+2023-10-16,google_trends,siren,google_trend_value,1.2
+2023-10-17,google_trends,siren,google_trend_value,0.5
+2023-10-18,google_trends,siren,google_trend_value,0.5
+2023-10-19,google_trends,siren,google_trend_value,1.1
+2023-10-20,google_trends,siren,google_trend_value,0.3
+2023-10-21,google_trends,siren,google_trend_value,1.2
+2023-10-22,google_trends,siren,google_trend_value,0.4
+2023-10-23,google_trends,siren,google_trend_value,0.6
+2023-10-24,google_trends,siren,google_trend_value,0.7
+2023-10-25,google_trends,siren,google_trend_value,0.2
+2023-10-26,google_trends,siren,google_trend_value,36.3
+2023-10-27,google_trends,siren,google_trend_value,35.6
+2023-10-28,google_trends,siren,google_trend_value,23.4
+2023-10-29,google_trends,siren,google_trend_value,14.1
+2023-10-30,google_trends,siren,google_trend_value,8.0
+2023-10-31,google_trends,siren,google_trend_value,3.8
+2023-11-01,google_trends,siren,google_trend_value,0.7
+2023-11-02,google_trends,siren,google_trend_value,0.8
+2023-11-03,google_trends,siren,google_trend_value,1.1
+2023-11-04,google_trends,siren,google_trend_value,1.1
+2023-11-05,google_trends,siren,google_trend_value,0.4
+2023-11-06,google_trends,siren,google_trend_value,1.3
+2023-11-07,google_trends,siren,google_trend_value,1.0
+2023-11-08,google_trends,siren,google_trend_value,0.6
+2023-11-09,google_trends,siren,google_trend_value,0.4
+2023-11-10,google_trends,siren,google_trend_value,0.6
+2023-11-11,google_trends,siren,google_trend_value,0.8
+2023-11-12,google_trends,siren,google_trend_value,0.8
+2023-11-13,google_trends,siren,google_trend_value,0.7
+2023-11-14,google_trends,siren,google_trend_value,1.5
+2023-11-15,google_trends,siren,google_trend_value,0.9
+2023-11-16,google_trends,siren,google_trend_value,0.6
+2023-11-17,google_trends,siren,google_trend_value,1.2
+2023-11-18,google_trends,siren,google_trend_value,0.6
+2023-11-19,google_trends,siren,google_trend_value,1.1
+2023-11-20,google_trends,siren,google_trend_value,0.3
+2023-11-21,google_trends,siren,google_trend_value,0.1
+2023-11-22,google_trends,siren,google_trend_value,0.4
+2023-11-23,google_trends,siren,google_trend_value,29.3
+2023-11-24,google_trends,siren,google_trend_value,29.2
+2023-11-25,google_trends,siren,google_trend_value,19.2
+2023-11-26,google_trends,siren,google_trend_value,10.4
+2023-11-27,google_trends,siren,google_trend_value,6.4
+2023-11-28,google_trends,siren,google_trend_value,2.0
+2023-11-29,google_trends,siren,google_trend_value,1.0
+2023-11-30,google_trends,siren,google_trend_value,21.4
+2023-12-01,google_trends,siren,google_trend_value,22.1
+2023-12-02,google_trends,siren,google_trend_value,13.0
+2023-12-03,google_trends,siren,google_trend_value,8.1
+2023-12-04,google_trends,siren,google_trend_value,3.0
+2023-12-05,google_trends,siren,google_trend_value,0.9
+2023-12-06,google_trends,siren,google_trend_value,1.2
+2023-12-07,google_trends,siren,google_trend_value,0.8
+2023-12-08,google_trends,siren,google_trend_value,0.6
+2023-12-09,google_trends,siren,google_trend_value,0.7
+2023-12-10,google_trends,siren,google_trend_value,1.1
+2023-12-11,google_trends,siren,google_trend_value,0.5
+2023-12-12,google_trends,siren,google_trend_value,1.0
+2023-12-13,google_trends,siren,google_trend_value,0.5
+2023-12-14,google_trends,siren,google_trend_value,1.0
+2023-12-15,google_trends,siren,google_trend_value,0.8
+2023-12-16,google_trends,siren,google_trend_value,0.5
+2023-12-17,google_trends,siren,google_trend_value,1.1
+2023-12-18,google_trends,siren,google_trend_value,0.0
+2023-12-19,google_trends,siren,google_trend_value,0.7
+2023-12-20,google_trends,siren,google_trend_value,0.4
+2023-12-21,google_trends,siren,google_trend_value,0.7
+2023-12-22,google_trends,siren,google_trend_value,0.9
+2023-12-23,google_trends,siren,google_trend_value,0.9
+2023-12-24,google_trends,siren,google_trend_value,0.8
+2023-12-25,google_trends,siren,google_trend_value,1.2
+2023-12-26,google_trends,siren,google_trend_value,1.0
+2023-12-27,google_trends,siren,google_trend_value,0.0
+2023-12-28,google_trends,siren,google_trend_value,0.7
+2023-12-29,google_trends,siren,google_trend_value,1.1
+2023-12-30,google_trends,siren,google_trend_value,1.0
+2023-12-31,google_trends,siren,google_trend_value,1.0
+2023-09-01,google_trends,hostages,google_trend_value,0.8
+2023-09-02,google_trends,hostages,google_trend_value,1.2
+2023-09-03,google_trends,hostages,google_trend_value,1.0
+2023-09-04,google_trends,hostages,google_trend_value,0.7
+2023-09-05,google_trends,hostages,google_trend_value,0.1
+2023-09-06,google_trends,hostages,google_trend_value,1.2
+2023-09-07,google_trends,hostages,google_trend_value,0.5
+2023-09-08,google_trends,hostages,google_trend_value,0.8
+2023-09-09,google_trends,hostages,google_trend_value,0.8
+2023-09-10,google_trends,hostages,google_trend_value,0.7
+2023-09-11,google_trends,hostages,google_trend_value,0.9
+2023-09-12,google_trends,hostages,google_trend_value,0.7
+2023-09-13,google_trends,hostages,google_trend_value,0.9
+2023-09-14,google_trends,hostages,google_trend_value,0.9
+2023-09-15,google_trends,hostages,google_trend_value,0.6
+2023-09-16,google_trends,hostages,google_trend_value,0.4
+2023-09-17,google_trends,hostages,google_trend_value,1.5
+2023-09-18,google_trends,hostages,google_trend_value,0.9
+2023-09-19,google_trends,hostages,google_trend_value,0.3
+2023-09-20,google_trends,hostages,google_trend_value,0.9
+2023-09-21,google_trends,hostages,google_trend_value,1.0
+2023-09-22,google_trends,hostages,google_trend_value,0.4
+2023-09-23,google_trends,hostages,google_trend_value,0.9
+2023-09-24,google_trends,hostages,google_trend_value,1.2
+2023-09-25,google_trends,hostages,google_trend_value,0.9
+2023-09-26,google_trends,hostages,google_trend_value,0.2
+2023-09-27,google_trends,hostages,google_trend_value,0.2
+2023-09-28,google_trends,hostages,google_trend_value,0.9
+2023-09-29,google_trends,hostages,google_trend_value,1.1
+2023-09-30,google_trends,hostages,google_trend_value,0.3
+2023-10-01,google_trends,hostages,google_trend_value,0.7
+2023-10-02,google_trends,hostages,google_trend_value,0.9
+2023-10-03,google_trends,hostages,google_trend_value,1.2
+2023-10-04,google_trends,hostages,google_trend_value,1.1
+2023-10-05,google_trends,hostages,google_trend_value,0.5
+2023-10-06,google_trends,hostages,google_trend_value,99.7
+2023-10-07,google_trends,hostages,google_trend_value,100.0
+2023-10-08,google_trends,hostages,google_trend_value,68.5
+2023-10-09,google_trends,hostages,google_trend_value,45.7
+2023-10-10,google_trends,hostages,google_trend_value,31.0
+2023-10-11,google_trends,hostages,google_trend_value,19.9
+2023-10-12,google_trends,hostages,google_trend_value,12.3
+2023-10-13,google_trends,hostages,google_trend_value,7.3
+2023-10-14,google_trends,hostages,google_trend_value,2.7
+2023-10-15,google_trends,hostages,google_trend_value,0.6
+2023-10-16,google_trends,hostages,google_trend_value,0.9
+2023-10-17,google_trends,hostages,google_trend_value,0.6
+2023-10-18,google_trends,hostages,google_trend_value,0.9
+2023-10-19,google_trends,hostages,google_trend_value,1.2
+2023-10-20,google_trends,hostages,google_trend_value,0.3
+2023-10-21,google_trends,hostages,google_trend_value,1.2
+2023-10-22,google_trends,hostages,google_trend_value,0.2
+2023-10-23,google_trends,hostages,google_trend_value,0.9
+2023-10-24,google_trends,hostages,google_trend_value,0.7
+2023-10-25,google_trends,hostages,google_trend_value,0.2
+2023-10-26,google_trends,hostages,google_trend_value,36.2
+2023-10-27,google_trends,hostages,google_trend_value,35.8
+2023-10-28,google_trends,hostages,google_trend_value,23.8
+2023-10-29,google_trends,hostages,google_trend_value,14.4
+2023-10-30,google_trends,hostages,google_trend_value,7.8
+2023-10-31,google_trends,hostages,google_trend_value,3.9
+2023-11-01,google_trends,hostages,google_trend_value,0.9
+2023-11-02,google_trends,hostages,google_trend_value,1.1
+2023-11-03,google_trends,hostages,google_trend_value,0.7
+2023-11-04,google_trends,hostages,google_trend_value,0.8
+2023-11-05,google_trends,hostages,google_trend_value,0.3
+2023-11-06,google_trends,hostages,google_trend_value,1.2
+2023-11-07,google_trends,hostages,google_trend_value,1.5
+2023-11-08,google_trends,hostages,google_trend_value,0.3
+2023-11-09,google_trends,hostages,google_trend_value,0.5
+2023-11-10,google_trends,hostages,google_trend_value,0.3
+2023-11-11,google_trends,hostages,google_trend_value,0.9
+2023-11-12,google_trends,hostages,google_trend_value,1.1
+2023-11-13,google_trends,hostages,google_trend_value,0.6
+2023-11-14,google_trends,hostages,google_trend_value,1.2
+2023-11-15,google_trends,hostages,google_trend_value,0.7
+2023-11-16,google_trends,hostages,google_trend_value,0.1
+2023-11-17,google_trends,hostages,google_trend_value,0.8
+2023-11-18,google_trends,hostages,google_trend_value,1.0
+2023-11-19,google_trends,hostages,google_trend_value,0.8
+2023-11-20,google_trends,hostages,google_trend_value,0.3
+2023-11-21,google_trends,hostages,google_trend_value,0.1
+2023-11-22,google_trends,hostages,google_trend_value,0.6
+2023-11-23,google_trends,hostages,google_trend_value,29.0
+2023-11-24,google_trends,hostages,google_trend_value,29.1
+2023-11-25,google_trends,hostages,google_trend_value,18.7
+2023-11-26,google_trends,hostages,google_trend_value,10.8
+2023-11-27,google_trends,hostages,google_trend_value,6.2
+2023-11-28,google_trends,hostages,google_trend_value,1.9
+2023-11-29,google_trends,hostages,google_trend_value,0.9
+2023-11-30,google_trends,hostages,google_trend_value,21.4
+2023-12-01,google_trends,hostages,google_trend_value,22.2
+2023-12-02,google_trends,hostages,google_trend_value,13.4
+2023-12-03,google_trends,hostages,google_trend_value,8.4
+2023-12-04,google_trends,hostages,google_trend_value,3.4
+2023-12-05,google_trends,hostages,google_trend_value,1.2
+2023-12-06,google_trends,hostages,google_trend_value,1.3
+2023-12-07,google_trends,hostages,google_trend_value,0.9
+2023-12-08,google_trends,hostages,google_trend_value,0.2
+2023-12-09,google_trends,hostages,google_trend_value,0.9
+2023-12-10,google_trends,hostages,google_trend_value,0.9
+2023-12-11,google_trends,hostages,google_trend_value,0.2
+2023-12-12,google_trends,hostages,google_trend_value,1.0
+2023-12-13,google_trends,hostages,google_trend_value,0.3
+2023-12-14,google_trends,hostages,google_trend_value,0.9
+2023-12-15,google_trends,hostages,google_trend_value,0.9
+2023-12-16,google_trends,hostages,google_trend_value,0.7
+2023-12-17,google_trends,hostages,google_trend_value,1.2
+2023-12-18,google_trends,hostages,google_trend_value,0.0
+2023-12-19,google_trends,hostages,google_trend_value,0.8
+2023-12-20,google_trends,hostages,google_trend_value,0.4
+2023-12-21,google_trends,hostages,google_trend_value,0.9
+2023-12-22,google_trends,hostages,google_trend_value,1.1
+2023-12-23,google_trends,hostages,google_trend_value,1.1
+2023-12-24,google_trends,hostages,google_trend_value,0.7
+2023-12-25,google_trends,hostages,google_trend_value,1.2
+2023-12-26,google_trends,hostages,google_trend_value,0.6
+2023-12-27,google_trends,hostages,google_trend_value,0.2
+2023-12-28,google_trends,hostages,google_trend_value,0.8
+2023-12-29,google_trends,hostages,google_trend_value,0.7
+2023-12-30,google_trends,hostages,google_trend_value,1.0
+2023-12-31,google_trends,hostages,google_trend_value,0.9
+2023-09-01,google_trends,home front command,google_trend_value,0.7
+2023-09-02,google_trends,home front command,google_trend_value,1.4
+2023-09-03,google_trends,home front command,google_trend_value,1.0
+2023-09-04,google_trends,home front command,google_trend_value,0.7
+2023-09-05,google_trends,home front command,google_trend_value,0.4
+2023-09-06,google_trends,home front command,google_trend_value,0.9
+2023-09-07,google_trends,home front command,google_trend_value,0.2
+2023-09-08,google_trends,home front command,google_trend_value,0.8
+2023-09-09,google_trends,home front command,google_trend_value,0.8
+2023-09-10,google_trends,home front command,google_trend_value,1.1
+2023-09-11,google_trends,home front command,google_trend_value,1.4
+2023-09-12,google_trends,home front command,google_trend_value,0.6
+2023-09-13,google_trends,home front command,google_trend_value,1.4
+2023-09-14,google_trends,home front command,google_trend_value,0.7
+2023-09-15,google_trends,home front command,google_trend_value,1.0
+2023-09-16,google_trends,home front command,google_trend_value,0.3
+2023-09-17,google_trends,home front command,google_trend_value,1.4
+2023-09-18,google_trends,home front command,google_trend_value,0.6
+2023-09-19,google_trends,home front command,google_trend_value,0.5
+2023-09-20,google_trends,home front command,google_trend_value,0.8
+2023-09-21,google_trends,home front command,google_trend_value,1.0
+2023-09-22,google_trends,home front command,google_trend_value,0.3
+2023-09-23,google_trends,home front command,google_trend_value,1.0
+2023-09-24,google_trends,home front command,google_trend_value,1.3
+2023-09-25,google_trends,home front command,google_trend_value,1.1
+2023-09-26,google_trends,home front command,google_trend_value,0.5
+2023-09-27,google_trends,home front command,google_trend_value,0.3
+2023-09-28,google_trends,home front command,google_trend_value,1.0
+2023-09-29,google_trends,home front command,google_trend_value,1.2
+2023-09-30,google_trends,home front command,google_trend_value,0.2
+2023-10-01,google_trends,home front command,google_trend_value,0.6
+2023-10-02,google_trends,home front command,google_trend_value,0.9
+2023-10-03,google_trends,home front command,google_trend_value,1.0
+2023-10-04,google_trends,home front command,google_trend_value,0.7
+2023-10-05,google_trends,home front command,google_trend_value,0.1
+2023-10-06,google_trends,home front command,google_trend_value,99.8
+2023-10-07,google_trends,home front command,google_trend_value,100.0
+2023-10-08,google_trends,home front command,google_trend_value,68.2
+2023-10-09,google_trends,home front command,google_trend_value,45.9
+2023-10-10,google_trends,home front command,google_trend_value,31.1
+2023-10-11,google_trends,home front command,google_trend_value,19.5
+2023-10-12,google_trends,home front command,google_trend_value,12.4
+2023-10-13,google_trends,home front command,google_trend_value,7.2
+2023-10-14,google_trends,home front command,google_trend_value,2.5
+2023-10-15,google_trends,home front command,google_trend_value,0.2
+2023-10-16,google_trends,home front command,google_trend_value,1.2
+2023-10-17,google_trends,home front command,google_trend_value,0.5
+2023-10-18,google_trends,home front command,google_trend_value,0.6
+2023-10-19,google_trends,home front command,google_trend_value,0.8
+2023-10-20,google_trends,home front command,google_trend_value,0.2
+2023-10-21,google_trends,home front command,google_trend_value,1.1
+2023-10-22,google_trends,home front command,google_trend_value,0.5
+2023-10-23,google_trends,home front command,google_trend_value,0.6
+2023-10-24,google_trends,home front command,google_trend_value,1.1
+2023-10-25,google_trends,home front command,google_trend_value,0.5
+2023-10-26,google_trends,home front command,google_trend_value,36.6
+2023-10-27,google_trends,home front command,google_trend_value,35.8
+2023-10-28,google_trends,home front command,google_trend_value,23.6
+2023-10-29,google_trends,home front command,google_trend_value,14.4
+2023-10-30,google_trends,home front command,google_trend_value,8.0
+2023-10-31,google_trends,home front command,google_trend_value,4.2
+2023-11-01,google_trends,home front command,google_trend_value,0.6
+2023-11-02,google_trends,home front command,google_trend_value,1.0
+2023-11-03,google_trends,home front command,google_trend_value,1.0
+2023-11-04,google_trends,home front command,google_trend_value,1.0
+2023-11-05,google_trends,home front command,google_trend_value,0.3
+2023-11-06,google_trends,home front command,google_trend_value,1.0
+2023-11-07,google_trends,home front command,google_trend_value,1.3
+2023-11-08,google_trends,home front command,google_trend_value,0.8
+2023-11-09,google_trends,home front command,google_trend_value,0.9
+2023-11-10,google_trends,home front command,google_trend_value,0.3
+2023-11-11,google_trends,home front command,google_trend_value,0.6
+2023-11-12,google_trends,home front command,google_trend_value,0.7
+2023-11-13,google_trends,home front command,google_trend_value,0.2
+2023-11-14,google_trends,home front command,google_trend_value,1.0
+2023-11-15,google_trends,home front command,google_trend_value,0.8
+2023-11-16,google_trends,home front command,google_trend_value,0.0
+2023-11-17,google_trends,home front command,google_trend_value,1.0
+2023-11-18,google_trends,home front command,google_trend_value,0.5
+2023-11-19,google_trends,home front command,google_trend_value,0.5
+2023-11-20,google_trends,home front command,google_trend_value,0.2
+2023-11-21,google_trends,home front command,google_trend_value,0.0
+2023-11-22,google_trends,home front command,google_trend_value,0.9
+2023-11-23,google_trends,home front command,google_trend_value,28.9
+2023-11-24,google_trends,home front command,google_trend_value,29.4
+2023-11-25,google_trends,home front command,google_trend_value,18.6
+2023-11-26,google_trends,home front command,google_trend_value,10.7
+2023-11-27,google_trends,home front command,google_trend_value,5.9
+2023-11-28,google_trends,home front command,google_trend_value,1.7
+2023-11-29,google_trends,home front command,google_trend_value,0.8
+2023-11-30,google_trends,home front command,google_trend_value,21.4
+2023-12-01,google_trends,home front command,google_trend_value,22.1
+2023-12-02,google_trends,home front command,google_trend_value,12.8
+2023-12-03,google_trends,home front command,google_trend_value,7.9
+2023-12-04,google_trends,home front command,google_trend_value,3.4
+2023-12-05,google_trends,home front command,google_trend_value,0.8
+2023-12-06,google_trends,home front command,google_trend_value,1.3
+2023-12-07,google_trends,home front command,google_trend_value,0.7
+2023-12-08,google_trends,home front command,google_trend_value,0.4
+2023-12-09,google_trends,home front command,google_trend_value,0.8
+2023-12-10,google_trends,home front command,google_trend_value,1.1
+2023-12-11,google_trends,home front command,google_trend_value,0.1
+2023-12-12,google_trends,home front command,google_trend_value,1.3
+2023-12-13,google_trends,home front command,google_trend_value,0.3
+2023-12-14,google_trends,home front command,google_trend_value,0.9
+2023-12-15,google_trends,home front command,google_trend_value,0.7
+2023-12-16,google_trends,home front command,google_trend_value,0.3
+2023-12-17,google_trends,home front command,google_trend_value,0.9
+2023-12-18,google_trends,home front command,google_trend_value,0.1
+2023-12-19,google_trends,home front command,google_trend_value,0.3
+2023-12-20,google_trends,home front command,google_trend_value,0.7
+2023-12-21,google_trends,home front command,google_trend_value,1.0
+2023-12-22,google_trends,home front command,google_trend_value,1.1
+2023-12-23,google_trends,home front command,google_trend_value,1.3
+2023-12-24,google_trends,home front command,google_trend_value,0.9
+2023-12-25,google_trends,home front command,google_trend_value,0.7
+2023-12-26,google_trends,home front command,google_trend_value,0.9
+2023-12-27,google_trends,home front command,google_trend_value,0.5
+2023-12-28,google_trends,home front command,google_trend_value,0.9
+2023-12-29,google_trends,home front command,google_trend_value,0.7
+2023-12-30,google_trends,home front command,google_trend_value,1.0
+2023-12-31,google_trends,home front command,google_trend_value,0.7
+2023-09-01,google_trends,telegram news,google_trend_value,0.5
+2023-09-02,google_trends,telegram news,google_trend_value,0.9
+2023-09-03,google_trends,telegram news,google_trend_value,0.9
+2023-09-04,google_trends,telegram news,google_trend_value,0.9
+2023-09-05,google_trends,telegram news,google_trend_value,0.3
+2023-09-06,google_trends,telegram news,google_trend_value,0.9
+2023-09-07,google_trends,telegram news,google_trend_value,0.4
+2023-09-08,google_trends,telegram news,google_trend_value,1.0
+2023-09-09,google_trends,telegram news,google_trend_value,1.1
+2023-09-10,google_trends,telegram news,google_trend_value,1.3
+2023-09-11,google_trends,telegram news,google_trend_value,1.1
+2023-09-12,google_trends,telegram news,google_trend_value,1.2
+2023-09-13,google_trends,telegram news,google_trend_value,1.6
+2023-09-14,google_trends,telegram news,google_trend_value,0.9
+2023-09-15,google_trends,telegram news,google_trend_value,1.2
+2023-09-16,google_trends,telegram news,google_trend_value,0.6
+2023-09-17,google_trends,telegram news,google_trend_value,1.1
+2023-09-18,google_trends,telegram news,google_trend_value,0.8
+2023-09-19,google_trends,telegram news,google_trend_value,0.5
+2023-09-20,google_trends,telegram news,google_trend_value,0.6
+2023-09-21,google_trends,telegram news,google_trend_value,0.8
+2023-09-22,google_trends,telegram news,google_trend_value,0.5
+2023-09-23,google_trends,telegram news,google_trend_value,0.6
+2023-09-24,google_trends,telegram news,google_trend_value,1.3
+2023-09-25,google_trends,telegram news,google_trend_value,1.3
+2023-09-26,google_trends,telegram news,google_trend_value,0.4
+2023-09-27,google_trends,telegram news,google_trend_value,0.6
+2023-09-28,google_trends,telegram news,google_trend_value,1.5
+2023-09-29,google_trends,telegram news,google_trend_value,1.1
+2023-09-30,google_trends,telegram news,google_trend_value,0.5
+2023-10-01,google_trends,telegram news,google_trend_value,0.7
+2023-10-02,google_trends,telegram news,google_trend_value,0.7
+2023-10-03,google_trends,telegram news,google_trend_value,1.2
+2023-10-04,google_trends,telegram news,google_trend_value,1.2
+2023-10-05,google_trends,telegram news,google_trend_value,0.3
+2023-10-06,google_trends,telegram news,google_trend_value,99.9
+2023-10-07,google_trends,telegram news,google_trend_value,100.0
+2023-10-08,google_trends,telegram news,google_trend_value,68.8
+2023-10-09,google_trends,telegram news,google_trend_value,46.1
+2023-10-10,google_trends,telegram news,google_trend_value,31.0
+2023-10-11,google_trends,telegram news,google_trend_value,20.2
+2023-10-12,google_trends,telegram news,google_trend_value,12.4
+2023-10-13,google_trends,telegram news,google_trend_value,7.0
+2023-10-14,google_trends,telegram news,google_trend_value,3.0
+2023-10-15,google_trends,telegram news,google_trend_value,0.4
+2023-10-16,google_trends,telegram news,google_trend_value,1.1
+2023-10-17,google_trends,telegram news,google_trend_value,1.0
+2023-10-18,google_trends,telegram news,google_trend_value,1.2
+2023-10-19,google_trends,telegram news,google_trend_value,0.9
+2023-10-20,google_trends,telegram news,google_trend_value,0.2
+2023-10-21,google_trends,telegram news,google_trend_value,0.9
+2023-10-22,google_trends,telegram news,google_trend_value,0.5
+2023-10-23,google_trends,telegram news,google_trend_value,1.0
+2023-10-24,google_trends,telegram news,google_trend_value,1.0
+2023-10-25,google_trends,telegram news,google_trend_value,0.3
+2023-10-26,google_trends,telegram news,google_trend_value,36.7
+2023-10-27,google_trends,telegram news,google_trend_value,36.0
+2023-10-28,google_trends,telegram news,google_trend_value,24.0
+2023-10-29,google_trends,telegram news,google_trend_value,14.1
+2023-10-30,google_trends,telegram news,google_trend_value,8.1
+2023-10-31,google_trends,telegram news,google_trend_value,3.7
+2023-11-01,google_trends,telegram news,google_trend_value,0.7
+2023-11-02,google_trends,telegram news,google_trend_value,0.7
+2023-11-03,google_trends,telegram news,google_trend_value,0.9
+2023-11-04,google_trends,telegram news,google_trend_value,1.1
+2023-11-05,google_trends,telegram news,google_trend_value,0.3
+2023-11-06,google_trends,telegram news,google_trend_value,1.2
+2023-11-07,google_trends,telegram news,google_trend_value,1.0
+2023-11-08,google_trends,telegram news,google_trend_value,0.8
+2023-11-09,google_trends,telegram news,google_trend_value,0.6
+2023-11-10,google_trends,telegram news,google_trend_value,0.7
+2023-11-11,google_trends,telegram news,google_trend_value,0.8
+2023-11-12,google_trends,telegram news,google_trend_value,0.9
+2023-11-13,google_trends,telegram news,google_trend_value,0.5
+2023-11-14,google_trends,telegram news,google_trend_value,1.2
+2023-11-15,google_trends,telegram news,google_trend_value,0.9
+2023-11-16,google_trends,telegram news,google_trend_value,0.3
+2023-11-17,google_trends,telegram news,google_trend_value,1.1
+2023-11-18,google_trends,telegram news,google_trend_value,0.9
+2023-11-19,google_trends,telegram news,google_trend_value,1.2
+2023-11-20,google_trends,telegram news,google_trend_value,0.3
+2023-11-21,google_trends,telegram news,google_trend_value,0.6
+2023-11-22,google_trends,telegram news,google_trend_value,0.8
+2023-11-23,google_trends,telegram news,google_trend_value,29.1
+2023-11-24,google_trends,telegram news,google_trend_value,29.7
+2023-11-25,google_trends,telegram news,google_trend_value,18.9
+2023-11-26,google_trends,telegram news,google_trend_value,10.8
+2023-11-27,google_trends,telegram news,google_trend_value,6.0
+2023-11-28,google_trends,telegram news,google_trend_value,1.9
+2023-11-29,google_trends,telegram news,google_trend_value,1.3
+2023-11-30,google_trends,telegram news,google_trend_value,21.4
+2023-12-01,google_trends,telegram news,google_trend_value,22.7
+2023-12-02,google_trends,telegram news,google_trend_value,13.4
+2023-12-03,google_trends,telegram news,google_trend_value,7.9
+2023-12-04,google_trends,telegram news,google_trend_value,3.0
+2023-12-05,google_trends,telegram news,google_trend_value,1.2
+2023-12-06,google_trends,telegram news,google_trend_value,1.3
+2023-12-07,google_trends,telegram news,google_trend_value,1.2
+2023-12-08,google_trends,telegram news,google_trend_value,0.4
+2023-12-09,google_trends,telegram news,google_trend_value,0.9
+2023-12-10,google_trends,telegram news,google_trend_value,0.7
+2023-12-11,google_trends,telegram news,google_trend_value,0.4
+2023-12-12,google_trends,telegram news,google_trend_value,1.3
+2023-12-13,google_trends,telegram news,google_trend_value,0.9
+2023-12-14,google_trends,telegram news,google_trend_value,0.9
+2023-12-15,google_trends,telegram news,google_trend_value,0.9
+2023-12-16,google_trends,telegram news,google_trend_value,0.7
+2023-12-17,google_trends,telegram news,google_trend_value,0.8
+2023-12-18,google_trends,telegram news,google_trend_value,0.0
+2023-12-19,google_trends,telegram news,google_trend_value,1.0
+2023-12-20,google_trends,telegram news,google_trend_value,0.8
+2023-12-21,google_trends,telegram news,google_trend_value,0.7
+2023-12-22,google_trends,telegram news,google_trend_value,1.0
+2023-12-23,google_trends,telegram news,google_trend_value,1.5
+2023-12-24,google_trends,telegram news,google_trend_value,0.8
+2023-12-25,google_trends,telegram news,google_trend_value,1.4
+2023-12-26,google_trends,telegram news,google_trend_value,0.8
+2023-12-27,google_trends,telegram news,google_trend_value,0.1
+2023-12-28,google_trends,telegram news,google_trend_value,0.7
+2023-12-29,google_trends,telegram news,google_trend_value,0.8
+2023-12-30,google_trends,telegram news,google_trend_value,0.8
+2023-12-31,google_trends,telegram news,google_trend_value,0.7
+2023-09-01,google_trends,Israel news,google_trend_value,1.2
+2023-09-02,google_trends,Israel news,google_trend_value,1.7
+2023-09-03,google_trends,Israel news,google_trend_value,0.9
+2023-09-04,google_trends,Israel news,google_trend_value,1.2
+2023-09-05,google_trends,Israel news,google_trend_value,0.5
+2023-09-06,google_trends,Israel news,google_trend_value,1.3
+2023-09-07,google_trends,Israel news,google_trend_value,1.0
+2023-09-08,google_trends,Israel news,google_trend_value,0.8
+2023-09-09,google_trends,Israel news,google_trend_value,0.8
+2023-09-10,google_trends,Israel news,google_trend_value,0.7
+2023-09-11,google_trends,Israel news,google_trend_value,1.6
+2023-09-12,google_trends,Israel news,google_trend_value,0.8
+2023-09-13,google_trends,Israel news,google_trend_value,1.4
+2023-09-14,google_trends,Israel news,google_trend_value,1.1
+2023-09-15,google_trends,Israel news,google_trend_value,1.0
+2023-09-16,google_trends,Israel news,google_trend_value,1.0
+2023-09-17,google_trends,Israel news,google_trend_value,1.2
+2023-09-18,google_trends,Israel news,google_trend_value,0.8
+2023-09-19,google_trends,Israel news,google_trend_value,0.4
+2023-09-20,google_trends,Israel news,google_trend_value,1.0
+2023-09-21,google_trends,Israel news,google_trend_value,0.6
+2023-09-22,google_trends,Israel news,google_trend_value,0.6
+2023-09-23,google_trends,Israel news,google_trend_value,1.0
+2023-09-24,google_trends,Israel news,google_trend_value,1.8
+2023-09-25,google_trends,Israel news,google_trend_value,0.9
+2023-09-26,google_trends,Israel news,google_trend_value,0.9
+2023-09-27,google_trends,Israel news,google_trend_value,0.6
+2023-09-28,google_trends,Israel news,google_trend_value,1.0
+2023-09-29,google_trends,Israel news,google_trend_value,1.5
+2023-09-30,google_trends,Israel news,google_trend_value,0.3
+2023-10-01,google_trends,Israel news,google_trend_value,1.5
+2023-10-02,google_trends,Israel news,google_trend_value,1.1
+2023-10-03,google_trends,Israel news,google_trend_value,1.5
+2023-10-04,google_trends,Israel news,google_trend_value,1.1
+2023-10-05,google_trends,Israel news,google_trend_value,0.4
+2023-10-06,google_trends,Israel news,google_trend_value,99.6
+2023-10-07,google_trends,Israel news,google_trend_value,100.0
+2023-10-08,google_trends,Israel news,google_trend_value,67.8
+2023-10-09,google_trends,Israel news,google_trend_value,45.6
+2023-10-10,google_trends,Israel news,google_trend_value,30.9
+2023-10-11,google_trends,Israel news,google_trend_value,19.8
+2023-10-12,google_trends,Israel news,google_trend_value,12.6
+2023-10-13,google_trends,Israel news,google_trend_value,7.3
+2023-10-14,google_trends,Israel news,google_trend_value,3.0
+2023-10-15,google_trends,Israel news,google_trend_value,0.3
+2023-10-16,google_trends,Israel news,google_trend_value,0.9
+2023-10-17,google_trends,Israel news,google_trend_value,0.7
+2023-10-18,google_trends,Israel news,google_trend_value,1.1
+2023-10-19,google_trends,Israel news,google_trend_value,1.0
+2023-10-20,google_trends,Israel news,google_trend_value,0.6
+2023-10-21,google_trends,Israel news,google_trend_value,1.2
+2023-10-22,google_trends,Israel news,google_trend_value,0.2
+2023-10-23,google_trends,Israel news,google_trend_value,0.5
+2023-10-24,google_trends,Israel news,google_trend_value,1.2
+2023-10-25,google_trends,Israel news,google_trend_value,0.0
+2023-10-26,google_trends,Israel news,google_trend_value,35.9
+2023-10-27,google_trends,Israel news,google_trend_value,35.9
+2023-10-28,google_trends,Israel news,google_trend_value,23.6
+2023-10-29,google_trends,Israel news,google_trend_value,13.9
+2023-10-30,google_trends,Israel news,google_trend_value,8.5
+2023-10-31,google_trends,Israel news,google_trend_value,3.7
+2023-11-01,google_trends,Israel news,google_trend_value,0.7
+2023-11-02,google_trends,Israel news,google_trend_value,1.1
+2023-11-03,google_trends,Israel news,google_trend_value,0.9
+2023-11-04,google_trends,Israel news,google_trend_value,1.0
+2023-11-05,google_trends,Israel news,google_trend_value,0.4
+2023-11-06,google_trends,Israel news,google_trend_value,0.9
+2023-11-07,google_trends,Israel news,google_trend_value,1.2
+2023-11-08,google_trends,Israel news,google_trend_value,0.6
+2023-11-09,google_trends,Israel news,google_trend_value,1.2
+2023-11-10,google_trends,Israel news,google_trend_value,0.7
+2023-11-11,google_trends,Israel news,google_trend_value,1.4
+2023-11-12,google_trends,Israel news,google_trend_value,1.4
+2023-11-13,google_trends,Israel news,google_trend_value,0.5
+2023-11-14,google_trends,Israel news,google_trend_value,1.5
+2023-11-15,google_trends,Israel news,google_trend_value,0.8
+2023-11-16,google_trends,Israel news,google_trend_value,0.7
+2023-11-17,google_trends,Israel news,google_trend_value,1.3
+2023-11-18,google_trends,Israel news,google_trend_value,0.7
+2023-11-19,google_trends,Israel news,google_trend_value,1.3
+2023-11-20,google_trends,Israel news,google_trend_value,0.7
+2023-11-21,google_trends,Israel news,google_trend_value,0.3
+2023-11-22,google_trends,Israel news,google_trend_value,0.3
+2023-11-23,google_trends,Israel news,google_trend_value,28.8
+2023-11-24,google_trends,Israel news,google_trend_value,29.3
+2023-11-25,google_trends,Israel news,google_trend_value,18.9
+2023-11-26,google_trends,Israel news,google_trend_value,10.4
+2023-11-27,google_trends,Israel news,google_trend_value,6.6
+2023-11-28,google_trends,Israel news,google_trend_value,2.0
+2023-11-29,google_trends,Israel news,google_trend_value,0.9
+2023-11-30,google_trends,Israel news,google_trend_value,21.7
+2023-12-01,google_trends,Israel news,google_trend_value,22.1
+2023-12-02,google_trends,Israel news,google_trend_value,13.1
+2023-12-03,google_trends,Israel news,google_trend_value,7.8
+2023-12-04,google_trends,Israel news,google_trend_value,3.3
+2023-12-05,google_trends,Israel news,google_trend_value,1.5
+2023-12-06,google_trends,Israel news,google_trend_value,1.6
+2023-12-07,google_trends,Israel news,google_trend_value,1.4
+2023-12-08,google_trends,Israel news,google_trend_value,0.9
+2023-12-09,google_trends,Israel news,google_trend_value,0.9
+2023-12-10,google_trends,Israel news,google_trend_value,0.9
+2023-12-11,google_trends,Israel news,google_trend_value,0.0
+2023-12-12,google_trends,Israel news,google_trend_value,1.6
+2023-12-13,google_trends,Israel news,google_trend_value,0.6
+2023-12-14,google_trends,Israel news,google_trend_value,1.5
+2023-12-15,google_trends,Israel news,google_trend_value,0.9
+2023-12-16,google_trends,Israel news,google_trend_value,0.2
+2023-12-17,google_trends,Israel news,google_trend_value,1.4
+2023-12-18,google_trends,Israel news,google_trend_value,0.1
+2023-12-19,google_trends,Israel news,google_trend_value,0.9
+2023-12-20,google_trends,Israel news,google_trend_value,1.1
+2023-12-21,google_trends,Israel news,google_trend_value,1.1
+2023-12-22,google_trends,Israel news,google_trend_value,0.9
+2023-12-23,google_trends,Israel news,google_trend_value,1.7
+2023-12-24,google_trends,Israel news,google_trend_value,0.9
+2023-12-25,google_trends,Israel news,google_trend_value,1.1
+2023-12-26,google_trends,Israel news,google_trend_value,0.6
+2023-12-27,google_trends,Israel news,google_trend_value,0.7
+2023-12-28,google_trends,Israel news,google_trend_value,1.1
+2023-12-29,google_trends,Israel news,google_trend_value,0.6
+2023-12-30,google_trends,Israel news,google_trend_value,1.4
+2023-12-31,google_trends,Israel news,google_trend_value,1.1
+2023-09-01,google_trends,Iran attack,google_trend_value,1.2
+2023-09-02,google_trends,Iran attack,google_trend_value,2.0
+2023-09-03,google_trends,Iran attack,google_trend_value,1.0
+2023-09-04,google_trends,Iran attack,google_trend_value,0.7
+2023-09-05,google_trends,Iran attack,google_trend_value,1.1
+2023-09-06,google_trends,Iran attack,google_trend_value,1.9
+2023-09-07,google_trends,Iran attack,google_trend_value,0.6
+2023-09-08,google_trends,Iran attack,google_trend_value,1.8
+2023-09-09,google_trends,Iran attack,google_trend_value,2.0
+2023-09-10,google_trends,Iran attack,google_trend_value,1.3
+2023-09-11,google_trends,Iran attack,google_trend_value,1.7
+2023-09-12,google_trends,Iran attack,google_trend_value,0.7
+2023-09-13,google_trends,Iran attack,google_trend_value,1.0
+2023-09-14,google_trends,Iran attack,google_trend_value,1.2
+2023-09-15,google_trends,Iran attack,google_trend_value,0.8
+2023-09-16,google_trends,Iran attack,google_trend_value,1.1
+2023-09-17,google_trends,Iran attack,google_trend_value,1.5
+2023-09-18,google_trends,Iran attack,google_trend_value,1.9
+2023-09-19,google_trends,Iran attack,google_trend_value,0.3
+2023-09-20,google_trends,Iran attack,google_trend_value,0.5
+2023-09-21,google_trends,Iran attack,google_trend_value,1.8
+2023-09-22,google_trends,Iran attack,google_trend_value,0.2
+2023-09-23,google_trends,Iran attack,google_trend_value,1.2
+2023-09-24,google_trends,Iran attack,google_trend_value,1.2
+2023-09-25,google_trends,Iran attack,google_trend_value,1.7
+2023-09-26,google_trends,Iran attack,google_trend_value,0.9
+2023-09-27,google_trends,Iran attack,google_trend_value,0.9
+2023-09-28,google_trends,Iran attack,google_trend_value,1.0
+2023-09-29,google_trends,Iran attack,google_trend_value,0.9
+2023-09-30,google_trends,Iran attack,google_trend_value,0.9
+2023-10-01,google_trends,Iran attack,google_trend_value,1.1
+2023-10-02,google_trends,Iran attack,google_trend_value,2.1
+2023-10-03,google_trends,Iran attack,google_trend_value,1.9
+2023-10-04,google_trends,Iran attack,google_trend_value,1.1
+2023-10-05,google_trends,Iran attack,google_trend_value,0.0
+2023-10-06,google_trends,Iran attack,google_trend_value,99.2
+2023-10-07,google_trends,Iran attack,google_trend_value,100.0
+2023-10-08,google_trends,Iran attack,google_trend_value,68.8
+2023-10-09,google_trends,Iran attack,google_trend_value,45.6
+2023-10-10,google_trends,Iran attack,google_trend_value,31.9
+2023-10-11,google_trends,Iran attack,google_trend_value,20.3
+2023-10-12,google_trends,Iran attack,google_trend_value,12.6
+2023-10-13,google_trends,Iran attack,google_trend_value,6.9
+2023-10-14,google_trends,Iran attack,google_trend_value,3.7
+2023-10-15,google_trends,Iran attack,google_trend_value,0.6
+2023-10-16,google_trends,Iran attack,google_trend_value,0.8
+2023-10-17,google_trends,Iran attack,google_trend_value,1.3
+2023-10-18,google_trends,Iran attack,google_trend_value,1.0
+2023-10-19,google_trends,Iran attack,google_trend_value,1.9
+2023-10-20,google_trends,Iran attack,google_trend_value,1.4
+2023-10-21,google_trends,Iran attack,google_trend_value,1.2
+2023-10-22,google_trends,Iran attack,google_trend_value,0.3
+2023-10-23,google_trends,Iran attack,google_trend_value,1.3
+2023-10-24,google_trends,Iran attack,google_trend_value,1.4
+2023-10-25,google_trends,Iran attack,google_trend_value,1.2
+2023-10-26,google_trends,Iran attack,google_trend_value,36.0
+2023-10-27,google_trends,Iran attack,google_trend_value,36.2
+2023-10-28,google_trends,Iran attack,google_trend_value,24.1
+2023-10-29,google_trends,Iran attack,google_trend_value,14.7
+2023-10-30,google_trends,Iran attack,google_trend_value,7.9
+2023-10-31,google_trends,Iran attack,google_trend_value,5.0
+2023-11-01,google_trends,Iran attack,google_trend_value,1.7
+2023-11-02,google_trends,Iran attack,google_trend_value,1.4
+2023-11-03,google_trends,Iran attack,google_trend_value,2.0
+2023-11-04,google_trends,Iran attack,google_trend_value,1.2
+2023-11-05,google_trends,Iran attack,google_trend_value,1.0
+2023-11-06,google_trends,Iran attack,google_trend_value,1.7
+2023-11-07,google_trends,Iran attack,google_trend_value,1.1
+2023-11-08,google_trends,Iran attack,google_trend_value,0.6
+2023-11-09,google_trends,Iran attack,google_trend_value,1.3
+2023-11-10,google_trends,Iran attack,google_trend_value,1.4
+2023-11-11,google_trends,Iran attack,google_trend_value,0.7
+2023-11-12,google_trends,Iran attack,google_trend_value,1.7
+2023-11-13,google_trends,Iran attack,google_trend_value,0.8
+2023-11-14,google_trends,Iran attack,google_trend_value,1.0
+2023-11-15,google_trends,Iran attack,google_trend_value,1.1
+2023-11-16,google_trends,Iran attack,google_trend_value,0.2
+2023-11-17,google_trends,Iran attack,google_trend_value,1.6
+2023-11-18,google_trends,Iran attack,google_trend_value,1.6
+2023-11-19,google_trends,Iran attack,google_trend_value,1.1
+2023-11-20,google_trends,Iran attack,google_trend_value,1.3
+2023-11-21,google_trends,Iran attack,google_trend_value,0.4
+2023-11-22,google_trends,Iran attack,google_trend_value,1.2
+2023-11-23,google_trends,Iran attack,google_trend_value,30.0
+2023-11-24,google_trends,Iran attack,google_trend_value,29.1
+2023-11-25,google_trends,Iran attack,google_trend_value,19.6
+2023-11-26,google_trends,Iran attack,google_trend_value,11.2
+2023-11-27,google_trends,Iran attack,google_trend_value,6.7
+2023-11-28,google_trends,Iran attack,google_trend_value,2.0
+2023-11-29,google_trends,Iran attack,google_trend_value,1.2
+2023-11-30,google_trends,Iran attack,google_trend_value,22.3
+2023-12-01,google_trends,Iran attack,google_trend_value,22.3
+2023-12-02,google_trends,Iran attack,google_trend_value,13.0
+2023-12-03,google_trends,Iran attack,google_trend_value,9.1
+2023-12-04,google_trends,Iran attack,google_trend_value,3.2
+2023-12-05,google_trends,Iran attack,google_trend_value,1.4
+2023-12-06,google_trends,Iran attack,google_trend_value,2.2
+2023-12-07,google_trends,Iran attack,google_trend_value,1.0
+2023-12-08,google_trends,Iran attack,google_trend_value,0.7
+2023-12-09,google_trends,Iran attack,google_trend_value,1.5
+2023-12-10,google_trends,Iran attack,google_trend_value,0.8
+2023-12-11,google_trends,Iran attack,google_trend_value,1.0
+2023-12-12,google_trends,Iran attack,google_trend_value,1.5
+2023-12-13,google_trends,Iran attack,google_trend_value,1.4
+2023-12-14,google_trends,Iran attack,google_trend_value,1.1
+2023-12-15,google_trends,Iran attack,google_trend_value,1.3
+2023-12-16,google_trends,Iran attack,google_trend_value,1.3
+2023-12-17,google_trends,Iran attack,google_trend_value,1.5
+2023-12-18,google_trends,Iran attack,google_trend_value,0.9
+2023-12-19,google_trends,Iran attack,google_trend_value,0.8
+2023-12-20,google_trends,Iran attack,google_trend_value,1.0
+2023-12-21,google_trends,Iran attack,google_trend_value,1.7
+2023-12-22,google_trends,Iran attack,google_trend_value,1.9
+2023-12-23,google_trends,Iran attack,google_trend_value,1.5
+2023-12-24,google_trends,Iran attack,google_trend_value,0.8
+2023-12-25,google_trends,Iran attack,google_trend_value,1.9
+2023-12-26,google_trends,Iran attack,google_trend_value,0.5
+2023-12-27,google_trends,Iran attack,google_trend_value,0.5
+2023-12-28,google_trends,Iran attack,google_trend_value,1.8
+2023-12-29,google_trends,Iran attack,google_trend_value,1.3
+2023-12-30,google_trends,Iran attack,google_trend_value,2.0
+2023-12-31,google_trends,Iran attack,google_trend_value,1.5

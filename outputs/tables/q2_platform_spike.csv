@@ -1,0 +1,4 @@
+platform,metric,baseline_avg,spike_window_avg,spike_ratio
+Google Trends,avg_trend_value,3.7,40.7,11.11
+RSS / News Websites,daily_articles,257.4,1220.1,4.74
+Telegram,daily_messages,174.1,808.0,4.64
