@@ -1,0 +1,27 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+
+# Jupyter
+jupyter>=1.0.0
+nbformat>=5.9.0
+
+# Environment and config
+python-dotenv>=1.0.0
+
+# Data collection templates
+feedparser>=6.0.10
+requests>=2.31.0
+
+# Optional: Google Trends (unofficial API, may be rate-limited)
+# pytrends>=4.9.2
+
+# Optional: Telegram data collection (requires API credentials)
+# telethon>=1.29.0
+
+# Utilities
+tqdm>=4.65.0

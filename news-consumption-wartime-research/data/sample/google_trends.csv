@@ -1,0 +1,855 @@
+date,keyword,trend_value,geo
+2023-09-01,news,1.0,IL
+2023-09-02,news,1.2,IL
+2023-09-03,news,1.2,IL
+2023-09-04,news,1.6,IL
+2023-09-05,news,0.2,IL
+2023-09-06,news,1.6,IL
+2023-09-07,news,0.7,IL
+2023-09-08,news,0.9,IL
+2023-09-09,news,1.1,IL
+2023-09-10,news,0.7,IL
+2023-09-11,news,1.0,IL
+2023-09-12,news,1.4,IL
+2023-09-13,news,1.7,IL
+2023-09-14,news,1.3,IL
+2023-09-15,news,1.1,IL
+2023-09-16,news,0.3,IL
+2023-09-17,news,1.2,IL
+2023-09-18,news,1.2,IL
+2023-09-19,news,0.7,IL
+2023-09-20,news,1.3,IL
+2023-09-21,news,0.6,IL
+2023-09-22,news,0.8,IL
+2023-09-23,news,1.3,IL
+2023-09-24,news,1.7,IL
+2023-09-25,news,1.3,IL
+2023-09-26,news,0.8,IL
+2023-09-27,news,0.5,IL
+2023-09-28,news,1.7,IL
+2023-09-29,news,1.1,IL
+2023-09-30,news,1.0,IL
+2023-10-01,news,1.0,IL
+2023-10-02,news,1.6,IL
+2023-10-03,news,1.4,IL
+2023-10-04,news,1.2,IL
+2023-10-05,news,0.1,IL
+2023-10-06,news,100.0,IL
+2023-10-07,news,99.9,IL
+2023-10-08,news,68.6,IL
+2023-10-09,news,46.3,IL
+2023-10-10,news,31.7,IL
+2023-10-11,news,19.5,IL
+2023-10-12,news,13.0,IL
+2023-10-13,news,7.7,IL
+2023-10-14,news,2.9,IL
+2023-10-15,news,0.9,IL
+2023-10-16,news,1.5,IL
+2023-10-17,news,0.9,IL
+2023-10-18,news,1.1,IL
+2023-10-19,news,1.2,IL
+2023-10-20,news,0.8,IL
+2023-10-21,news,1.4,IL
+2023-10-22,news,0.7,IL
+2023-10-23,news,1.0,IL
+2023-10-24,news,1.4,IL
+2023-10-25,news,0.0,IL
+2023-10-26,news,36.7,IL
+2023-10-27,news,35.7,IL
+2023-10-28,news,23.5,IL
+2023-10-29,news,14.8,IL
+2023-10-30,news,8.2,IL
+2023-10-31,news,3.7,IL
+2023-11-01,news,1.5,IL
+2023-11-02,news,0.8,IL
+2023-11-03,news,1.6,IL
+2023-11-04,news,1.4,IL
+2023-11-05,news,0.6,IL
+2023-11-06,news,1.5,IL
+2023-11-07,news,1.4,IL
+2023-11-08,news,0.3,IL
+2023-11-09,news,1.1,IL
+2023-11-10,news,0.5,IL
+2023-11-11,news,0.8,IL
+2023-11-12,news,1.2,IL
+2023-11-13,news,0.9,IL
+2023-11-14,news,0.9,IL
+2023-11-15,news,1.2,IL
+2023-11-16,news,0.2,IL
+2023-11-17,news,0.8,IL
+2023-11-18,news,0.8,IL
+2023-11-19,news,0.5,IL
+2023-11-20,news,0.6,IL
+2023-11-21,news,0.0,IL
+2023-11-22,news,1.2,IL
+2023-11-23,news,28.8,IL
+2023-11-24,news,29.1,IL
+2023-11-25,news,19.5,IL
+2023-11-26,news,10.8,IL
+2023-11-27,news,6.2,IL
+2023-11-28,news,2.5,IL
+2023-11-29,news,1.0,IL
+2023-11-30,news,21.9,IL
+2023-12-01,news,22.2,IL
+2023-12-02,news,13.6,IL
+2023-12-03,news,8.1,IL
+2023-12-04,news,3.7,IL
+2023-12-05,news,1.7,IL
+2023-12-06,news,1.2,IL
+2023-12-07,news,1.1,IL
+2023-12-08,news,0.6,IL
+2023-12-09,news,1.2,IL
+2023-12-10,news,1.3,IL
+2023-12-11,news,0.2,IL
+2023-12-12,news,1.2,IL
+2023-12-13,news,0.7,IL
+2023-12-14,news,1.1,IL
+2023-12-15,news,0.9,IL
+2023-12-16,news,0.5,IL
+2023-12-17,news,0.6,IL
+2023-12-18,news,0.1,IL
+2023-12-19,news,1.1,IL
+2023-12-20,news,0.2,IL
+2023-12-21,news,0.5,IL
+2023-12-22,news,1.1,IL
+2023-12-23,news,1.7,IL
+2023-12-24,news,1.0,IL
+2023-12-25,news,0.9,IL
+2023-12-26,news,1.0,IL
+2023-12-27,news,0.9,IL
+2023-12-28,news,0.4,IL
+2023-12-29,news,0.8,IL
+2023-12-30,news,1.3,IL
+2023-12-31,news,0.5,IL
+2023-09-01,siren,0.6,IL
+2023-09-02,siren,0.9,IL
+2023-09-03,siren,0.9,IL
+2023-09-04,siren,0.8,IL
+2023-09-05,siren,0.1,IL
+2023-09-06,siren,1.0,IL
+2023-09-07,siren,0.4,IL
+2023-09-08,siren,0.9,IL
+2023-09-09,siren,1.1,IL
+2023-09-10,siren,1.0,IL
+2023-09-11,siren,1.4,IL
+2023-09-12,siren,0.9,IL
+2023-09-13,siren,1.1,IL
+2023-09-14,siren,0.5,IL
+2023-09-15,siren,0.6,IL
+2023-09-16,siren,0.3,IL
+2023-09-17,siren,1.2,IL
+2023-09-18,siren,1.0,IL
+2023-09-19,siren,0.1,IL
+2023-09-20,siren,0.9,IL
+2023-09-21,siren,0.6,IL
+2023-09-22,siren,0.6,IL
+2023-09-23,siren,0.7,IL
+2023-09-24,siren,1.0,IL
+2023-09-25,siren,1.0,IL
+2023-09-26,siren,0.5,IL
+2023-09-27,siren,0.5,IL
+2023-09-28,siren,1.3,IL
+2023-09-29,siren,0.7,IL
+2023-09-30,siren,0.5,IL
+2023-10-01,siren,1.1,IL
+2023-10-02,siren,1.1,IL
+2023-10-03,siren,0.7,IL
+2023-10-04,siren,1.1,IL
+2023-10-05,siren,0.1,IL
+2023-10-06,siren,99.4,IL
+2023-10-07,siren,100.0,IL
+2023-10-08,siren,68.1,IL
+2023-10-09,siren,45.9,IL
+2023-10-10,siren,31.2,IL
+2023-10-11,siren,19.9,IL
+2023-10-12,siren,12.8,IL
+2023-10-13,siren,7.1,IL
+2023-10-14,siren,2.8,IL
+2023-10-15,siren,0.7,IL
+2023-10-16,siren,1.2,IL
+2023-10-17,siren,0.5,IL
+2023-10-18,siren,0.5,IL
+2023-10-19,siren,1.1,IL
+2023-10-20,siren,0.3,IL
+2023-10-21,siren,1.2,IL
+2023-10-22,siren,0.4,IL
+2023-10-23,siren,0.6,IL
+2023-10-24,siren,0.7,IL
+2023-10-25,siren,0.2,IL
+2023-10-26,siren,36.3,IL
+2023-10-27,siren,35.6,IL
+2023-10-28,siren,23.4,IL
+2023-10-29,siren,14.1,IL
+2023-10-30,siren,8.0,IL
+2023-10-31,siren,3.8,IL
+2023-11-01,siren,0.7,IL
+2023-11-02,siren,0.8,IL
+2023-11-03,siren,1.1,IL
+2023-11-04,siren,1.1,IL
+2023-11-05,siren,0.4,IL
+2023-11-06,siren,1.3,IL
+2023-11-07,siren,1.0,IL
+2023-11-08,siren,0.6,IL
+2023-11-09,siren,0.4,IL
+2023-11-10,siren,0.6,IL
+2023-11-11,siren,0.8,IL
+2023-11-12,siren,0.8,IL
+2023-11-13,siren,0.7,IL
+2023-11-14,siren,1.5,IL
+2023-11-15,siren,0.9,IL
+2023-11-16,siren,0.6,IL
+2023-11-17,siren,1.2,IL
+2023-11-18,siren,0.6,IL
+2023-11-19,siren,1.1,IL
+2023-11-20,siren,0.3,IL
+2023-11-21,siren,0.1,IL
+2023-11-22,siren,0.4,IL
+2023-11-23,siren,29.3,IL
+2023-11-24,siren,29.2,IL
+2023-11-25,siren,19.2,IL
+2023-11-26,siren,10.4,IL
+2023-11-27,siren,6.4,IL
+2023-11-28,siren,2.0,IL
+2023-11-29,siren,1.0,IL
+2023-11-30,siren,21.4,IL
+2023-12-01,siren,22.1,IL
+2023-12-02,siren,13.0,IL
+2023-12-03,siren,8.1,IL
+2023-12-04,siren,3.0,IL
+2023-12-05,siren,0.9,IL
+2023-12-06,siren,1.2,IL
+2023-12-07,siren,0.8,IL
+2023-12-08,siren,0.6,IL
+2023-12-09,siren,0.7,IL
+2023-12-10,siren,1.1,IL
+2023-12-11,siren,0.5,IL
+2023-12-12,siren,1.0,IL
+2023-12-13,siren,0.5,IL
+2023-12-14,siren,1.0,IL
+2023-12-15,siren,0.8,IL
+2023-12-16,siren,0.5,IL
+2023-12-17,siren,1.1,IL
+2023-12-18,siren,0.0,IL
+2023-12-19,siren,0.7,IL
+2023-12-20,siren,0.4,IL
+2023-12-21,siren,0.7,IL
+2023-12-22,siren,0.9,IL
+2023-12-23,siren,0.9,IL
+2023-12-24,siren,0.8,IL
+2023-12-25,siren,1.2,IL
+2023-12-26,siren,1.0,IL
+2023-12-27,siren,0.0,IL
+2023-12-28,siren,0.7,IL
+2023-12-29,siren,1.1,IL
+2023-12-30,siren,1.0,IL
+2023-12-31,siren,1.0,IL
+2023-09-01,hostages,0.8,IL
+2023-09-02,hostages,1.2,IL
+2023-09-03,hostages,1.0,IL
+2023-09-04,hostages,0.7,IL
+2023-09-05,hostages,0.1,IL
+2023-09-06,hostages,1.2,IL
+2023-09-07,hostages,0.5,IL
+2023-09-08,hostages,0.8,IL
+2023-09-09,hostages,0.8,IL
+2023-09-10,hostages,0.7,IL
+2023-09-11,hostages,0.9,IL
+2023-09-12,hostages,0.7,IL
+2023-09-13,hostages,0.9,IL
+2023-09-14,hostages,0.9,IL
+2023-09-15,hostages,0.6,IL
+2023-09-16,hostages,0.4,IL
+2023-09-17,hostages,1.5,IL
+2023-09-18,hostages,0.9,IL
+2023-09-19,hostages,0.3,IL
+2023-09-20,hostages,0.9,IL
+2023-09-21,hostages,1.0,IL
+2023-09-22,hostages,0.4,IL
+2023-09-23,hostages,0.9,IL
+2023-09-24,hostages,1.2,IL
+2023-09-25,hostages,0.9,IL
+2023-09-26,hostages,0.2,IL
+2023-09-27,hostages,0.2,IL
+2023-09-28,hostages,0.9,IL
+2023-09-29,hostages,1.1,IL
+2023-09-30,hostages,0.3,IL
+2023-10-01,hostages,0.7,IL
+2023-10-02,hostages,0.9,IL
+2023-10-03,hostages,1.2,IL
+2023-10-04,hostages,1.1,IL
+2023-10-05,hostages,0.5,IL
+2023-10-06,hostages,99.7,IL
+2023-10-07,hostages,100.0,IL
+2023-10-08,hostages,68.5,IL
+2023-10-09,hostages,45.7,IL
+2023-10-10,hostages,31.0,IL
+2023-10-11,hostages,19.9,IL
+2023-10-12,hostages,12.3,IL
+2023-10-13,hostages,7.3,IL
+2023-10-14,hostages,2.7,IL
+2023-10-15,hostages,0.6,IL
+2023-10-16,hostages,0.9,IL
+2023-10-17,hostages,0.6,IL
+2023-10-18,hostages,0.9,IL
+2023-10-19,hostages,1.2,IL
+2023-10-20,hostages,0.3,IL
+2023-10-21,hostages,1.2,IL
+2023-10-22,hostages,0.2,IL
+2023-10-23,hostages,0.9,IL
+2023-10-24,hostages,0.7,IL
+2023-10-25,hostages,0.2,IL
+2023-10-26,hostages,36.2,IL
+2023-10-27,hostages,35.8,IL
+2023-10-28,hostages,23.8,IL
+2023-10-29,hostages,14.4,IL
+2023-10-30,hostages,7.8,IL
+2023-10-31,hostages,3.9,IL
+2023-11-01,hostages,0.9,IL
+2023-11-02,hostages,1.1,IL
+2023-11-03,hostages,0.7,IL
+2023-11-04,hostages,0.8,IL
+2023-11-05,hostages,0.3,IL
+2023-11-06,hostages,1.2,IL
+2023-11-07,hostages,1.5,IL
+2023-11-08,hostages,0.3,IL
+2023-11-09,hostages,0.5,IL
+2023-11-10,hostages,0.3,IL
+2023-11-11,hostages,0.9,IL
+2023-11-12,hostages,1.1,IL
+2023-11-13,hostages,0.6,IL
+2023-11-14,hostages,1.2,IL
+2023-11-15,hostages,0.7,IL
+2023-11-16,hostages,0.1,IL
+2023-11-17,hostages,0.8,IL
+2023-11-18,hostages,1.0,IL
+2023-11-19,hostages,0.8,IL
+2023-11-20,hostages,0.3,IL
+2023-11-21,hostages,0.1,IL
+2023-11-22,hostages,0.6,IL
+2023-11-23,hostages,29.0,IL
+2023-11-24,hostages,29.1,IL
+2023-11-25,hostages,18.7,IL
+2023-11-26,hostages,10.8,IL
+2023-11-27,hostages,6.2,IL
+2023-11-28,hostages,1.9,IL
+2023-11-29,hostages,0.9,IL
+2023-11-30,hostages,21.4,IL
+2023-12-01,hostages,22.2,IL
+2023-12-02,hostages,13.4,IL
+2023-12-03,hostages,8.4,IL
+2023-12-04,hostages,3.4,IL
+2023-12-05,hostages,1.2,IL
+2023-12-06,hostages,1.3,IL
+2023-12-07,hostages,0.9,IL
+2023-12-08,hostages,0.2,IL
+2023-12-09,hostages,0.9,IL
+2023-12-10,hostages,0.9,IL
+2023-12-11,hostages,0.2,IL
+2023-12-12,hostages,1.0,IL
+2023-12-13,hostages,0.3,IL
+2023-12-14,hostages,0.9,IL
+2023-12-15,hostages,0.9,IL
+2023-12-16,hostages,0.7,IL
+2023-12-17,hostages,1.2,IL
+2023-12-18,hostages,0.0,IL
+2023-12-19,hostages,0.8,IL
+2023-12-20,hostages,0.4,IL
+2023-12-21,hostages,0.9,IL
+2023-12-22,hostages,1.1,IL
+2023-12-23,hostages,1.1,IL
+2023-12-24,hostages,0.7,IL
+2023-12-25,hostages,1.2,IL
+2023-12-26,hostages,0.6,IL
+2023-12-27,hostages,0.2,IL
+2023-12-28,hostages,0.8,IL
+2023-12-29,hostages,0.7,IL
+2023-12-30,hostages,1.0,IL
+2023-12-31,hostages,0.9,IL
+2023-09-01,home front command,0.7,IL
+2023-09-02,home front command,1.4,IL
+2023-09-03,home front command,1.0,IL
+2023-09-04,home front command,0.7,IL
+2023-09-05,home front command,0.4,IL
+2023-09-06,home front command,0.9,IL
+2023-09-07,home front command,0.2,IL
+2023-09-08,home front command,0.8,IL
+2023-09-09,home front command,0.8,IL
+2023-09-10,home front command,1.1,IL
+2023-09-11,home front command,1.4,IL
+2023-09-12,home front command,0.6,IL
+2023-09-13,home front command,1.4,IL
+2023-09-14,home front command,0.7,IL
+2023-09-15,home front command,1.0,IL
+2023-09-16,home front command,0.3,IL
+2023-09-17,home front command,1.4,IL
+2023-09-18,home front command,0.6,IL
+2023-09-19,home front command,0.5,IL
+2023-09-20,home front command,0.8,IL
+2023-09-21,home front command,1.0,IL
+2023-09-22,home front command,0.3,IL
+2023-09-23,home front command,1.0,IL
+2023-09-24,home front command,1.3,IL
+2023-09-25,home front command,1.1,IL
+2023-09-26,home front command,0.5,IL
+2023-09-27,home front command,0.3,IL
+2023-09-28,home front command,1.0,IL
+2023-09-29,home front command,1.2,IL
+2023-09-30,home front command,0.2,IL
+2023-10-01,home front command,0.6,IL
+2023-10-02,home front command,0.9,IL
+2023-10-03,home front command,1.0,IL
+2023-10-04,home front command,0.7,IL
+2023-10-05,home front command,0.1,IL
+2023-10-06,home front command,99.8,IL
+2023-10-07,home front command,100.0,IL
+2023-10-08,home front command,68.2,IL
+2023-10-09,home front command,45.9,IL
+2023-10-10,home front command,31.1,IL
+2023-10-11,home front command,19.5,IL
+2023-10-12,home front command,12.4,IL
+2023-10-13,home front command,7.2,IL
+2023-10-14,home front command,2.5,IL
+2023-10-15,home front command,0.2,IL
+2023-10-16,home front command,1.2,IL
+2023-10-17,home front command,0.5,IL
+2023-10-18,home front command,0.6,IL
+2023-10-19,home front command,0.8,IL
+2023-10-20,home front command,0.2,IL
+2023-10-21,home front command,1.1,IL
+2023-10-22,home front command,0.5,IL
+2023-10-23,home front command,0.6,IL
+2023-10-24,home front command,1.1,IL
+2023-10-25,home front command,0.5,IL
+2023-10-26,home front command,36.6,IL
+2023-10-27,home front command,35.8,IL
+2023-10-28,home front command,23.6,IL
+2023-10-29,home front command,14.4,IL
+2023-10-30,home front command,8.0,IL
+2023-10-31,home front command,4.2,IL
+2023-11-01,home front command,0.6,IL
+2023-11-02,home front command,1.0,IL
+2023-11-03,home front command,1.0,IL
+2023-11-04,home front command,1.0,IL
+2023-11-05,home front command,0.3,IL
+2023-11-06,home front command,1.0,IL
+2023-11-07,home front command,1.3,IL
+2023-11-08,home front command,0.8,IL
+2023-11-09,home front command,0.9,IL
+2023-11-10,home front command,0.3,IL
+2023-11-11,home front command,0.6,IL
+2023-11-12,home front command,0.7,IL
+2023-11-13,home front command,0.2,IL
+2023-11-14,home front command,1.0,IL
+2023-11-15,home front command,0.8,IL
+2023-11-16,home front command,0.0,IL
+2023-11-17,home front command,1.0,IL
+2023-11-18,home front command,0.5,IL
+2023-11-19,home front command,0.5,IL
+2023-11-20,home front command,0.2,IL
+2023-11-21,home front command,0.0,IL
+2023-11-22,home front command,0.9,IL
+2023-11-23,home front command,28.9,IL
+2023-11-24,home front command,29.4,IL
+2023-11-25,home front command,18.6,IL
+2023-11-26,home front command,10.7,IL
+2023-11-27,home front command,5.9,IL
+2023-11-28,home front command,1.7,IL
+2023-11-29,home front command,0.8,IL
+2023-11-30,home front command,21.4,IL
+2023-12-01,home front command,22.1,IL
+2023-12-02,home front command,12.8,IL
+2023-12-03,home front command,7.9,IL
+2023-12-04,home front command,3.4,IL
+2023-12-05,home front command,0.8,IL
+2023-12-06,home front command,1.3,IL
+2023-12-07,home front command,0.7,IL
+2023-12-08,home front command,0.4,IL
+2023-12-09,home front command,0.8,IL
+2023-12-10,home front command,1.1,IL
+2023-12-11,home front command,0.1,IL
+2023-12-12,home front command,1.3,IL
+2023-12-13,home front command,0.3,IL
+2023-12-14,home front command,0.9,IL
+2023-12-15,home front command,0.7,IL
+2023-12-16,home front command,0.3,IL
+2023-12-17,home front command,0.9,IL
+2023-12-18,home front command,0.1,IL
+2023-12-19,home front command,0.3,IL
+2023-12-20,home front command,0.7,IL
+2023-12-21,home front command,1.0,IL
+2023-12-22,home front command,1.1,IL
+2023-12-23,home front command,1.3,IL
+2023-12-24,home front command,0.9,IL
+2023-12-25,home front command,0.7,IL
+2023-12-26,home front command,0.9,IL
+2023-12-27,home front command,0.5,IL
+2023-12-28,home front command,0.9,IL
+2023-12-29,home front command,0.7,IL
+2023-12-30,home front command,1.0,IL
+2023-12-31,home front command,0.7,IL
+2023-09-01,telegram news,0.5,IL
+2023-09-02,telegram news,0.9,IL
+2023-09-03,telegram news,0.9,IL
+2023-09-04,telegram news,0.9,IL
+2023-09-05,telegram news,0.3,IL
+2023-09-06,telegram news,0.9,IL
+2023-09-07,telegram news,0.4,IL
+2023-09-08,telegram news,1.0,IL
+2023-09-09,telegram news,1.1,IL
+2023-09-10,telegram news,1.3,IL
+2023-09-11,telegram news,1.1,IL
+2023-09-12,telegram news,1.2,IL
+2023-09-13,telegram news,1.6,IL
+2023-09-14,telegram news,0.9,IL
+2023-09-15,telegram news,1.2,IL
+2023-09-16,telegram news,0.6,IL
+2023-09-17,telegram news,1.1,IL
+2023-09-18,telegram news,0.8,IL
+2023-09-19,telegram news,0.5,IL
+2023-09-20,telegram news,0.6,IL
+2023-09-21,telegram news,0.8,IL
+2023-09-22,telegram news,0.5,IL
+2023-09-23,telegram news,0.6,IL
+2023-09-24,telegram news,1.3,IL
+2023-09-25,telegram news,1.3,IL
+2023-09-26,telegram news,0.4,IL
+2023-09-27,telegram news,0.6,IL
+2023-09-28,telegram news,1.5,IL
+2023-09-29,telegram news,1.1,IL
+2023-09-30,telegram news,0.5,IL
+2023-10-01,telegram news,0.7,IL
+2023-10-02,telegram news,0.7,IL
+2023-10-03,telegram news,1.2,IL
+2023-10-04,telegram news,1.2,IL
+2023-10-05,telegram news,0.3,IL
+2023-10-06,telegram news,99.9,IL
+2023-10-07,telegram news,100.0,IL
+2023-10-08,telegram news,68.8,IL
+2023-10-09,telegram news,46.1,IL
+2023-10-10,telegram news,31.0,IL
+2023-10-11,telegram news,20.2,IL
+2023-10-12,telegram news,12.4,IL
+2023-10-13,telegram news,7.0,IL
+2023-10-14,telegram news,3.0,IL
+2023-10-15,telegram news,0.4,IL
+2023-10-16,telegram news,1.1,IL
+2023-10-17,telegram news,1.0,IL
+2023-10-18,telegram news,1.2,IL
+2023-10-19,telegram news,0.9,IL
+2023-10-20,telegram news,0.2,IL
+2023-10-21,telegram news,0.9,IL
+2023-10-22,telegram news,0.5,IL
+2023-10-23,telegram news,1.0,IL
+2023-10-24,telegram news,1.0,IL
+2023-10-25,telegram news,0.3,IL
+2023-10-26,telegram news,36.7,IL
+2023-10-27,telegram news,36.0,IL
+2023-10-28,telegram news,24.0,IL
+2023-10-29,telegram news,14.1,IL
+2023-10-30,telegram news,8.1,IL
+2023-10-31,telegram news,3.7,IL
+2023-11-01,telegram news,0.7,IL
+2023-11-02,telegram news,0.7,IL
+2023-11-03,telegram news,0.9,IL
+2023-11-04,telegram news,1.1,IL
+2023-11-05,telegram news,0.3,IL
+2023-11-06,telegram news,1.2,IL
+2023-11-07,telegram news,1.0,IL
+2023-11-08,telegram news,0.8,IL
+2023-11-09,telegram news,0.6,IL
+2023-11-10,telegram news,0.7,IL
+2023-11-11,telegram news,0.8,IL
+2023-11-12,telegram news,0.9,IL
+2023-11-13,telegram news,0.5,IL
+2023-11-14,telegram news,1.2,IL
+2023-11-15,telegram news,0.9,IL
+2023-11-16,telegram news,0.3,IL
+2023-11-17,telegram news,1.1,IL
+2023-11-18,telegram news,0.9,IL
+2023-11-19,telegram news,1.2,IL
+2023-11-20,telegram news,0.3,IL
+2023-11-21,telegram news,0.6,IL
+2023-11-22,telegram news,0.8,IL
+2023-11-23,telegram news,29.1,IL
+2023-11-24,telegram news,29.7,IL
+2023-11-25,telegram news,18.9,IL
+2023-11-26,telegram news,10.8,IL
+2023-11-27,telegram news,6.0,IL
+2023-11-28,telegram news,1.9,IL
+2023-11-29,telegram news,1.3,IL
+2023-11-30,telegram news,21.4,IL
+2023-12-01,telegram news,22.7,IL
+2023-12-02,telegram news,13.4,IL
+2023-12-03,telegram news,7.9,IL
+2023-12-04,telegram news,3.0,IL
+2023-12-05,telegram news,1.2,IL
+2023-12-06,telegram news,1.3,IL
+2023-12-07,telegram news,1.2,IL
+2023-12-08,telegram news,0.4,IL
+2023-12-09,telegram news,0.9,IL
+2023-12-10,telegram news,0.7,IL
+2023-12-11,telegram news,0.4,IL
+2023-12-12,telegram news,1.3,IL
+2023-12-13,telegram news,0.9,IL
+2023-12-14,telegram news,0.9,IL
+2023-12-15,telegram news,0.9,IL
+2023-12-16,telegram news,0.7,IL
+2023-12-17,telegram news,0.8,IL
+2023-12-18,telegram news,0.0,IL
+2023-12-19,telegram news,1.0,IL
+2023-12-20,telegram news,0.8,IL
+2023-12-21,telegram news,0.7,IL
+2023-12-22,telegram news,1.0,IL
+2023-12-23,telegram news,1.5,IL
+2023-12-24,telegram news,0.8,IL
+2023-12-25,telegram news,1.4,IL
+2023-12-26,telegram news,0.8,IL
+2023-12-27,telegram news,0.1,IL
+2023-12-28,telegram news,0.7,IL
+2023-12-29,telegram news,0.8,IL
+2023-12-30,telegram news,0.8,IL
+2023-12-31,telegram news,0.7,IL
+2023-09-01,Israel news,1.2,IL
+2023-09-02,Israel news,1.7,IL
+2023-09-03,Israel news,0.9,IL
+2023-09-04,Israel news,1.2,IL
+2023-09-05,Israel news,0.5,IL
+2023-09-06,Israel news,1.3,IL
+2023-09-07,Israel news,1.0,IL
+2023-09-08,Israel news,0.8,IL
+2023-09-09,Israel news,0.8,IL
+2023-09-10,Israel news,0.7,IL
+2023-09-11,Israel news,1.6,IL
+2023-09-12,Israel news,0.8,IL
+2023-09-13,Israel news,1.4,IL
+2023-09-14,Israel news,1.1,IL
+2023-09-15,Israel news,1.0,IL
+2023-09-16,Israel news,1.0,IL
+2023-09-17,Israel news,1.2,IL
+2023-09-18,Israel news,0.8,IL
+2023-09-19,Israel news,0.4,IL
+2023-09-20,Israel news,1.0,IL
+2023-09-21,Israel news,0.6,IL
+2023-09-22,Israel news,0.6,IL
+2023-09-23,Israel news,1.0,IL
+2023-09-24,Israel news,1.8,IL
+2023-09-25,Israel news,0.9,IL
+2023-09-26,Israel news,0.9,IL
+2023-09-27,Israel news,0.6,IL
+2023-09-28,Israel news,1.0,IL
+2023-09-29,Israel news,1.5,IL
+2023-09-30,Israel news,0.3,IL
+2023-10-01,Israel news,1.5,IL
+2023-10-02,Israel news,1.1,IL
+2023-10-03,Israel news,1.5,IL
+2023-10-04,Israel news,1.1,IL
+2023-10-05,Israel news,0.4,IL
+2023-10-06,Israel news,99.6,IL
+2023-10-07,Israel news,100.0,IL
+2023-10-08,Israel news,67.8,IL
+2023-10-09,Israel news,45.6,IL
+2023-10-10,Israel news,30.9,IL
+2023-10-11,Israel news,19.8,IL
+2023-10-12,Israel news,12.6,IL
+2023-10-13,Israel news,7.3,IL
+2023-10-14,Israel news,3.0,IL
+2023-10-15,Israel news,0.3,IL
+2023-10-16,Israel news,0.9,IL
+2023-10-17,Israel news,0.7,IL
+2023-10-18,Israel news,1.1,IL
+2023-10-19,Israel news,1.0,IL
+2023-10-20,Israel news,0.6,IL
+2023-10-21,Israel news,1.2,IL
+2023-10-22,Israel news,0.2,IL
+2023-10-23,Israel news,0.5,IL
+2023-10-24,Israel news,1.2,IL
+2023-10-25,Israel news,0.0,IL
+2023-10-26,Israel news,35.9,IL
+2023-10-27,Israel news,35.9,IL
+2023-10-28,Israel news,23.6,IL
+2023-10-29,Israel news,13.9,IL
+2023-10-30,Israel news,8.5,IL
+2023-10-31,Israel news,3.7,IL
+2023-11-01,Israel news,0.7,IL
+2023-11-02,Israel news,1.1,IL
+2023-11-03,Israel news,0.9,IL
+2023-11-04,Israel news,1.0,IL
+2023-11-05,Israel news,0.4,IL
+2023-11-06,Israel news,0.9,IL
+2023-11-07,Israel news,1.2,IL
+2023-11-08,Israel news,0.6,IL
+2023-11-09,Israel news,1.2,IL
+2023-11-10,Israel news,0.7,IL
+2023-11-11,Israel news,1.4,IL
+2023-11-12,Israel news,1.4,IL
+2023-11-13,Israel news,0.5,IL
+2023-11-14,Israel news,1.5,IL
+2023-11-15,Israel news,0.8,IL
+2023-11-16,Israel news,0.7,IL
+2023-11-17,Israel news,1.3,IL
+2023-11-18,Israel news,0.7,IL
+2023-11-19,Israel news,1.3,IL
+2023-11-20,Israel news,0.7,IL
+2023-11-21,Israel news,0.3,IL
+2023-11-22,Israel news,0.3,IL
+2023-11-23,Israel news,28.8,IL
+2023-11-24,Israel news,29.3,IL
+2023-11-25,Israel news,18.9,IL
+2023-11-26,Israel news,10.4,IL
+2023-11-27,Israel news,6.6,IL
+2023-11-28,Israel news,2.0,IL
+2023-11-29,Israel news,0.9,IL
+2023-11-30,Israel news,21.7,IL
+2023-12-01,Israel news,22.1,IL
+2023-12-02,Israel news,13.1,IL
+2023-12-03,Israel news,7.8,IL
+2023-12-04,Israel news,3.3,IL
+2023-12-05,Israel news,1.5,IL
+2023-12-06,Israel news,1.6,IL
+2023-12-07,Israel news,1.4,IL
+2023-12-08,Israel news,0.9,IL
+2023-12-09,Israel news,0.9,IL
+2023-12-10,Israel news,0.9,IL
+2023-12-11,Israel news,0.0,IL
+2023-12-12,Israel news,1.6,IL
+2023-12-13,Israel news,0.6,IL
+2023-12-14,Israel news,1.5,IL
+2023-12-15,Israel news,0.9,IL
+2023-12-16,Israel news,0.2,IL
+2023-12-17,Israel news,1.4,IL
+2023-12-18,Israel news,0.1,IL
+2023-12-19,Israel news,0.9,IL
+2023-12-20,Israel news,1.1,IL
+2023-12-21,Israel news,1.1,IL
+2023-12-22,Israel news,0.9,IL
+2023-12-23,Israel news,1.7,IL
+2023-12-24,Israel news,0.9,IL
+2023-12-25,Israel news,1.1,IL
+2023-12-26,Israel news,0.6,IL
+2023-12-27,Israel news,0.7,IL
+2023-12-28,Israel news,1.1,IL
+2023-12-29,Israel news,0.6,IL
+2023-12-30,Israel news,1.4,IL
+2023-12-31,Israel news,1.1,IL
+2023-09-01,Iran attack,1.2,IL
+2023-09-02,Iran attack,2.0,IL
+2023-09-03,Iran attack,1.0,IL
+2023-09-04,Iran attack,0.7,IL
+2023-09-05,Iran attack,1.1,IL
+2023-09-06,Iran attack,1.9,IL
+2023-09-07,Iran attack,0.6,IL
+2023-09-08,Iran attack,1.8,IL
+2023-09-09,Iran attack,2.0,IL
+2023-09-10,Iran attack,1.3,IL
+2023-09-11,Iran attack,1.7,IL
+2023-09-12,Iran attack,0.7,IL
+2023-09-13,Iran attack,1.0,IL
+2023-09-14,Iran attack,1.2,IL
+2023-09-15,Iran attack,0.8,IL
+2023-09-16,Iran attack,1.1,IL
+2023-09-17,Iran attack,1.5,IL
+2023-09-18,Iran attack,1.9,IL
+2023-09-19,Iran attack,0.3,IL
+2023-09-20,Iran attack,0.5,IL
+2023-09-21,Iran attack,1.8,IL
+2023-09-22,Iran attack,0.2,IL
+2023-09-23,Iran attack,1.2,IL
+2023-09-24,Iran attack,1.2,IL
+2023-09-25,Iran attack,1.7,IL
+2023-09-26,Iran attack,0.9,IL
+2023-09-27,Iran attack,0.9,IL
+2023-09-28,Iran attack,1.0,IL
+2023-09-29,Iran attack,0.9,IL
+2023-09-30,Iran attack,0.9,IL
+2023-10-01,Iran attack,1.1,IL
+2023-10-02,Iran attack,2.1,IL
+2023-10-03,Iran attack,1.9,IL
+2023-10-04,Iran attack,1.1,IL
+2023-10-05,Iran attack,0.0,IL
+2023-10-06,Iran attack,99.2,IL
+2023-10-07,Iran attack,100.0,IL
+2023-10-08,Iran attack,68.8,IL
+2023-10-09,Iran attack,45.6,IL
+2023-10-10,Iran attack,31.9,IL
+2023-10-11,Iran attack,20.3,IL
+2023-10-12,Iran attack,12.6,IL
+2023-10-13,Iran attack,6.9,IL
+2023-10-14,Iran attack,3.7,IL
+2023-10-15,Iran attack,0.6,IL
+2023-10-16,Iran attack,0.8,IL
+2023-10-17,Iran attack,1.3,IL
+2023-10-18,Iran attack,1.0,IL
+2023-10-19,Iran attack,1.9,IL
+2023-10-20,Iran attack,1.4,IL
+2023-10-21,Iran attack,1.2,IL
+2023-10-22,Iran attack,0.3,IL
+2023-10-23,Iran attack,1.3,IL
+2023-10-24,Iran attack,1.4,IL
+2023-10-25,Iran attack,1.2,IL
+2023-10-26,Iran attack,36.0,IL
+2023-10-27,Iran attack,36.2,IL
+2023-10-28,Iran attack,24.1,IL
+2023-10-29,Iran attack,14.7,IL
+2023-10-30,Iran attack,7.9,IL
+2023-10-31,Iran attack,5.0,IL
+2023-11-01,Iran attack,1.7,IL
+2023-11-02,Iran attack,1.4,IL
+2023-11-03,Iran attack,2.0,IL
+2023-11-04,Iran attack,1.2,IL
+2023-11-05,Iran attack,1.0,IL
+2023-11-06,Iran attack,1.7,IL
+2023-11-07,Iran attack,1.1,IL
+2023-11-08,Iran attack,0.6,IL
+2023-11-09,Iran attack,1.3,IL
+2023-11-10,Iran attack,1.4,IL
+2023-11-11,Iran attack,0.7,IL
+2023-11-12,Iran attack,1.7,IL
+2023-11-13,Iran attack,0.8,IL
+2023-11-14,Iran attack,1.0,IL
+2023-11-15,Iran attack,1.1,IL
+2023-11-16,Iran attack,0.2,IL
+2023-11-17,Iran attack,1.6,IL
+2023-11-18,Iran attack,1.6,IL
+2023-11-19,Iran attack,1.1,IL
+2023-11-20,Iran attack,1.3,IL
+2023-11-21,Iran attack,0.4,IL
+2023-11-22,Iran attack,1.2,IL
+2023-11-23,Iran attack,30.0,IL
+2023-11-24,Iran attack,29.1,IL
+2023-11-25,Iran attack,19.6,IL
+2023-11-26,Iran attack,11.2,IL
+2023-11-27,Iran attack,6.7,IL
+2023-11-28,Iran attack,2.0,IL
+2023-11-29,Iran attack,1.2,IL
+2023-11-30,Iran attack,22.3,IL
+2023-12-01,Iran attack,22.3,IL
+2023-12-02,Iran attack,13.0,IL
+2023-12-03,Iran attack,9.1,IL
+2023-12-04,Iran attack,3.2,IL
+2023-12-05,Iran attack,1.4,IL
+2023-12-06,Iran attack,2.2,IL
+2023-12-07,Iran attack,1.0,IL
+2023-12-08,Iran attack,0.7,IL
+2023-12-09,Iran attack,1.5,IL
+2023-12-10,Iran attack,0.8,IL
+2023-12-11,Iran attack,1.0,IL
+2023-12-12,Iran attack,1.5,IL
+2023-12-13,Iran attack,1.4,IL
+2023-12-14,Iran attack,1.1,IL
+2023-12-15,Iran attack,1.3,IL
+2023-12-16,Iran attack,1.3,IL
+2023-12-17,Iran attack,1.5,IL
+2023-12-18,Iran attack,0.9,IL
+2023-12-19,Iran attack,0.8,IL
+2023-12-20,Iran attack,1.0,IL
+2023-12-21,Iran attack,1.7,IL
+2023-12-22,Iran attack,1.9,IL
+2023-12-23,Iran attack,1.5,IL
+2023-12-24,Iran attack,0.8,IL
+2023-12-25,Iran attack,1.9,IL
+2023-12-26,Iran attack,0.5,IL
+2023-12-27,Iran attack,0.5,IL
+2023-12-28,Iran attack,1.8,IL
+2023-12-29,Iran attack,1.3,IL
+2023-12-30,Iran attack,2.0,IL
+2023-12-31,Iran attack,1.5,IL
