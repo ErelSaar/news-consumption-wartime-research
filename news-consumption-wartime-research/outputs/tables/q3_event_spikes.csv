@@ -1,9 +1,0 @@
-event_name,event_date,platform,baseline_avg,event_window_avg,spike_ratio
-October 7 Attack,2023-10-07,RSS,363.5,1765.8,4.86
-October 7 Attack,2023-10-07,Telegram,246.5,1159.5,4.7
-Ground Operation Begins,2023-10-27,RSS,284.3,701.8,2.47
-Ground Operation Begins,2023-10-27,Telegram,177.6,443.8,2.5
-First Hostage Release Deal Begins,2023-11-24,RSS,253.0,583.2,2.31
-First Hostage Release Deal Begins,2023-11-24,Telegram,157.4,376.0,2.39
-Temporary Ceasefire Ends,2023-12-01,RSS,402.5,442.0,1.1
-Temporary Ceasefire Ends,2023-12-01,Telegram,260.3,301.5,1.16
